@@ -4,7 +4,12 @@
       "Bash(ls:*)",
       "Bash(find:*)",
       "Bash(claude mcp add:*)",
-      "mcp__notion__notion-create-pages"
+      "mcp__notion__notion-create-pages",
+      "Bash(grep:*)",
+      "Bash(wc:*)",
+      "Bash(head:*)",
+      "Bash(cat:*)",
+      "Bash(\"/Users/tlej/Works (Local)/Vibe Docs/The Trophy (C Rewards)/Deliverables/Proposal-TH.md\")"
     ]
   }
 }
