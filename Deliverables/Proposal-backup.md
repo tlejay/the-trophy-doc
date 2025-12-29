@@ -1,11 +1,11 @@
-# THE TROPHY: Gamified Loyalty & Engagement Ecosystem
+# C-REWARDS: Gamified Loyalty & Engagement Ecosystem
 ## Project Proposal
 
 **Prepared for:** [Client Name]
 **Prepared by:** Digitalmedia Outsource Solution Co., Ltd. (DOS)
-**Date:** December 27, 2025
-**Proposal Version:** 2.0
-**Valid Until:** March 27, 2026
+**Date:** December 25, 2025
+**Proposal Version:** 1.3
+**Valid Until:** March 25, 2026
 
 ---
 
@@ -17,7 +17,6 @@
 | 1.1 | Dec 25, 2025 | Jakapong (TLE) | Review by COO | Internal Review |
 | 1.2 | Dec 25, 2025 | DOS Team | Update from feedback | Ready for Client Review |
 | 1.3 | Dec 25, 2025 | DOS Team | Simplified tiering system to 2 levels (Standard/Exclusive) | Ready for Client Review |
-| 2.0 | Dec 27, 2025 | DOS Team | Updated based on Meeting Note 3 - Project renamed to "The Trophy", added point transfer, wallet clarification, adjusted phases, QR recommendations | Ready for Client Review |
 
 ---
 
@@ -25,7 +24,7 @@
 
 ### The Opportunity
 
-**The Trophy** represents a transformative approach to fan engagement and loyalty management. Rather than a simple points accumulation app, The Trophy functions as a **comprehensive Gamified Experience Platform** that creates sustainable value connections between:
+**C-REWARDS** represents a transformative approach to fan engagement and loyalty management. Rather than a simple points accumulation app, C-REWARDS functions as a **comprehensive Gamified Experience Platform** that creates sustainable value connections between:
 
 - **Sports Organizations** (Football Clubs / Event Organizers)
 - **Business Partners** (Retail, Service Providers, Sponsors)
@@ -39,28 +38,16 @@ The platform transforms everyday fan activities into measurable business value t
 - **Robust Fraud Prevention Systems** (Anti-gaming mechanics)
 - **White-Label Architecture** (Brand-agnostic for maximum scalability)
 - **Data-Driven Insights** (Real-time analytics and ROI tracking)
-- **Trophy Wallet System** (Integrated point management with transfer capabilities)
 
 ### Implementation Approach
 
-To minimize risk and maximize early value delivery, we propose a **phased implementation roadmap** that aligns with your strategic vision:
+To minimize risk and maximize early value delivery, we propose a **three-phase implementation roadmap**:
 
-**Customer's Proposed Phases:**
-1. MVP
-2. Automation / Scaling
-3. Ecosystem Expansion
-
-**Our Recommended Approach (Mapped):**
 1. **Phase 1: Proof of Concept (POC)** - THB 1,000,000
-   - *Added before MVP to validate core technology and reduce risk*
 2. **Phase 2: Minimum Viable Product (MVP)** - THB 3,000,000 - 5,000,000
-   - *Aligns with your MVP phase*
 3. **Phase 3: Full-Scale Ecosystem** - THB ~10,000,000
-   - *Combines your "Automation/Scaling" + "Ecosystem Expansion" phases*
 
 This phased approach allows for validated learning, controlled budget deployment, and measurable ROI at each stage.
-
-*Note: We strongly recommend including the POC phase to validate technical feasibility (especially location-based missions and Trophy Wallet integration) before full MVP investment. This minimizes risk and ensures the business model is proven with minimal cost.*
 
 ---
 
@@ -90,9 +77,9 @@ Sports organizations and membership-based businesses face critical challenges in
 - Limited monetization of fan loyalty and engagement
 - Inability to create new revenue streams from existing resources
 
-### 1.2 The Trophy Solution
+### 1.2 The C-REWARDS Solution
 
-The Trophy addresses these challenges through a comprehensive digital ecosystem that:
+C-REWARDS addresses these challenges through a comprehensive digital ecosystem that:
 
 **Creates Continuous Engagement**
 - Mission-based gamification keeps users engaged year-round
@@ -132,31 +119,31 @@ The Trophy addresses these challenges through a comprehensive digital ecosystem 
 
 ### 2.1 System Overview
 
-The Trophy ecosystem consists of three integrated applications built on a unified backend infrastructure:
+The C-REWARDS ecosystem consists of three integrated applications built on a unified backend infrastructure:
 
 ```mermaid
 graph TD
-    subgraph "THE TROPHY ECOSYSTEM"
+    subgraph "C-REWARDS ECOSYSTEM"
         direction TB
-
+        
         %% Top Layer: Front-end
         C1["Customer<br>Application<br>(Flutter)"]
         C2["Partner<br>Application<br>(Flutter)"]
         C3["Admin<br>Console<br>(Web-based)"]
-
+        
         %% Middle Layer: Backend
         API["Backend API<br>(Laravel)"]
-
+        
         %% Bottom Layer: Infrastructure/Services
         DB["Database<br>(Postgres<br>+Mongo)"]
         LOC["Location<br>Services<br>(GCP)"]
         AN["Analytics<br>Engine"]
-
+        
         %% Connections
         C1 --> API
         C2 --> API
         C3 --> API
-
+        
         API --> DB
         API --> LOC
         API --> AN
@@ -168,17 +155,6 @@ graph TD
 **Target Users:** Fans, Members, General Public
 
 **Core Features:**
-
-**Trophy Wallet System**
-- **Awards Points Management:** Central wallet for all earned points
-- **Point Transfer (Inbound & Outbound):**
-  - Transfer points to/from partner loyalty programs
-  - Integration with credit card reward systems
-  - Point exchange with external ecosystems
-- **Transaction History:** Complete audit trail of all point movements
-- **Balance Overview:** Real-time point balance and valuation
-
-*Note: Point transfer feature will be designed with economic controls to prevent abuse and maintain point value stability. Transfer limits and validation rules will be configurable by admin.*
 
 **Mission Center**
 - **Location-Based Missions:** Check-in at partner locations using precision KML/Polygon geofencing (not simple radius)
@@ -206,13 +182,6 @@ graph TD
 - Leaderboard rankings (optional competitive element)
 - Preference management and notification settings
 
-**Authentication**
-- **Mobile Number (Primary):** Phone number-based authentication
-- **Change Mobile Number:** Allow users to update their registered phone number securely
-- One-Time Password (OTP) verification
-
-*Note: We recommend mobile number authentication only (not social login) for better security, data consistency, and fraud prevention. The "Change Mobile Number" feature addresses concerns about users switching phone numbers.*
-
 **Technical Highlights:**
 - Built with Flutter for native performance on iOS and Android
 - Real-time data synchronization with backend
@@ -225,25 +194,17 @@ graph TD
 
 **Core Features:**
 
-**QR Scanner & Validation (Hybrid Earn & Redeem)**
-- **Recommended Approach:** Hybrid QR system for streamlined operations
-  - Single QR code for both earning points and redemption
-  - Partner staff can award points or redeem rewards in one scan
-  - Reduces friction and improves user experience
+**QR Scanner & Validation**
 - Scan user QR codes to verify identity and eligibility
 - Award points for completed missions (e.g., car wash service)
 - Redeem user coupons and benefits
 - Offline operation with sync capability
-
-*Note: Detailed QR code flow comparison and analysis available in `Deliverables/Research/QR-Code-Flow-Comparison-Analysis.md`. We recommend the Hybrid approach for optimal speed and convenience.*
 
 **Mission Verification**
 - Photo mission approval interface
 - Manual verification for complex missions
 - Rejection with reason feedback to users
 - Batch approval capabilities
-
-*Note: We propose using partner staff for photo verification rather than pure AI-based object detection. This provides: (1) Cost savings on AI development and maintenance, (2) Better accuracy through human judgment, (3) Human touch and engagement between partner staff and end users. AI-assisted verification can be added in later phases if needed.*
 
 **Partner Dashboard (Light)**
 - Daily/weekly statistics on customer engagement
@@ -308,12 +269,6 @@ graph TD
 - Tier management and manual upgrades (Standard/Exclusive)
 - Customer support ticketing interface
 
-**Trophy Wallet Admin**
-- Point transfer monitoring and approval (if required)
-- External ecosystem integration management
-- Transfer limits and rules configuration
-- Economic health monitoring (point liability, circulation)
-
 **Analytics & Reporting**
 - Custom report builder
 - Export capabilities (CSV, PDF)
@@ -331,24 +286,7 @@ graph TD
 
 ## 3. Implementation Roadmap & Phasing
 
-### 3.1 Phase Mapping: Customer Vision to DOS Approach
-
-**Customer's Proposed Phases:**
-1. **MVP** - Core functionality launch
-2. **Automation / Scaling** - Operational efficiency and capacity expansion
-3. **Ecosystem Expansion** - Partner network and feature growth
-
-**DOS Recommended Phases (Mapped to Customer Vision):**
-
-| Customer Phase | DOS Phase | Rationale |
-|----------------|-----------|-----------|
-| *(Recommended Pre-MVP)* | **1: POC** | Validate core technology before full investment |
-| **MVP** | **2: MVP** | Direct alignment with customer's MVP vision |
-| **Automation / Scaling** + **Ecosystem Expansion** | **3: Full-Scale Ecosystem** | Combined into single comprehensive phase for efficiency |
-
-*Note: We've carefully mapped our phased approach to your strategic vision. The POC phase is an added recommendation to de-risk the project. Phase 3 combines your "Automation/Scaling" and "Ecosystem Expansion" as they share infrastructure and can be developed more efficiently together.*
-
-### 3.2 Phase 1: Proof of Concept (POC)
+### 3.1 Phase 1: Proof of Concept (POC)
 
 **Objective:** Validate core technology feasibility and business model assumptions with minimal investment.
 
@@ -359,11 +297,10 @@ graph TD
 **Key Deliverables:**
 
 **Customer App (Basic)**
-- User registration and authentication (mobile number)
+- User registration and authentication
 - Simple location-based check-in (using basic geofencing)
 - Point accumulation display
 - Basic profile management
-- Trophy Wallet prototype (view balance, basic transaction history)
 
 **Partner App (Prototype)**
 - QR scanner for user verification
@@ -396,11 +333,10 @@ graph TD
 - Two-tier membership system
 - Reward redemption
 - Advanced analytics
-- Point transfer functionality
 - Production-grade security hardening
 - Publishing to App Store / Play Store (testing via TestFlight/Internal Testing only)
 
-### 3.3 Phase 2: Minimum Viable Product (MVP)
+### 3.2 Phase 2: Minimum Viable Product (MVP)
 
 **Objective:** Launch production-ready system with core features for real-world user acquisition and partner onboarding.
 
@@ -417,15 +353,10 @@ graph TD
 - Enhanced UI/UX with onboarding flow
 - Push notifications for missions and rewards
 - Social sharing capabilities
-- **Trophy Wallet (Full):**
-  - Complete point management
-  - Point transfer (Inbound/Outbound) with partner ecosystems
-  - Transaction history and export
-  - Transfer limits and validation
 
 **Partner App (Full)**
-- QR scanning for both validation and redemption (Hybrid approach)
-- Photo mission approval interface (staff verification)
+- QR scanning for both validation and redemption
+- Photo mission approval interface
 - Partner dashboard with basic analytics
 - Daily/weekly reports
 
@@ -437,7 +368,6 @@ graph TD
 - Partner onboarding and management
 - Basic fraud detection alerts
 - User support tools
-- Trophy Wallet admin controls (transfer monitoring, limits)
 
 **Backend Infrastructure (Scalable)**
 - Production-grade API with authentication and authorization
@@ -477,11 +407,9 @@ graph TD
 - Advanced personalization engine
 - Third-party integrations (CRM, marketing automation)
 
-### 3.4 Phase 3: Full-Scale Ecosystem
+### 3.3 Phase 3: Full-Scale Ecosystem
 
 **Objective:** Build comprehensive platform with advanced features, scalability for multiple deployments, and sophisticated analytics.
-
-**Customer Vision Alignment:** This phase combines your "Automation / Scaling" and "Ecosystem Expansion" phases into a unified development effort.
 
 **Duration:** 24-30 weeks
 
@@ -499,23 +427,12 @@ graph TD
   - Real-time point redemption (not pre-set discount vouchers)
   - Dynamic pricing and point value calculations
 
-**Platform Scalability (Automation / Scaling)**
+**Platform Scalability**
 - Multi-tenant white-label architecture
 - Organization-level customization (themes, branding)
 - API for third-party integrations
 - Webhook support for external systems
 - Multi-language support (beyond Thai/English)
-- Automated partner onboarding workflows
-- Auto-scaling infrastructure
-
-**Ecosystem Expansion**
-- Advanced Trophy Wallet integrations
-  - Credit card reward systems
-  - Banking loyalty programs
-  - Multi-brand point exchanges
-- Expanded partner network tools
-- API marketplace for third-party developers
-- Cross-ecosystem point transfer protocols
 
 **Analytics & Intelligence**
 - Predictive analytics for point liability forecasting
@@ -728,9 +645,6 @@ graph TD
 - **Redemption Limits:** Cap total point redemption value per user per month
 - **Reserve Ratio:** Maintain financial reserves proportional to outstanding points
 - **Inflation Control:** Monitor point circulation and adjust mission rewards dynamically
-- **Transfer Controls:** Point transfer limits to prevent economic abuse
-
-*Note: Point transfer feature will include strict economic controls including: (1) Daily/monthly transfer limits per user, (2) Transfer fees to discourage abuse, (3) Admin approval for large transfers (optional), (4) Real-time monitoring of transfer patterns for fraud detection. These controls protect the point economy while enabling ecosystem integration.*
 
 **Point Economy Balancing**
 
@@ -741,7 +655,6 @@ graph TD
 - **Velocity:** Average time between point award and redemption
 - **Inflation Rate:** Growth rate of total outstanding points
 - **Redemption Ratio:** Target 60-80% of points redeemed before expiry
-- **Transfer Volume:** Monitor inbound/outbound point transfers
 
 **Tools:**
 - Real-time economic dashboard
@@ -807,16 +720,6 @@ graph TD
   - Regular stakeholder alignment meetings
   - Contingency buffer in budget (10-15%)
 
-### 5.5 Feature Concerns & Recommendations
-
-**Send Points to Friends**
-
-*Note: This feature raises concerns about point economy stability. Peer-to-peer transfers can enable: (1) Point farming through multi-account abuse, (2) Uncontrolled point circulation affecting economic balance, (3) Gray market point trading. If this feature is required, we recommend implementing it in Phase 3 with strict controls: transfer limits, transaction fees, cooling periods, and fraud monitoring.*
-
-**In-App Marketplace (Buy Items for Quests)**
-
-*Note: We strongly advise against implementing a marketplace where users can purchase items to help complete quests. This creates a "Pay-to-Win" dynamic that: (1) Reduces campaign engagement and authenticity, (2) Undermines the mission-based gamification model, (3) Creates unfair advantage for paying users. We recommend keeping the platform skill/engagement-based rather than purchase-based.*
-
 ---
 
 ## 6. Business Model & ROI Framework
@@ -849,7 +752,7 @@ graph TD
 
 **ROI Calculation:**
 ```
-Partner ROI = (Revenue from Trophy users - Point costs - Integration costs) / Total investment
+Partner ROI = (Revenue from C-REWARDS users - Point costs - Integration costs) / Total investment
 
 Example:
 - Car wash partner: 100 users × THB 200 avg. spend = THB 20,000 revenue
@@ -866,7 +769,6 @@ Example:
 - **Gamified Fun:** Engaging missions and competitive elements
 - **Community Connection:** Feel part of larger fan community
 - **Personalized Benefits:** Tier-based rewards matching engagement level (Standard or Exclusive)
-- **Trophy Wallet:** Flexible point management and ecosystem connectivity
 
 **Value Perception:**
 - 100 points = ~THB 50 value in rewards
@@ -1002,7 +904,7 @@ Breakdown:
 
 ### 7.1 DOS Standard Working Process
 
-The Trophy project will follow DOS's proven 8-phase methodology:
+The C-REWARDS project will follow DOS's proven 8-phase methodology:
 
 **Phase 1: NDA & Contract Signing**
 - Mutual non-disclosure agreement
@@ -1124,9 +1026,9 @@ For Phase 2:
 | Week | Milestone | Deliverable |
 |------|-----------|-------------|
 | 1-3 | Design & Architecture | Full UI/UX design, database design, API specs |
-| 4-8 | Customer App Development | All mission types, rewards, tiering, Trophy Wallet |
+| 4-8 | Customer App Development | All mission types, rewards, tiering |
 | 9-12 | Partner App & Admin Console | Full partner tools, comprehensive admin features |
-| 13-15 | Integration & Security | Point transfer integration, fraud prevention, security hardening |
+| 13-15 | Integration & Security | Payment integration, fraud prevention, security hardening |
 | 16-17 | Testing | UAT, SIT, load testing, security testing |
 | 18-20 | Beta Launch & Refinement | Beta user onboarding, monitoring, optimization |
 
@@ -1362,7 +1264,7 @@ The phased approach allows for controlled expansion. Below are potential enhance
 
 **API Marketplace**
 - Open API for third-party developers
-- Partner apps can integrate The Trophy loyalty
+- Partner apps can integrate C-REWARDS loyalty
 - Ecosystem expansion without direct development
 
 **Corporate Partnerships**
@@ -1486,7 +1388,7 @@ The phased approach allows for controlled expansion. Below are potential enhance
 
 ---
 
-## 11. Why Choose DOS for The Trophy?
+## 11. Why Choose DOS for C-REWARDS?
 
 ### 11.1 Proven Expertise in Loyalty Systems
 
@@ -1558,13 +1460,12 @@ DOS has successfully delivered multiple loyalty and rewards platforms for major 
 
 ## 12. Frequently Asked Questions (FAQ)
 
-### Q1: What makes The Trophy different from existing loyalty apps?
+### Q1: What makes C-REWARDS different from existing loyalty apps?
 
-**A:** The Trophy combines three unique elements:
+**A:** C-REWARDS combines three unique elements:
 1. **Gamified Mission System:** Beyond simple purchases, users earn points through location-based check-ins, photo missions, and event participation
 2. **White-Label Flexibility:** Platform remains brand-neutral, allowing diverse partners and users without rivalry conflicts
 3. **Precision Location Technology:** Uses KML/Polygon geofencing, not simple radius, for accurate and fraud-resistant check-ins
-4. **Trophy Wallet:** Integrated point transfer system connecting multiple loyalty ecosystems
 
 ### Q2: How do you prevent users from faking their location?
 
@@ -1659,58 +1560,35 @@ We strongly recommend cloud hosting (GCP/AWS) for optimal performance, reliabili
 
 We're committed to transparent communication and will flag any risks early to avoid surprises.
 
-### Q13: How does point transfer work in the Trophy Wallet?
-
-**A:** Point transfer enables ecosystem connectivity:
-- **Inbound:** Receive points from partner loyalty programs, credit card rewards, etc.
-- **Outbound:** Transfer your Trophy points to external systems
-- **Controls:** Daily/monthly limits, transfer fees, admin monitoring
-- **Security:** Multi-factor verification for large transfers
-- **Integration:** API-based connections with partner systems
-
-*Note: Point transfer will be implemented with strict economic controls to maintain point value stability and prevent abuse.*
-
-### Q14: Why do you recommend mobile number authentication over social login?
-
-**A:** Mobile number authentication provides:
-- **Better Security:** Harder to create fake accounts, easier to verify real users
-- **Data Consistency:** More reliable contact information for notifications and support
-- **Fraud Prevention:** One phone number = one account (with change number feature for legitimate needs)
-- **PDPA Compliance:** Simpler data privacy management
-- **Local Context:** Mobile numbers are universal in Thailand, social media accounts vary
-
-We include "Change Mobile Number" functionality to address concerns about users switching phone numbers.
-
 ---
 
 ## 13. Conclusion & Call to Action
 
 ### 13.1 Summary
 
-The **Trophy Gamified Loyalty & Engagement Ecosystem** represents a strategic opportunity to:
+The **C-REWARDS Gamified Loyalty & Engagement Ecosystem** represents a strategic opportunity to:
 
 - Transform fan engagement from passive to active, year-round participation
 - Create measurable value for business partners through targeted customer acquisition
 - Unlock new revenue streams from existing organizational assets
 - Build a scalable, white-label platform with multi-tenant potential
-- Enable ecosystem connectivity through the Trophy Wallet
 
 Through a **phased, risk-mitigated approach**, DOS proposes starting with a **THB 1,000,000 Proof of Concept** to validate core technology and business assumptions before committing to full-scale development.
 
-With **10+ years of proven experience**, expertise in **loyalty systems**, and a **conservative, client-centric philosophy**, DOS is uniquely positioned to deliver a successful Trophy platform that meets business objectives within budget and timeline constraints.
+With **10+ years of proven experience**, expertise in **loyalty systems**, and a **conservative, client-centric philosophy**, DOS is uniquely positioned to deliver a successful C-REWARDS platform that meets business objectives within budget and timeline constraints.
 
 ### 13.2 Investment Summary
 
 | Phase | Investment (THB) | Duration | Key Outcomes |
 |-------|------------------|----------|--------------|
 | **1: POC** | 1,000,000 | 8-10 weeks | Validated prototype, business model proof |
-| **2: MVP** | 3,000,000 - 5,000,000 | 16-20 weeks | Production launch, 5,000+ users, 20+ partners, Trophy Wallet |
-| **3: Full Scale** | ~10,000,000 | 24-30 weeks | Enterprise platform, AI features, multi-tenant, ecosystem expansion |
+| **2: MVP** | 3,000,000 - 5,000,000 | 16-20 weeks | Production launch, 5,000+ users, 20+ partners |
+| **3: Full Scale** | ~10,000,000 | 24-30 weeks | Enterprise platform, AI features, multi-tenant |
 | **Total (All Phases)** | **14,000,000 - 16,000,000** | **48-60 weeks** | **Complete ecosystem at scale** |
 
 ### 13.3 Next Steps - Let's Begin
 
-We invite you to take the first step in bringing The Trophy to life:
+We invite you to take the first step in bringing C-REWARDS to life:
 
 **Immediate Actions:**
 
@@ -1807,7 +1685,7 @@ Digitalmedia Outsource Solution Co., Ltd.
 - 40% monthly active user rate
 - Client satisfaction: Successful long-term engagement
 
-**Relevance to The Trophy:** Demonstrated DOS expertise in:
+**Relevance to C-REWARDS:** Demonstrated DOS expertise in:
 - Multi-partner ecosystem management
 - Point economy balancing
 - User engagement strategies
@@ -1833,8 +1711,6 @@ Digitalmedia Outsource Solution Co., Ltd.
 
 **SLA:** Service Level Agreement - commitment to service quality standards
 
-**Trophy Wallet:** Integrated point management system with transfer capabilities
-
 **UAT/SIT:** User Acceptance Testing / System Integration Testing - validation before launch
 
 **White-Label:** Product/platform that can be rebranded by different organizations
@@ -1846,8 +1722,8 @@ Digitalmedia Outsource Solution Co., Ltd.
 **Proposal Prepared By:**
 Digitalmedia Outsource Solution Co., Ltd. (DOS)
 
-**Date:** December 27, 2025
-**Version:** 2.0
+**Date:** December 25, 2025
+**Version:** 1.3
 **Validity:** 90 days from proposal date
 
 **Confidentiality Notice:**
@@ -1855,4 +1731,4 @@ This proposal and all associated materials are confidential and proprietary to D
 
 ---
 
-**Thank you for considering DOS as your technology partner for The Trophy ecosystem. We look forward to collaborating with you to create an innovative, impactful loyalty platform that drives measurable business value.**
+**Thank you for considering DOS as your technology partner for the C-REWARDS ecosystem. We look forward to collaborating with you to create an innovative, impactful loyalty platform that drives measurable business value.**
