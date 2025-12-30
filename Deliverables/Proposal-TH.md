@@ -1,10 +1,10 @@
-# THE TROPHY: ระบบภักดีและการมีส่วนร่วมแบบเกมมิฟิเคชัน
+# THE TROPHY: ระบบ Loyalty และการมีส่วนร่วมแบบ Gamification (TH)
 
 ## ข้อเสนอโครงการ
 
-**จัดทำให้กับ:** ________________________________________
+**จัดทำให้กับ:** 
 
-**จัดทำโดย:** บริษัท ดิจิตอลมีเดีย เอาต์ซอร์ส โซลูชั่น จำกัด (DOS)
+**จัดทำโดย:** บริษัท ดิจิทัลมีเดีย เอาท์ซอร์ส โซลูชั่น จำกัด (DOS)
 
 **วันที่:** 29 ธันวาคม 2568
 
@@ -20,9 +20,9 @@
 | --- | --- | --- | --- |
 | 1.0 | 25 ธ.ค. 2568 | ทีม DOS | ข้อเสนอเริ่มต้น |
 | 1.1 | 25 ธ.ค. 2568 | Jakapong L | ตรวจทาน |
-| 1.2 | 25 ธ.ค. 2568 | ทีม DOS | อัพเดทจากข้อเสนอแนะ |
-| 1.3 | 25 ธ.ค. 2568 | ทีม DOS | ปรับระบบ tiering เป็น 2 ระดับ (Standard/Exclusive) |
-| 2.0 | 27 ธ.ค. 2568 | ทีม DOS | อัพเดทตาม Meeting Note 3 - เปลี่ยนชื่อโครงการเป็น "The Trophy", เพิ่ม point transfer, ชี้แจง wallet, ปรับ phases, คำแนะนำ QR |
+| 1.2 | 25 ธ.ค. 2568 | ทีม DOS | อัปเดตจากข้อเสนอแนะ |
+| 1.3 | 25 ธ.ค. 2568 | ทีม DOS | ปรับระบบ Tiering เป็น 2 ระดับ (Standard / Exclusive) |
+| 2.0 | 27 ธ.ค. 2568 | ทีม DOS | อัปเดตตาม Meeting Note 3 – เปลี่ยนชื่อโครงการเป็น “The Trophy”, เพิ่ม Point Transfer, ชี้แจง Wallet, ปรับ Phases, คำแนะนำ QR |
 | 2.1 | 29 ธ.ค. 2568 | Jakapong L | ตรวจทานขั้นสุดท้าย |
 
 ---
@@ -31,25 +31,25 @@
 
 ### โอกาสทางธุรกิจ
 
-**The Trophy** เป็นแนวทางใหม่ที่เปลี่ยนแปลงการมีส่วนร่วมของแฟนและการจัดการความภักดี แทนที่จะเป็นแอปสะสมคะแนนธรรมดา The Trophy ทำหน้าที่เป็น **แพลตฟอร์มประสบการณ์เกมมิฟิเคชันที่ครอบคลุม** ซึ่งสร้างการเชื่อมต่อคุณค่าอย่างยั่งยืนระหว่าง:
+**The Trophy** เป็นแนวทางใหม่ที่ยกระดับการมีส่วนร่วมของแฟนและการบริหาร Loyalty แทนที่จะเป็นแอปสะสมคะแนนทั่วไป The Trophy ทำหน้าที่เป็น **แพลตฟอร์มประสบการณ์แบบ Gamification แบบครบวงจร** ซึ่งสร้างการเชื่อมต่อคุณค่าอย่างยั่งยืนระหว่าง:
 
 - **องค์กรกีฬา** (สโมสรฟุตบอล / ผู้จัดงาน)
 - **พันธมิตรธุรกิจ** (ร้านค้าปลีก ผู้ให้บริการ ผู้สนับสนุน)
-- **ผู้ใช้งาน** (แฟนๆ สมาชิก ลูกค้า)
+- **ผู้ใช้งาน** (แฟน ๆ สมาชิก ลูกค้า)
 
 ### คุณค่าเชิงกลยุทธ์ที่นำเสนอ
 
-แพลตฟอร์มเปลี่ยนกิจกรรมประจำวันของแฟนให้เป็นคุณค่าทางธุรกิจที่วัดผลได้ผ่าน **กลไกการมีส่วนร่วมแบบภารกิจ (mission-based engagement mechanics)** โดยใช้ประโยชน์จาก:
+แพลตฟอร์มเปลี่ยนกิจกรรมประจำวันของแฟนให้เป็นคุณค่าทางธุรกิจที่วัดผลได้ผ่าน **กลไกการมีส่วนร่วมแบบภารกิจ (Mission-based Engagement Mechanics)** โดยใช้ประโยชน์จาก:
 
-- **เทคโนโลยีตำแหน่งแม่นยำ (Precision Location Technology)** (KML/Polygon-based geofencing)
-- **ระบบป้องกันการทุจริตที่แข็งแกร่ง (Robust Fraud Prevention Systems)** (กลไกต่อต้านการเล่นพิทยาสูง)
-- **สถาปัตยกรรม White-Label** (เป็นกลางต่อแบรนด์เพื่อความสามารถในการขยายสูงสุด)
-- **ข้อมูลเชิงลึกขับเคลื่อนด้วยข้อมูล (Data-Driven Insights)** (การวิเคราะห์แบบเรียลไทม์และการติดตาม ROI)
+- **เทคโนโลยีระบุตำแหน่งแม่นยำ (Precision Location Technology)** (KML / Polygon-based Geofencing)
+- **ระบบป้องกันการทุจริตที่แข็งแกร่ง (Robust Fraud Prevention Systems)** (กลไก Anti-cheat ระดับสูง)
+- **สถาปัตยกรรม White-label** (เป็นกลางต่อแบรนด์เพื่อความสามารถในการขยายสูงสุด)
+- **ข้อมูลเชิงลึกแบบ Data-driven (Data-driven Insights)** (การวิเคราะห์แบบเรียลไทม์และการติดตาม ROI)
 - **ระบบ Trophy Wallet** (การจัดการพอยต์แบบรวมศูนย์พร้อมความสามารถในการโอน)
 
 ### แนวทางการดำเนินงาน
 
-เพื่อลดความเสี่ยงและเพิ่มการส่งมอบคุณค่าในระยะเริ่มต้น เราเสนอ **แผนงานการดำเนินงานแบบเป็นขั้นตอน (phased implementation roadmap)** ที่สอดคล้องกับวิสัยทัศน์เชิงกลยุทธ์ของคุณ:
+เพื่อลดความเสี่ยงและเพิ่มการส่งมอบคุณค่าในระยะเริ่มต้น เราเสนอ **แผนงานการดำเนินงานแบบเป็นขั้นตอน (Phased Implementation Roadmap)** ที่สอดคล้องกับวิสัยทัศน์เชิงกลยุทธ์ของคุณ:
 
 **ขั้นตอนที่เสนอเดิม:**
 
@@ -59,14 +59,20 @@
 
 **แนวทางที่เราแนะนำ (Mapped):**
 
-1. **ขั้นตอนที่ 1: การพิสูจน์แนวคิด (Proof of Concept - POC)** - THB 1,000,000
-    - เพิ่มก่อน MVP เพื่อตรวจสอบเทคโนโลยีหลักและลดความเสี่ยง
-2. **ขั้นตอนที่ 2: ผลิตภัณฑ์ที่ใช้งานได้ขั้นต่ำ (Minimum Viable Product - MVP)** - THB 3,000,000 - 5,000,000
-    - สอดคล้องกับขั้นตอน MVP ของแผนเดิม
-3. **ขั้นตอนที่ 3: ระบบนิเวศขนาดเต็ม (Full-Scale Ecosystem)** - THB ~10,000,000
-    - รวมขั้นตอน "Automation/Scaling" + "Ecosystem Expansion" ของแผนเดิม
+1. **ขั้นตอนที่ 1: Proof of Concept (POC)** – THB 1,000,000
+    
+    เพิ่มก่อน MVP เพื่อตรวจสอบเทคโนโลยีหลักและลดความเสี่ยง
+    
+2. **ขั้นตอนที่ 2: Minimum Viable Product (MVP)** – THB 3,000,000 – 5,000,000
+    
+    สอดคล้องกับขั้นตอน MVP ของแผนเดิม
+    
+3. **ขั้นตอนที่ 3: Full-scale Ecosystem** – THB ~10,000,000
+    
+    รวมขั้นตอน “Automation / Scaling” + “Ecosystem Expansion” ของแผนเดิม
+    
 
-เราแนะนำอย่างยิ่งให้รวมขั้นตอน POC เพื่อตรวจสอบความเป็นไปได้ทางเทคนิค (โดยเฉพาะภารกิจตามตำแหน่งและการรวม Trophy Wallet) ก่อนการลงทุน MVP เต็มรูปแบบ วิธีนี้ช่วยลดความเสี่ยงและรับประกันว่าโมเดลธุรกิจได้รับการพิสูจน์แล้วด้วยต้นทุนที่น้อยที่สุด
+เราขอแนะนำอย่างยิ่งให้เพิ่มขั้นตอน POC เพื่อตรวจสอบความเป็นไปได้ทางเทคนิค (โดยเฉพาะภารกิจตามตำแหน่งและการเชื่อมต่อกับ Trophy Wallet) ก่อนการลงทุน MVP เต็มรูปแบบ วิธีนี้ช่วยลดความเสี่ยงและช่วยยืนยันว่าโมเดลธุรกิจได้รับการพิสูจน์แล้วด้วยต้นทุนขั้นต่ำ
 
 ---
 
@@ -79,67 +85,67 @@
 **ความท้าทายที่ 1: การมีส่วนร่วมของแฟนคลับต่ำนอกช่วงเวลาจัดกิจกรรม**
 
 - การมีปฏิสัมพันธ์กับแฟนคลับจำกัดเฉพาะวันแข่งขันหรือช่วงงานกิจกรรมเท่านั้น
-- ไม่มีจุดสัมผัสอย่างต่อเนื่องเพื่อรักษาการรับรู้แบรนด์
+- ไม่มีจุดสัมผัสต่อเนื่องเพื่อรักษาการรับรู้แบรนด์
 - พลาดโอกาสในการสร้างความสัมพันธ์ตลอดทั้งปี
 
-**ความท้าทายที่ 2: การจัดการระบบนิเวศของพันธมิตรที่ไม่มีประสิทธิภาพ**
+**ความท้าทายที่ 2: การบริหาร Ecosystem ของพันธมิตรที่ไม่มีประสิทธิภาพ**
 
-- กระบวนการแบบแมนนวลสำหรับการกระจายสิทธิประโยชน์ให้พันธมิตร
-- ความยากลำบากในการติดตาม ROI ของพันธมิตรและประสิทธิผลของการมีส่วนร่วม
-- มองเห็นข้อมูลเกี่ยวกับผลการดำเนินงานของความร่วมมือได้อย่างจำกัด
+- กระบวนการแบบ Manual สำหรับการจัดสรรสิทธิประโยชน์ให้พันธมิตร
+- ความยากลำบากในการติดตาม ROI และประสิทธิผลของแคมเปญร่วมกับพันธมิตร
+- มองเห็นข้อมูลเกี่ยวกับผลการดำเนินงานของพันธมิตรได้อย่างจำกัด
 
 **ความท้าทายที่ 3: ความซับซ้อนในการกระจายสิทธิประโยชน์**
 
-- การตรวจสอบการเข้าถึง VIP และสิทธิ์จอดรถแบบแมนนวล
+- การตรวจสอบการเข้าถึง VIP และสิทธิ์จอดรถแบบ Manual
 - ค่าใช้จ่ายในการดำเนินงานสูงสำหรับการยืนยันสิทธิประโยชน์
 - ช่องโหว่ด้านการฉ้อโกงในระบบกระดาษแบบดั้งเดิม
 
 **ความท้าทายที่ 4: พลาดโอกาสสร้างรายได้**
 
-- สินทรัพย์ของสโมสรที่ไม่ได้ใช้ประโยชน์เต็มที่ (สนามฝึกซ้อม, พื้นที่ VIP)
-- การสร้างรายได้จากความภักดีและการมีส่วนร่วมของแฟนคลับที่จำกัด
+- สินทรัพย์ของสโมสรที่ไม่ได้ใช้ประโยชน์เต็มที่ (สนามฝึกซ้อม พื้นที่ VIP)
+- การสร้างรายได้จาก Loyalty และการมีส่วนร่วมของแฟนคลับยังจำกัด
 - ไม่สามารถสร้างช่องทางรายได้ใหม่จากทรัพยากรที่มีอยู่
 
 ### 1.2 โซลูชัน The Trophy
 
-The Trophy แก้ไขความท้าทายเหล่านี้ผ่านระบบนิเวศดิจิทัลที่ครอบคลุม ดังนี้:
+The Trophy แก้ไขความท้าทายเหล่านี้ผ่านระบบนิเวศดิจิทัลแบบครบวงจร ดังนี้:
 
 **สร้างการมีส่วนร่วมอย่างต่อเนื่อง**
 
-- เกมมิฟิเคชันในรูปแบบภารกิจช่วยให้ผู้ใช้มีส่วนร่วมตลอดทั้งปี
+- Gamification ในรูปแบบ Mission ทำให้ผู้ใช้มีส่วนร่วมได้ตลอดทั้งปี
 - โอกาสสัมผัสจุดติดต่อหลายช่องทางนอกเหนือจากวันจัดกิจกรรม
-- ประสบการณ์ที่ปรับแต่งเฉพาะบุคคลตามพฤติกรรมและความชอบของผู้ใช้
+- ประสบการณ์แบบ Personalization ตามพฤติกรรมและความชอบของผู้ใช้
 
 **เปิดใช้งานการจัดการพันธมิตรแบบอัตโนมัติ**
 
 - เครื่องมือตรวจสอบดิจิทัลสำหรับการยืนยันพันธมิตร
-- การติดตาม ROI และการวิเคราะห์แบบเรียลไทม์
-- เวิร์กโฟลว์การแจกจ่ายและแลกแต้มอัตโนมัติ
+- การติดตาม ROI และ Analytics แบบเรียลไทม์
+- เวิร์กโฟลว์การแจกจ่ายและแลกแต้มแบบอัตโนมัติ
 
 **ปรับปรุงกระบวนการกระจายสิทธิประโยชน์**
 
-- การตรวจสอบดิจิทัลแทนที่กระบวนการแมนนวล
-- ระบบการตรวจสอบที่ปลอดภัยด้วย QR
+- การตรวจสอบดิจิทัลแทนที่กระบวนการ Manual
+- ระบบตรวจสอบที่ปลอดภัยด้วย QR Code
 - ป้องกันการฉ้อโกงด้วยการตรวจสอบหลายชั้น
 
 **ปลดล็อกช่องทางรายได้ใหม่**
 
 - สร้างรายได้จากสินทรัพย์ของสโมสรผ่านการแลกแต้ม
-- โอกาสสร้างรายได้จากการได้รับพันธมิตร
-- ข้อมูลเชิงลึกจากข้อมูลเพื่อการตัดสินใจเชิงกลยุทธ์
+- โอกาสสร้างรายได้จากการได้มาซึ่งพันธมิตรใหม่
+- ข้อมูลเชิงลึกเพื่อสนับสนุนการตัดสินใจเชิงกลยุทธ์
 
-### 1.3 เหตุผลของกลยุทธ์ White-Label
+### 1.3 เหตุผลของกลยุทธ์ White-label
 
-**หลักการหลัก:** แพลตฟอร์มรักษาความเป็นกลางของแบรนด์อย่างสมบูรณ์ - ไม่มีชื่อสโมสร โลโก้ หรือสีปรากฏภายในอินเทอร์เฟซของแอปพลิเคชัน
+**หลักการสำคัญ:** แพลตฟอร์มรักษาความเป็นกลางของแบรนด์อย่างสมบูรณ์ – ไม่มีชื่อสโมสร โลโก้ หรือสีของแบรนด์ใดปรากฏในอินเทอร์เฟซหลักของแอปพลิเคชัน
 
 **ประโยชน์เชิงกลยุทธ์:**
 
-1. **ความยืดหยุ่นในการขยายตลาด:** แพลตฟอร์มสามารถให้บริการองค์กรกีฬาหรือธุรกิจหลายแห่งพร้อมกันได้
-2. **ลดความอ่อนไหวต่อการแข่งขัน:** พันธมิตรและผู้ใช้จากสังกัดที่แข่งขันกันสามารถเข้าร่วมได้
-3. **การดึงดูดใจแบบสากล:** มุ่งเน้นที่คุณค่าและสิทธิประโยชน์มากกว่าความภักดีต่อแบรนด์เฉพาะ
-4. **การขยายตัว:** แพลตฟอร์มเดียวสามารถรองรับการใช้งาน white-label หลายรูปแบบได้
+1. **ความยืดหยุ่นในการขยายตลาด:** แพลตฟอร์มสามารถให้บริการองค์กรกีฬา / ธุรกิจหลายแห่งพร้อมกันได้
+2. **ลดความอ่อนไหวต่อการแข่งขัน:** พันธมิตรและผู้ใช้จากสังกัดที่แข่งขันกันสามารถเข้าร่วมได้อย่างสบายใจ
+3. **การดึงดูดใจแบบสากล:** โฟกัสที่ Value และสิทธิประโยชน์มากกว่าความภักดีต่อแบรนด์ใดแบรนด์หนึ่ง
+4. **รองรับการขยายตัว:** แพลตฟอร์มเดียวรองรับ Deployment แบบ White-label ได้หลาย Instance
 
-**หมายเหตุการใช้งาน:** แม้ว่าแพลตฟอร์มจะเป็นกลางต่อแบรนด์ แต่ผู้ใช้ยังคงสามารถเข้าถึงสินทรัพย์พิเศษของสโมสร (การเยี่ยมชมสนามฝึกซ้อม ที่นั่ง VIP) ผ่านระบบการแลกแต้ม
+**หมายเหตุการใช้งาน:** แม้แพลตฟอร์มจะเป็นกลางต่อแบรนด์ แต่ผู้ใช้ยังคงเข้าถึงสินทรัพย์พิเศษของสโมสร (การเยี่ยมชมสนามฝึกซ้อม ที่นั่ง VIP) ผ่านระบบการแลกแต้มได้
 
 ---
 
@@ -147,7 +153,7 @@ The Trophy แก้ไขความท้าทายเหล่านี้
 
 ### 2.1 ภาพรวมระบบ
 
-ระบบนิเวศ The Trophy ประกอบด้วยแอปพลิเคชันที่เชื่อมต่อกันสามตัว สร้างบนโครงสร้าง backend เดียวกัน:
+ระบบนิเวศ The Trophy ประกอบด้วยแอปพลิเคชันที่เชื่อมต่อกัน 3 ส่วน บน Backend ร่วมเดียวกัน:
 
 ```mermaid
 graph TD
@@ -163,11 +169,10 @@ graph TD
         API["Backend API<br>(Laravel)"]
 
         %% Bottom Layer: Infrastructure/Services
-        DB["Database<br>(Postgres<br>+Mongo)"]
+        DB["Database<br>(Postgres + Mongo)"]
         LOC["Location<br>Services<br>(GCP)"]
         AN["Analytics<br>Engine"]
 
-        %% Connections
         C1 --> API
         C2 --> API
         C3 --> API
@@ -182,62 +187,62 @@ graph TD
 
 **ผู้ใช้เป้าหมาย:** แฟนคลับ สมาชิก ประชาชนทั่วไป
 
-**ฟีเจอร์หลัก: ระบบ Trophy Wallet**
+**ฟีเจอร์หลัก: Trophy Wallet**
 
-- **การจัดการแต้ม Awards:** กระเป๋าเงินกลางสำหรับแต้มที่ได้รับทั้งหมด
-- **การโอนแต้ม (เข้าและออก):**
-    - โอนแต้มไปยัง/จากโปรแกรมความภักดีของพันธมิตร
-    - การเชื่อมต่อกับระบบรีวอร์ดของบัตรเครดิต (ผู้ให้บริการบางรายอาจจำกัดให้อัปโหลดแบบแมนนวลเท่านั้น)
-    - แลกเปลี่ยนแต้มกับระบบนิเวศภายนอก
-- **ประวัติการทำธุรกรรม:** บันทึกการตรวจสอบที่สมบูรณ์ของการเคลื่อนไหวแต้มทั้งหมด
+- **การจัดการแต้ม Awards:** กระเป๋าเงินกลางสำหรับแต้มทั้งหมดที่ผู้ใช้ได้รับ
+- **การโอนแต้ม (เข้า / ออก):**
+    - โอนแต้มไปยัง / จากโปรแกรม Loyalty ของพันธมิตร
+    - เชื่อมต่อกับระบบ Reward ของบัตรเครดิต (บางผู้ให้บริการอาจอนุญาตเฉพาะการอัปโหลดแบบ Manual)
+    - แลกเปลี่ยนแต้มกับ Ecosystem ภายนอก
+- **ประวัติการทำธุรกรรม:** Audit Trail ของการเคลื่อนไหวแต้มทั้งหมด
 - **ภาพรวมยอดคงเหลือ:** ยอดแต้มและมูลค่าแบบเรียลไทม์
 
-*หมายเหตุ: ฟีเจอร์การโอนแต้มจะได้รับการออกแบบพร้อมการควบคุมทางเศรษฐกิจเพื่อป้องกันการใช้ในทางที่ผิดและรักษาเสถียรภาพของมูลค่าแต้ม ขอบเขตการโอนและกฎการตรวจสอบสามารถกำหนดค่าได้โดยผู้ดูแลระบบ*
+*หมายเหตุ: ฟีเจอร์การโอนแต้มจะถูกออกแบบพร้อม Economic Controls เพื่อป้องกันการใช้ในทางที่ผิดและรักษาเสถียรภาพของมูลค่าแต้ม ขอบเขตการโอนและกฎการตรวจสอบสามารถกำหนดค่าได้โดยผู้ดูแลระบบ*
 
-**ศูนย์ภารกิจ**
+**Mission Center**
 
-- **ภารกิจตามตำแหน่ง:** เช็คอินที่ตำแหน่งพันธมิตรโดยใช้ KML/Polygon geofencing แม่นยำสูง (ไม่ใช่รัศมีธรรมดา)
+- **ภารกิจตามตำแหน่ง:** เช็กอินที่โลเคชันพันธมิตรโดยใช้ KML / Polygon Geofencing ที่แม่นยำ (ไม่ใช้รัศมีวงกลมอย่างเดียว)
 - **ภารกิจตามการกระทำ:** การยืนยันด้วยภาพถ่ายกับพนักงานที่กำหนด
-- **ภารกิจตามเวลา:** เข้าร่วมกิจกรรม ดูการแข่งขัน (ยืนยันผ่านตำแหน่ง)
-- **ภารกิจตามการซื้อ:** ช็อปปิ้งที่ตำแหน่งพันธมิตรพร้อมการยืนยันใบเสร็จผ่าน Partner Application
+- **ภารกิจตามเวลา:** เข้าร่วมกิจกรรม / ดูการแข่งขัน (ยืนยันผ่านตำแหน่ง)
+- **ภารกิจตามการซื้อ:** ช้อปที่โลเคชันพันธมิตรพร้อมยืนยันใบเสร็จผ่าน Partner App
 - **ภารกิจโซเชียล:** แชร์คอนเทนต์ มีส่วนร่วมบนโซเชียลมีเดีย
 
-**ระบบแลกรางวัล**
+**ระบบแลกรางวัล (Redemption)**
 
-- เรียกดูแคตตาล็อกรางวัลที่มีหรือมุมมองแผนที่
+- เรียกดู Reward Catalog หรือดูแบบแผนที่
 - กรองตามหมวดหมู่: ประสบการณ์พิเศษ การเข้าถึง VIP ส่วนลดจากพันธมิตร สินค้า
-- การสร้างคูปองดิจิทัลพร้อม QR code
+- สร้างคูปองดิจิทัลพร้อม QR Code
 - ประวัติการแลกและการติดตาม
-- การแจ้งเตือนและการเตือนความจำหมดอายุ
+- การแจ้งเตือนและเตือนวันหมดอายุ
 
-**ระบบการจัดระดับ**
+**ระบบการจัดระดับ (Tiering)**
 
-- ระดับสมาชิกแบบ Standard / Exclusive
-- สิทธิประโยชน์เฉพาะระดับและภารกิจพิเศษ
-- การติดตามความคืบหน้าและข้อกำหนดการอัพเกรดระดับ
-- รางวัลพิเศษและการเข้าถึงเฉพาะระดับเท่านั้น
+- ระดับสมาชิก Standard / Exclusive
+- สิทธิประโยชน์เฉพาะ Tier และภารกิจพิเศษ
+- การติดตามความคืบหน้าและเงื่อนไขการอัปเกรด Tier
+- รางวัลพิเศษและการเข้าถึง Benefit เฉพาะ Tier
 
-**โปรไฟล์ผู้ใช้และการมีส่วนร่วม**
+**โปรไฟล์ผู้ใช้และ Engagement**
 
 - ยอดแต้มและประวัติการทำธุรกรรม
-- สถิติการทำภารกิจสำเร็จ
-- อันดับกระดานผู้นำ (องค์ประกอบการแข่งขันเสริม)
-- การจัดการความชอบและการตั้งค่าการแจ้งเตือน
+- สถิติภารกิจที่ทำสำเร็จ
+- Leaderboard (องค์ประกอบการแข่งขันเพิ่มเติม)
+- การตั้งค่าความชอบและ Notification Preferences
 
-**การยืนยันตัวตน**
+**การยืนยันตัวตน (Authentication)**
 
-- **หมายเลขโทรศัพท์มือถือ (หลัก):** การยืนยันตัวตนด้วยหมายเลขโทรศัพท์
-- **เปลี่ยนหมายเลขโทรศัพท์มือถือ:** อนุญาตให้ผู้ใช้อัปเดตหมายเลขโทรศัพท์ที่ลงทะเบียนได้อย่างปลอดภัย
-- การยืนยันด้วย One-Time Password (OTP)
+- **หมายเลขโทรศัพท์มือถือ (หลัก):** ยืนยันตัวตนด้วยเบอร์มือถือ
+- **เปลี่ยนหมายเลขโทรศัพท์มือถือ:** ให้ผู้ใช้อัปเดตเบอร์ที่ลงทะเบียนได้อย่างปลอดภัย
+- การยืนยันด้วย One-time Password (OTP)
 
-*หมายเหตุ: เราแนะนำการยืนยันตัวตนด้วยหมายเลขโทรศัพท์มือถือเท่านั้น (ไม่ใช่ social login) เพื่อความปลอดภัยที่ดีขึ้น ความสอดคล้องของข้อมูล และการป้องกันการฉ้อโกง ฟีเจอร์ "เปลี่ยนหมายเลขโทรศัพท์มือถือ" จัดการกับข้อกังวลเกี่ยวกับผู้ใช้ที่เปลี่ยนหมายเลขโทรศัพท์*
+*หมายเหตุ: เราแนะนำ Authentication ด้วยหมายเลขโทรศัพท์มือถือเป็นหลัก (แทน Social Login) เพื่อความปลอดภัยที่ดีกว่า ความสอดคล้องของข้อมูล และการป้องกันการฉ้อโกง ฟีเจอร์ “เปลี่ยนหมายเลขโทรศัพท์มือถือ” รองรับกรณีที่ผู้ใช้เปลี่ยนเบอร์*
 
-**ไฮไลท์ทางเทคนิค:**
+**Technical Highlights:**
 
-- สร้างด้วย Flutter เพื่อประสิทธิภาพแบบ native บน iOS และ Android
-- การซิงโครไนซ์ข้อมูลแบบเรียลไทม์กับ backend
-- การแจ้งเตือนแบบพุชสำหรับภารกิจและรางวัลใหม่ (ผ่าน OneSignal)
-- การยืนยันตัวตนที่ปลอดภัยพร้อมการรองรับ social login
+- พัฒนาโดยใช้ Flutter เพื่อประสิทธิภาพระดับ Native ทั้งบน iOS และ Android
+- การซิงโครไนซ์ข้อมูลแบบเรียลไทม์กับ Backend
+- Push Notification สำหรับ Mission และ Reward ใหม่ (ผ่าน OneSignal)
+- รองรับการยืนยันตัวตนที่ปลอดภัย พร้อมความสามารถในการต่อยอด Social Login ในอนาคต
 
 ### 2.3 แอปพลิเคชันพันธมิตร (เครื่องมือตรวจสอบและให้บริการ)
 
@@ -245,112 +250,112 @@ graph TD
 
 **ฟีเจอร์หลัก: QR Scanner และการตรวจสอบ (Hybrid Earn & Redeem)**
 
-- **แนวทางที่แนะนำ:** ระบบ QR แบบ Hybrid สำหรับการดำเนินงานที่คล่องตัว
-- QR code เดียวสำหรับทั้งการรับแต้มและการแลก
+- **แนวทางที่แนะนำ:** ระบบ QR แบบ Hybrid สำหรับการปฏิบัติงานที่ลื่นไหล
+- ใช้ QR Code เดียวสำหรับทั้งการรับแต้มและการแลกแต้ม
 - พนักงานพันธมิตรสามารถมอบแต้มหรือแลกรางวัลได้ในการสแกนครั้งเดียว
-- ลดความยุ่งยากและปรับปรุงประสบการณ์ผู้ใช้
-- สแกน QR code ของผู้ใช้เพื่อยืนยันตัวตนและสิทธิ์
+- ลดความซับซ้อนและยกระดับประสบการณ์ของผู้ใช้หน้างาน
+- สแกน QR Code ของผู้ใช้เพื่อยืนยันตัวตนและสิทธิ์
 - มอบแต้มสำหรับภารกิจที่สำเร็จ (เช่น บริการล้างรถ)
 - แลกคูปองและสิทธิประโยชน์ของผู้ใช้
 
-**การตรวจสอบภารกิจ**
+**การตรวจสอบภารกิจ (Mission Verification)**
 
-- อินเทอร์เฟซอนุมัติภารกิจภาพถ่าย
-- การตรวจสอบแบบแมนนวลสำหรับภารกิจที่ซับซ้อน
+- อินเทอร์เฟซอนุมัติภารกิจที่ต้องใช้รูปภาพ
+- การตรวจสอบแบบ Manual สำหรับภารกิจที่ซับซ้อน
 - การปฏิเสธพร้อมเหตุผลแจ้งกลับไปยังผู้ใช้
-- ความสามารถในการอนุมัติเป็นชุด
+- รองรับการอนุมัติเป็นชุด (Batch Approval)
 
-*หมายเหตุ: เราเสนอให้ใช้พนักงานพันธมิตรสำหรับการตรวจสอบภาพถ่ายแทนการตรวจจับวัตถุด้วย AI ล้วนๆ สิ่งนี้ให้: (1) ประหยัดต้นทุนในการพัฒนาและบำรุงรักษา AI (2) ความแม่นยำที่ดีขึ้นผ่านการตัดสินของมนุษย์ (3) สัมผัสของมนุษย์และการมีส่วนร่วมระหว่างพนักงานพันธมิตรและผู้ใช้ปลายทาง การตรวจสอบโดยใช้ AI ช่วยเหลือสามารถเพิ่มในระยะต่อไปได้หากจำเป็น*
+*หมายเหตุ: เราเสนอให้ใช้พนักงานพันธมิตรในการตรวจสอบภาพถ่ายแทนการใช้ AI Object Detection เพียงอย่างเดียว ซึ่งให้ (1) ต้นทุนด้านการพัฒนาและดูแล AI ที่ต่ำกว่า (2) ความแม่นยำที่ดีขึ้นจากการตัดสินของมนุษย์ (3) Human Touch และ Engagement ระหว่างพนักงานและผู้ใช้ปลายทาง ทั้งนี้สามารถเพิ่ม AI-assisted Verification ใน Phase ถัดไปได้หากจำเป็น*
 
-**แดชบอร์ดพันธมิตร (เบา)**
+**Partner Dashboard (Light)**
 
-- สถิติรายวัน/รายสัปดาห์เกี่ยวกับการมีส่วนร่วมของลูกค้า
-- แต้มที่มอบและแลก
-- ภารกิจและรางวัลที่ได้รับความนิยมมากที่สุด
-- ความคิดเห็นและคะแนนของลูกค้า
+- สถิติรายวัน / รายสัปดาห์เกี่ยวกับการมีส่วนร่วมของลูกค้า
+- แต้มที่มอบและแต้มที่ถูกแลก
+- ภารกิจและรางวัลยอดนิยม
+- ความคิดเห็นและคะแนนจากลูกค้า
 
-**ไฮไลท์ทางเทคนิค:**
+**Technical Highlights:**
 
-- แอปมือถือที่ใช้ Flutter (iOS/Android)
-- อินเทอร์เฟซที่เรียบง่ายและใช้งานง่ายสำหรับพนักงานที่ไม่ใช่ด้านเทคนิค
-- การยืนยันตัวตนพันธมิตรที่ปลอดภัย
+- แอปมือถือ Flutter (iOS / Android)
+- อินเทอร์เฟซเรียบง่าย ใช้งานง่ายสำหรับพนักงานที่ไม่ใช่สายเทคนิค
+- การยืนยันตัวตนของพันธมิตรอย่างปลอดภัย
 
 ### 2.4 Admin Console (ศูนย์บัญชาการและควบคุมกลาง)
 
 **ผู้ใช้เป้าหมาย:** ผู้ดูแลระบบแพลตฟอร์ม ผู้จัดการธุรกิจ นักวิเคราะห์ข้อมูล
 
-**ฟีเจอร์หลัก: แดชบอร์ดแบบเรียลไทม์**
+**ฟีเจอร์หลัก: Real-time Dashboard**
 
-- ผู้ใช้ที่ใช้งานและเมตริกเซสชัน
-- การหมุนเวียนแต้ม (มอบเทียบกับแลก)
+- ผู้ใช้ที่ใช้งานอยู่ (Active Users) และ Session Metrics
+- การหมุนเวียนแต้ม (มอบ / แลก)
 - อัตราการทำภารกิจสำเร็จ
 - ภาพรวมผลการดำเนินงานของพันธมิตร
 - การติดตามรายได้และ ROI
 
-**การจัดการภารกิจ**
+**การจัดการภารกิจ (Mission Management)**
 
-- สร้างและกำหนดค่าภารกิจ (ตามตำแหน่ง การกระทำ ตามเวลา)
-- ตั้งค่ารางวัลแต้มและเกณฑ์สิทธิ์
-- กำหนด polygon geofence โดยใช้การทำแผนที่ KML
-- กำหนดเวลาความพร้อมใช้งานของภารกิจ (วันเริ่มต้น/สิ้นสุด)
-- ติดตามผลการดำเนินงานของภารกิจและการมีส่วนร่วม
+- สร้างและตั้งค่าภารกิจ (ตามตำแหน่ง การกระทำ เวลา)
+- ตั้งค่า Reward Points และ Eligibility Criteria
+- กำหนด Polygon Geofence โดยใช้ข้อมูล KML
+- ตั้งค่าช่วงเวลาที่ภารกิจเปิดให้ทำ (วันเริ่มต้น / สิ้นสุด)
+- ติดตาม Performance ของภารกิจและระดับ Engagement
 
-**ตัวจัดการ Polygon และ Geofence**
+**Polygon & Geofence Manager**
 
 - นำเข้าไฟล์ KML จาก Google Maps
-- รองรับหลาย polygon สำหรับตำแหน่งที่ซับซ้อน
+- รองรับหลาย Polygon สำหรับพื้นที่ที่มีรูปทรงซับซ้อน
 - เครื่องมือทดสอบเพื่อยืนยันความแม่นยำของตำแหน่ง
 
-**การจัดการแคตตาล็อกรางวัล**
+**Reward Catalog Management**
 
-- สร้างและจัดการรางวัล
-- ตั้งค่าต้นทุนแต้มและขอบเขตความพร้อมใช้งาน
-- อัปโหลดรูปภาพและคำอธิบาย (ไทย/อังกฤษสองภาษา)
-- ติดตามอัตราการแลกและความนิยม
+- สร้างและจัดการรายการรางวัล
+- ตั้งค่าต้นทุนแต้มและช่วงความพร้อมใช้งาน
+- อัปโหลดรูปภาพและคำอธิบาย (รองรับสองภาษา ไทย / อังกฤษ)
+- ติดตามอัตราการแลกและความนิยมของรางวัล
 
-**การจัดการพันธมิตร**
+**Partner Management**
 
-- เพิ่มพันธมิตรใหม่พร้อมข้อมูลประจำตัว
+- เพิ่มพันธมิตรใหม่พร้อมข้อมูลพื้นฐาน
 - ตั้งค่าขอบเขตการจัดสรรแต้มต่อพันธมิตร
-- ติดตามกิจกรรมของพันธมิตรและความสอดคล้อง
+- ติดตามกิจกรรมและ Compliance ของพันธมิตร
 - สร้างรายงานผลการดำเนินงานของพันธมิตร
 
-**การตรวจจับและป้องกันการฉ้อโกง**
+**Fraud Detection & Prevention**
 
-- การแจ้งเตือนการตรวจจับความผิดปกติ (รูปแบบการเช็คอินที่ผิดปกติ)
-- การติดตามกิจกรรมผู้ใช้ที่น่าสงสัย
-- บันทึกการตรวจสอบพันธมิตรสำหรับการแจกจ่ายแต้ม
-- การจัดการบัญชีดำและการระงับผู้ใช้
+- แจ้งเตือนเมื่อพบพฤติกรรมเช็กอินผิดปกติ
+- ติดตามกิจกรรมผู้ใช้ที่น่าสงสัย
+- Audit Log สำหรับกิจกรรมของพันธมิตรเกี่ยวกับการให้แต้ม
+- การจัดการบัญชีดำและการระงับบัญชีผู้ใช้
 - การตรวจจับการปลอมแปลง GPS
 
-**การจัดการผู้ใช้**
+**User Management**
 
 - โปรไฟล์ผู้ใช้และประวัติกิจกรรม
-- การปรับแต้มแบบแมนนวล (พร้อมบันทึกการตรวจสอบ)
-- การจัดการระดับและการอัพเกรดแบบแมนนวล (Standard/Exclusive)
-- อินเทอร์เฟซการรับตั๋วสนับสนุนลูกค้าขั้นพื้นฐาน
+- การปรับแต้มแบบ Manual (พร้อม Audit Log)
+- การจัดการ Tier และการอัปเกรดแบบ Manual (Standard / Exclusive)
+- อินเทอร์เฟซรับ Ticket สนับสนุนลูกค้าขั้นพื้นฐาน
 
 **Trophy Wallet Admin**
 
-- การติดตามและอนุมัติการโอนแต้ม (หากจำเป็น)
-- การจัดการการเชื่อมต่อระบบนิเวศภายนอก
-- การกำหนดค่าขอบเขตและกฎการโอน
-- การติดตามสุขภาพทางเศรษฐกิจ (หนี้สินแต้ม การหมุนเวียน)
+- การติดตามและอนุมัติการโอนแต้ม (กรณีต้องอนุมัติ)
+- การจัดการการเชื่อมต่อกับ Ecosystem ภายนอก
+- การตั้งค่า Limit และกฎการโอนแต้ม
+- ติดตามสุขภาพทางเศรษฐกิจ (Point Liability / Circulation)
 
-**การวิเคราะห์และการรายงาน**
+**Analytics & Reporting**
 
-- ตัวสร้างรายงานแบบกำหนดเอง
-- ความสามารถในการส่งออก (CSV, PDF)
-- การวิเคราะห์กลุ่มและการแบ่งกลุ่มผู้ใช้
+- ตัวสร้างรายงานแบบ Custom
+- Export ข้อมูล (CSV, PDF)
+- Cohort Analysis และ User Segmentation
 - เครื่องมือคำนวณ ROI ของพันธมิตร
-- การวิเคราะห์เชิงคาดการณ์สำหรับการพยากรณ์หนี้สินแต้ม
+- Predictive Analytics สำหรับการพยากรณ์ Point Liability
 
-**ไฮไลท์ทางเทคนิค:**
+**Technical Highlights:**
 
-- อินเทอร์เฟซเว็บแบบ responsive (Vue.js)
-- การควบคุมการเข้าถึงตามบทบาท (Admin, Manager, Support, Analyst)
-- การแสดงภาพข้อมูลขั้นสูง (แผนภูมิ, heatmaps)
-- การเชื่อมต่อกับ Google Maps API สำหรับ geofencing
+- Web Interface แบบ Responsive (Vue.js หรือ React)
+- Role-based Access Control (Admin, Manager, Support, Analyst)
+- Data Visualization ขั้นสูง (Charts, Heatmaps)
+- เชื่อมต่อ Google Maps API สำหรับ Geofencing
 
 ---
 
@@ -358,225 +363,225 @@ graph TD
 
 ### 3.1 Phase 1: Proof of Concept (POC)
 
-**วัตถุประสงค์:** ตรวจสอบความเป็นไปได้ของเทคโนโลยีหลักและข้อสมมติฐานทางธุรกิจด้วยการลงทุนขั้นต่ำ
+**วัตถุประสงค์:** ตรวจสอบความเป็นไปได้ของเทคโนโลยีหลักและสมมติฐานทางธุรกิจด้วยการลงทุนขั้นต่ำ
 
-**ระยะเวลา:** 8-10 สัปดาห์
+**ระยะเวลา:** 8–10 สัปดาห์
 
 **งบประมาณ:** THB 1,000,000
 
 **ผลลัพธ์สำคัญ: Customer App (Basic)**
 
-- User registration และ authentication (เบอร์โทรศัพท์)
-- Simple location-based check-in (ใช้ basic geofencing)
-- Point accumulation display
-- Basic profile management
-- Trophy Wallet prototype (ดูยอดคงเหลือ, basic transaction history)
+- User Registration และ Authentication (เบอร์โทรศัพท์)
+- Simple Location-based Check-in (ใช้ Basic Geofencing)
+- การแสดงยอดแต้มที่ได้รับ (Point Accumulation Display)
+- Basic Profile Management
+- Trophy Wallet Prototype (ดูยอดคงเหลือและประวัติธุรกรรมพื้นฐาน)
 
 **Partner App (Prototype)**
 
-- QR scanner สำหรับ user verification
-- Manual point award interface
+- QR Scanner สำหรับ User Verification
+- อินเทอร์เฟซสำหรับมอบแต้มแบบ Manual
 
 **Admin Console (Essential)**
 
-- Basic dashboard แสดง user counts และ point totals
-- Simple mission creation (location-based เท่านั้น)
-- Manual user และ partner management
+- Dashboard พื้นฐาน แสดงจำนวนผู้ใช้และยอดแต้มรวม
+- Simple Mission Creation (แบบ Location-based เท่านั้น)
+- การจัดการผู้ใช้และพันธมิตรแบบ Manual
 
 **Backend Infrastructure**
 
-- Basic API สำหรับ user, mission และ point management
-- Simple database schema
-- Authentication service
+- Basic API สำหรับ User, Mission และ Point Management
+- Simple Database Schema
+- Authentication Service
 
 **Testing & Validation**
 
-- Limited pilot กับ test users 50-100 คน
-- Partner locations 3-5 แห่งสำหรับการตรวจสอบ
-- Basic fraud prevention (rate limiting)
+- Pilot Test กับผู้ใช้ทดลอง 50–100 คน
+- Partner Locations 3–5 แห่งสำหรับทดสอบ
+- Basic Fraud Prevention (เช่น Rate Limiting)
 
 **Success Criteria:**
 
-- Users สามารถทำ location-based missions สำเร็จ
-- Points ได้รับการมอบและติดตามอย่างถูกต้อง
-- Partner verification workflow ทำงานได้ถูกต้อง
-- ไม่พบช่องโหว่ด้านความปลอดภัยร้ายแรง
+- ผู้ใช้สามารถทำ Location-based Missions ได้สำเร็จ
+- การมอบและติดตามแต้มทำงานได้ถูกต้อง
+- Workflow การยืนยันจากพันธมิตรทำงานสมบูรณ์
+- ไม่มีช่องโหว่ด้านความปลอดภัยระดับร้ายแรง
 
 **Exclusions (ย้ายไป Phase ถัดไป):**
 
-- Advanced fraud AI
-- Complex mission types (photo verification)
-- Two-tier membership system
-- Reward redemption
-- Advanced analytics
-- Point transfer functionality
-- Production-grade security hardening
-- Publishing to App Store / Play Store (ทดสอบผ่าน TestFlight/Internal Testing เท่านั้น)
+- Advanced Fraud AI
+- Mission รูปแบบซับซ้อน (เช่น Photo Verification ระดับ Production)
+- ระบบสมาชิก 2 ระดับ (Full Tiering)
+- Reward Redemption เต็มรูปแบบ
+- Advanced Analytics
+- Point Transfer Functionality
+- Production-grade Security Hardening
+- การปล่อยขึ้น App Store / Play Store (ใช้ TestFlight / Internal Testing)
 
 ### 3.2 Phase 2: Minimum Viable Product (MVP)
 
-**วัตถุประสงค์:** เปิดตัวระบบที่พร้อมใช้งานจริงพร้อมฟีเจอร์หลักสำหรับการดึงดูด users และ partners ในโลกแห่งความเป็นจริง
+**วัตถุประสงค์:** เปิดตัวระบบที่พร้อมใช้งานจริงพร้อมฟีเจอร์หลักสำหรับการดึงดูด Users และ Partners ในโลกจริง
 
-**ระยะเวลา:** 16-20 สัปดาห์
+**ระยะเวลา:** 16–20 สัปดาห์
 
-**งบประมาณ:** THB 3,000,000 - 5,000,000
+**งบประมาณ:** THB 3,000,000 – 5,000,000
 
 **ผลลัพธ์สำคัญ: Customer App (Production)**
 
-- Mission types ครบถ้วน: Location, Action (photo), Time-based
-- Reward redemption พร้อม QR coupon generation
-- Two-tier system (Standard/Exclusive)
-- Enhanced UI/UX พร้อม onboarding flow
-- Push notifications สำหรับ missions และ rewards
-- Social sharing capabilities
+- Mission ครบชุด: Location, Action (Photo), Time-based
+- Reward Redemption พร้อมการสร้าง QR Coupon
+- Two-tier System (Standard / Exclusive)
+- UI / UX ที่ปรับปรุง พร้อม Onboarding Flow
+- Push Notifications สำหรับ Missions และ Rewards
+- ความสามารถในการแชร์ลง Social
 - **Trophy Wallet (Full):**
-    - Complete point management
-    - Point transfer (Inbound/Outbound) กับ partner ecosystems
-    - Transaction history และ export
-    - Transfer limits และ validation
+    - Complete Point Management
+    - Point Transfer (Inbound / Outbound) กับ Partner Ecosystems
+    - Transaction History และ Export
+    - Transfer Limits และ Validation
 
 **Partner App (Full)**
 
-- QR scanning สำหรับทั้ง validation และ redemption (Hybrid approach)
-- Photo mission approval interface (staff verification)
-- Partner dashboard พร้อม basic analytics
-- Daily/weekly reports
+- QR Scanning สำหรับทั้ง Validation และ Redemption (Hybrid Approach)
+- อินเทอร์เฟซอนุมัติภารกิจแบบใช้รูปภาพ (Staff Verification)
+- Partner Dashboard พร้อม Analytics พื้นฐาน
+- รายงานรายวัน / รายสัปดาห์
 
 **Admin Console (Operational)**
 
-- Comprehensive dashboard พร้อม real-time metrics
-- Advanced mission creation ครบทุก types
-- KML/Polygon geofence tools
-- Reward catalog management
-- Partner onboarding และ management
-- Basic fraud detection alerts
-- User support tools
-- Trophy Wallet admin controls (transfer monitoring, limits)
+- Dashboard ครบถ้วนพร้อม Real-time Metrics
+- Advanced Mission Creation ครบทุกประเภท
+- KML / Polygon Geofence Tools
+- Reward Catalog Management
+- Partner Onboarding & Management
+- Basic Fraud Detection Alerts
+- User Support Tools
+- Trophy Wallet Admin Controls (การมอนิเตอร์การโอนแต้มและ Limit)
 
 **Backend Infrastructure (Scalable)**
 
-- Production-grade API พร้อม authentication และ authorization
-- Optimized database design สำหรับการขยายขนาด
-- Cloud deployment (GCP)
-- Basic monitoring และ logging
-- Automated backups
+- Production-grade API พร้อม Authentication และ Authorization
+- Database Design ที่ Optimize สำหรับ Scale
+- Cloud Deployment (GCP)
+- Monitoring และ Logging พื้นฐาน
+- Automated Backups
 
 **Security & Compliance**
 
-- HTTPS encryption
-- Secure token-based authentication
-- PDPA compliance (Thai data protection)
-- Basic anti-fraud mechanisms (GPS spoofing detection, rate limiting)
-- Partner audit trails
+- HTTPS Encryption
+- Secure Token-based Authentication
+- PDPA Compliance (กฎหมายคุ้มครองข้อมูลส่วนบุคคลของไทย)
+- กลไกป้องกันการโกงพื้นฐาน (เช่น GPS Spoofing Detection, Rate Limiting)
+- Partner Audit Trails
 
 **Testing & Launch**
 
-- Comprehensive UAT/SIT
-- Load testing สำหรับ user capacity เป้าหมาย (10,000 concurrent users)
-- Security penetration testing
-- Beta launch กับ early adopters
-- Post-launch monitoring และ support
+- UAT / SIT แบบครอบคลุม
+- Load Testing สำหรับเป้าหมาย 10,000 Concurrent Users
+- Security Penetration Testing
+- Beta Launch กับกลุ่ม Early Adopters
+- Post-launch Monitoring & Support
 
 **Success Criteria:**
 
-- รองรับ users ที่ใช้งานจริง 5,000+ คน
-- Onboard partner locations 20+ แห่ง
-- Mission completion rate > 30%
-- Reward redemption rate > 15%
-- ไม่มี critical bugs ใน production
-- System uptime > 99%
+- รองรับผู้ใช้ที่ Active จริง 5,000+ คน
+- มี Partner Locations ที่ Onboard แล้ว 20+ แห่ง
+- Mission Completion Rate > 30%
+- Reward Redemption Rate > 15%
+- ไม่มี Critical Bugs ใน Production
+- System Uptime > 99%
 
-**หมายเหตุ:** ตัวชี้วัดความสำเร็จขึ้นอยู่กับการจัดสรรงบประมาณของลูกค้าสำหรับการหา users และแคมเปญการตลาด DOS จะออกแบบระบบให้รองรับการทำ digital marketing integration แต่ไม่ได้ให้บริการด้านการตลาด
+**หมายเหตุ:** ตัวชี้วัดความสำเร็จขึ้นอยู่กับงบประมาณด้าน User Acquisition และ Marketing Campaign ของลูกค้า DOS จะออกแบบระบบให้รองรับ Digital Marketing Integration แต่ไม่รวมบริการการตลาด
 
 **Exclusions (ย้ายไป Phase 3):**
 
-- Advanced AI-based fraud detection
-- Complex analytics และ predictive models
-- Multiple white-label deployments
-- Advanced personalization engine
-- Third-party integrations (CRM, marketing automation)
+- Advanced AI-based Fraud Detection
+- Analytics ขั้นสูงและ Predictive Models ระดับลึก
+- Deployment แบบ Multiple White-label Instances
+- Advanced Personalization Engine
+- Third-party Integrations (เช่น CRM, Marketing Automation)
 
-### 3.3 Phase 3: Full-Scale Ecosystem
+### 3.3 Phase 3: Full-scale Ecosystem
 
-**วัตถุประสงค์:** สร้าง platform ที่ครบครันพร้อมฟีเจอร์ขั้นสูง ความสามารถในการขยายขนาดสำหรับการใช้งานหลายระบบ และ analytics ที่ซับซ้อน
+**วัตถุประสงค์:** สร้างแพลตฟอร์มที่ครบครันพร้อมฟีเจอร์ขั้นสูง รองรับการขยายขนาดหลายระบบ และ Analytics ที่ซับซ้อน
 
-**Original Vision Alignment:** Phase นี้รวม "Automation / Scaling" และ "Ecosystem Expansion" phases ของคุณเข้าด้วยกันเป็นความพยายามในการพัฒนาแบบรวมศูนย์
+**Original Vision Alignment:** Phase นี้รวม “Automation / Scaling” และ “Ecosystem Expansion” ให้เป็นความพยายามพัฒนารวมศูนย์
 
-**ระยะเวลา:** 24-30 สัปดาห์
+**ระยะเวลา:** 24–30 สัปดาห์
 
 **งบประมาณ:** THB ~10,000,000
 
 **ผลลัพธ์สำคัญ: Advanced Features**
 
-- AI-powered fraud detection และ anomaly prevention
-- Personalization engine สำหรับ mission recommendations
-- Enhanced tiering capabilities และ custom tier configurations
-- Gamification enhancements (badges, achievements, streaks)
-- **Pay with Points:** Real-time partner discounts และ redemption system
-    - Partners สามารถเสนอส่วนลดทันทีสำหรับสินค้า/บริการทั้งหมด
-    - Real-time point redemption (ไม่ใช่ discount vouchers ที่กำหนดไว้ล่วงหน้า)
-    - Dynamic pricing และ point value calculations
+- AI-powered Fraud Detection และ Anomaly Prevention
+- Personalization Engine สำหรับ Mission Recommendations
+- ความสามารถ Tiering ระดับ Advanced และ Custom Tier
+- Gamification Enhancements (Badges, Achievements, Streaks)
+- **Pay with Points:** ระบบส่วนลดแบบ Real-time กับพันธมิตร
+    - พันธมิตรเสนอส่วนลดทันทีสำหรับสินค้า / บริการ
+    - Real-time Point Redemption (ไม่ใช่ Discount Voucher ที่ Fix ไว้ล่วงหน้า)
+    - Dynamic Pricing และการคำนวณมูลค่าแต้มแบบยืดหยุ่น
 
 **Platform Scalability (Automation / Scaling)**
 
-- Multi-tenant white-label architecture
-- Organization-level customization (themes, branding)
-- API สำหรับ third-party integrations
-- Webhook support สำหรับ external systems
-- Multi-language support (นอกจาก Thai/English)
-- Automated partner onboarding workflows
-- Auto-scaling infrastructure
+- Multi-tenant White-label Architecture
+- การปรับแต่งระดับองค์กร (Theme, Branding)
+- API สำหรับ Third-party Integrations
+- Webhook Support สำหรับ External Systems
+- Multi-language Support (เพิ่มเติมจากไทย / อังกฤษ)
+- Automated Partner Onboarding Workflows
+- Auto-scaling Infrastructure
 
 **Ecosystem Expansion**
 
-- Advanced Trophy Wallet integrations
-- Credit card reward systems
-- Banking loyalty programs
-- Multi-brand point exchanges
-- Expanded partner network tools
-- API marketplace สำหรับ third-party developers
-- Cross-ecosystem point transfer protocols
+- Advanced Trophy Wallet Integrations
+- ระบบ Reward ของบัตรเครดิต
+- Banking Loyalty Programs
+- การแลกเปลี่ยนคะแนนข้ามหลายแบรนด์ (Multi-brand Point Exchanges)
+- เครื่องมือช่วยขยาย Partner Network
+- API Marketplace สำหรับ Third-party Developers
+- Cross-ecosystem Point Transfer Protocols
 
 **Analytics & Intelligence**
 
-- Predictive analytics สำหรับ point liability forecasting
-- Machine learning สำหรับ user segmentation
-- Churn prediction และ retention campaigns
-- Partner ROI optimization algorithms
-- Custom reporting API สำหรับ enterprise clients
+- Predictive Analytics สำหรับ Point Liability Forecasting
+- Machine Learning สำหรับ User Segmentation
+- Churn Prediction และ Retention Campaigns
+- Algorithm ปรับ ROI ของพันธมิตร
+- Custom Reporting API สำหรับ Enterprise Clients
 
 **Enterprise Integrations**
 
-- CRM integration (Salesforce, HubSpot)
-- Marketing automation (Email, SMS campaigns)
-- Payment gateway สำหรับ premium features
-- Social media platform APIs
-- E-commerce platform connections
+- CRM Integration (เช่น Salesforce, HubSpot)
+- Marketing Automation (Email / SMS Campaigns)
+- Payment Gateway สำหรับ Premium Features
+- Social Media Platform APIs
+- E-commerce Platform Connections
 
 **Advanced Security**
 
-- Biometric authentication (fingerprint, face ID)
-- Advanced GPS spoofing detection
-- SOC 2 compliance preparation
-- Enhanced audit trails และ compliance reporting
+- Biometric Authentication (ลายนิ้วมือ Face ID)
+- Advanced GPS Spoofing Detection
+- การเตรียมความพร้อมสำหรับ SOC 2 Compliance
+- Enhanced Audit Trails และ Compliance Reporting
 
 **Operational Excellence**
 
-- 24/7 monitoring และ alerting
-- Auto-scaling infrastructure
-- Disaster recovery และ business continuity
-- Advanced DevOps และ CI/CD pipelines
-- Performance optimization สำหรับ users 100,000+ คน
+- Monitoring & Alerting ตลอด 24/7
+- Auto-scaling Infrastructure
+- Disaster Recovery และ Business Continuity Plan
+- Advanced DevOps และ CI/CD Pipelines
+- Performance Optimization สำหรับผู้ใช้ 100,000+ คน
 
 **Success Criteria:**
 
-- รองรับ concurrent active users 50,000+ คน
-- Partner locations 100+ แห่งข้ามหลาย organizations
-- Advanced fraud detection ที่มี false positive rate < 1%
-- 99.9% uptime SLA
-- Full self-service partner onboarding
+- รองรับ Concurrent Active Users 50,000+ คน
+- Partner Locations 100+ แห่งข้ามหลายองค์กร
+- Advanced Fraud Detection ที่มี False Positive < 1%
+- 99.9% Uptime SLA
+- Partner Onboarding แบบ Self-service ครบวงจร
 
-**หมายเหตุ:** ตัวชี้วัดความสำเร็จขึ้นอยู่กับการจัดสรรงบประมาณของลูกค้าสำหรับการขยายการดำเนินงานและการดำเนินการตาม marketing plan DOS จัดหา technical platform ลูกค้ารับผิดชอบกลยุทธ์และการดำเนินการทางการตลาด
+**หมายเหตุ:** ตัวชี้วัดความสำเร็จขึ้นอยู่กับงบประมาณของลูกค้าสำหรับการขยายการดำเนินงานและ Marketing Execution DOS จัดหา Technical Platform ลูกค้ารับผิดชอบด้านกลยุทธ์และการตลาด
 
 ---
 
@@ -584,18 +589,18 @@ graph TD
 
 ### 4.1 Mobile Applications (Customer & Partner)
 
-- **Framework:** Flutter (Single codebase สำหรับ iOS & Android)
-- **Key Tech:** Provider/Riverpod (State Mgt), Google Maps, OneSignal (Noti), Pusher (Real-time), Hive/SQLite (Local DB)
+- **Framework:** Flutter (Single Codebase สำหรับ iOS & Android)
+- **Key Tech:** Provider / Riverpod (State Management), Google Maps, OneSignal (Push Notification), Pusher (Real-time), Hive / SQLite (Local DB)
 
 ### 4.2 Admin Console (Web App)
 
 - **Framework:** React หรือ Vue.js
-- **Key Tech:** Material-UI/Ant Design, Redux/Vuex, Chart.js/D3.js (Data Viz)
+- **Key Tech:** Material UI / Ant Design, Redux / Vuex, Chart.js / D3.js (Data Visualization)
 
 ### 4.3 Backend Services
 
 - **Framework:** Laravel (PHP)
-- **Key Tech:** RESTful API, JWT Auth, Laravel Queues (Background jobs), Swagger (Docs)
+- **Key Tech:** RESTful API, JWT Auth, Laravel Queues (Background Jobs), Swagger (API Docs)
 
 ### 4.4 Database & Storage
 
@@ -606,11 +611,11 @@ graph TD
 ### 4.5 Cloud Infrastructure
 
 - **Platform:** Google Cloud Platform (GCP)
-- **Services:** GKE/Cloud Run (Compute), Cloud SQL, Cloud Functions
+- **Services:** GKE / Cloud Run (Compute), Cloud SQL, Cloud Functions
 
-### 4.6 Third-Party Services
+### 4.6 Third-party Services
 
-- **Tools:** Google Maps Platform, OneSignal, Pusher, SendGrid/Twilio, Sentry (Error Tracking)
+- **Tools:** Google Maps Platform, OneSignal, Pusher, SendGrid / Twilio, Sentry (Error Tracking)
 
 ---
 
@@ -618,164 +623,180 @@ graph TD
 
 ### 5.1 Fraud Prevention Strategy
 
-**Risk Category 1: User Gaming**
+**Risk Category 1: User Gaming / ภัยคุกคามจากผู้ใช้ทั่วไป**
 
-**ภัยคุกคาม:**
-
-- GPS spoofing เพื่อปลอม location check-ins
-- Check-in ซ้ำๆ เพื่อเก็บ points
-- ส่ง photo ปลอม
-- Users หลาย accounts ต่อคนเดียว
+- GPS Spoofing เพื่อปลอม Location Check-in
+- Check-in ซ้ำ ๆ เพื่อสะสมแต้ม
+- ส่งรูปปลอม
+- ใช้หลาย Account ต่อคนเดียว
 
 **กลยุทธ์การบรรเทาความเสี่ยง:**
 
-- **GPS Validation:** ตรวจสอบข้อมูล GPS ข้ามกับ cell tower triangulation และ Wi-Fi location
-- **Rate Limiting:** จำกัดความถี่ในการ check-in (เช่น สูงสุด 1 check-in ต่อ location ต่อวัน)
-- **Device Fingerprinting:** ติดตาม unique device IDs เพื่อป้องกันการใช้หลาย accounts
-- **Photo Verification:** ตรวจสอบโดยบุคคล โดย partner staff หรือทีม admin
-- **Behavioral Analysis:** Pattern detection เพื่อระบุกิจกรรม user ที่ผิดปกติ
+- **GPS Validation:** ตรวจสอบข้อมูล GPS ควบคู่กับ Cell Tower / Wi-Fi Location
+- **Rate Limiting:** จำกัดความถี่การ Check-in (เช่น สูงสุด 1 Check-in ต่อ Location ต่อวัน)
+- **Device Fingerprinting:** ติดตาม Device ID เฉพาะเพื่อป้องกัน Multi-account Abuse
+- **Photo Verification:** ตรวจสอบโดยบุคลากร (Partner Staff หรือทีม Admin)
+- **Behavioral Analysis:** ตรวจจับ Pattern พฤติกรรมที่ผิดปกติ
 
-**Risk Category 2: Partner Fraud**
+**Risk Category 2: Partner Fraud / ภัยคุกคามจากฝั่งพันธมิตร**
 
-**ภัยคุกคาม:**
-
-- Partners มอบ points โดยไม่มี transactions ที่ถูกต้อง
-- การสมรู้ร่วมคิดระหว่าง partners และ users
-- แจก points เกินขีดจำกัด
-- Redemptions ปลอมเพื่อลดยอดคงเหลือของ user
+- พันธมิตรให้แต้มโดยไม่มี Transaction จริง
+- สมรู้ร่วมคิดระหว่างพันธมิตรและผู้ใช้
+- ให้แต้มเกิน Limit
+- การแลกแต้มปลอมเพื่อปรับยอดคงเหลือของผู้ใช้
 
 **กลยุทธ์การบรรเทาความเสี่ยง:**
 
-- **Daily Caps:** จำกัด points ที่ partner สามารถมอบได้ต่อวัน
-- **Audit Trails:** บันทึก log ครบถ้วนของการกระทำทั้งหมดของ partner พร้อม timestamps
-- **Anomaly Detection:** แจ้งเตือนเมื่อพฤติกรรมของ partner เบี่ยงเบนจาก patterns ปกติ
-- **Random Audits:** ตรวจสอบ transactions ของ partner เป็นระยะ
-- **Reputation System:** Partner performance scoring พร้อมความสามารถในการระงับ
+- **Daily Caps:** จำกัดจำนวนแต้มที่พันธมิตรให้ได้ต่อวัน
+- **Audit Trails:** เก็บ Log อย่างครบถ้วนของทุกกิจกรรมของพันธมิตรพร้อม Timestamp
+- **Anomaly Detection:** แจ้งเตือนเมื่อพฤติกรรมของพันธมิตรเบี่ยงเบนจาก Pattern ปกติ
+- **Random Audits:** สุ่มตรวจสอบ Transaction ของพันธมิตรเป็นระยะ
+- **Reputation System:** คะแนนประเมินผลงานพันธมิตร พร้อมความสามารถในการระงับการใช้งาน
 
-**Risk Category 3: System Abuse**
+**Risk Category 3: System Abuse / ภัยคุกคามเชิงระบบ**
 
-**ภัยคุกคาม:**
-
-- API abuse และการโจมตีจาก automated bot
-- Point inflation ผ่าน system exploits
-- การเข้าถึง admin functions โดยไม่ได้รับอนุญาต
+- API Abuse และการโจมตีด้วย Bot อัตโนมัติ
+- Point Inflation ผ่านช่องโหว่ของระบบ
+- การเข้าถึงฟังก์ชัน Admin โดยไม่ได้รับอนุญาต
 
 **กลยุทธ์การบรรเทาความเสี่ยง:**
 
-- **API Rate Limiting:** จำกัด requests ต่อ user/IP
-- **CAPTCHA:** สำหรับการดำเนินการที่สำคัญ
-- **Role-Based Access Control:** การจัดการสิทธิ์ admin อย่างเข้มงวด
-- **Security Audits:** Penetration testing เป็นประจำ
-- **Bug Bounty Program:** สร้างแรงจูงใจสำหรับการเปิดเผยอย่างรับผิดชอบ
+- **API Rate Limiting:** จำกัด Request ต่อ User / IP
+- **CAPTCHA:** สำหรับ Action สำคัญ
+- **Role-based Access Control:** กำหนดสิทธิ์ Admin อย่างเข้มงวด
+- **Security Audits:** Penetration Testing เป็นประจำ
+- **Bug Bounty Program:** สร้างแรงจูงใจให้เปิดเผยช่องโหว่อย่างรับผิดชอบ
 
 ### 5.2 Economic Control & Point Management
 
-**Point Liability Management**
-
-**ความท้าทาย:** Points แทนหนี้สินทางการเงิน - องค์กรต้องสามารถดำเนินการ redemptions ได้โดยไม่มีค่าใช้จ่ายมากเกินไป
+**Point Liability Management / ความท้าทาย:** แต้มแทนหนี้สินทางการเงิน องค์กรต้องสามารถรองรับการแลกแต้มได้โดยไม่สร้างต้นทุนเกินควร
 
 **กลยุทธ์:**
 
-- **Point Expiry:** Points ทั้งหมดหมดอายุหลัง 12 เดือน (ปรับแต่งได้)
-- **Redemption Limits:** จำกัดมูลค่า point redemption รวมต่อ user ต่อเดือน
-- **Reserve Ratio:** รักษาเงินสำรองตามสัดส่วนของ outstanding points
-- **Inflation Control:** ติดตามการไหลเวียนของ points และปรับ mission rewards แบบ dynamic
-- **Transfer Controls:** Point transfer limits เพื่อป้องกันการใช้ในทางที่ผิดทางเศรษฐกิจ
+- **Point Expiry:** แต้มหมดอายุภายใน 12 เดือน (ปรับแต่งได้)
+- **Redemption Limits:** จำกัดมูลค่าการแลกรวมต่อผู้ใช้ต่อเดือน
+- **Reserve Ratio:** รักษาเงินสำรองในสัดส่วนที่เหมาะสมกับ Outstanding Points
+- **Inflation Control:** ติดตามการหมุนเวียนแต้มและปรับ Reward แบบ Dynamic
+- **Transfer Controls:** Limit การโอนแต้มเพื่อป้องกันการใช้ในทางที่ผิดเชิงเศรษฐกิจ
 
-*หมายเหตุ: Point transfer feature จะมี economic controls ที่เข้มงวด ได้แก่: (1) Daily/monthly transfer limits ต่อ user, (2) Transfer fees เพื่อลดการใช้ในทางที่ผิด, (3) Admin approval สำหรับ transfers ขนาดใหญ่ (ตัวเลือก), (4) Real-time monitoring ของ transfer patterns เพื่อ fraud detection Controls เหล่านี้ปกป้องเศรษฐกิจ points ในขณะที่เปิดใช้งาน ecosystem integration*
+*หมายเหตุ: ฟีเจอร์ Point Transfer จะมี Economic Controls เข้มงวด ได้แก่ (1) Daily / Monthly Transfer Limits ต่อผู้ใช้ (2) Transfer Fees เพื่อเบรกการใช้งานที่ไม่เหมาะสม (3) การอนุมัติจาก Admin สำหรับรายการโอนวงเงินสูง (ตัวเลือก) (4) Real-time Monitoring ของ Pattern การโอนเพื่อตรวจจับ Fraud Controls เหล่านี้ช่วยปกป้องเศรษฐกิจของแต้มพร้อมเปิดทางให้เชื่อมต่อ Ecosystem ภายนอกได้อย่างปลอดภัย*
 
-**Point Economy Balancing**
+**Point Economy Balancing / วัตถุประสงค์:** รักษาสมดุลระหว่างแต้มที่มอบ (Inflow) และแต้มที่ถูกแลก (Outflow)
 
-**วัตถุประสงค์:** ให้แน่ใจว่ามีสมดุลที่ดีระหว่าง points ที่มอบ (inflow) และ redeem (outflow)
+**ตัวชี้วัดหลัก:**
 
-**ตัวชี้วัดที่ต้องติดตาม:**
-
-- **Burn Rate:** เปอร์เซ็นต์ของ awarded points ที่ redeemed
-- **Velocity:** เวลาเฉลี่ยระหว่าง point award และ redemption
-- **Inflation Rate:** อัตราการเติบโตของ outstanding points ทั้งหมด
-- **Redemption Ratio:** เป้าหมาย 60-80% ของ points redeemed ก่อนหมดอายุ
-- **Transfer Volume:** ติดตาม inbound/outbound point transfers
+- **Burn Rate:** เปอร์เซ็นต์ของแต้มที่ถูกแลก
+- **Velocity:** เวลาเฉลี่ยระหว่างการมอบแต้มและการแลกแต้ม
+- **Inflation Rate:** อัตราการเติบโตของ Outstanding Points
+- **Redemption Ratio:** เป้าหมาย 60–80% ของแต้มถูกแลกก่อนหมดอายุ
+- **Transfer Volume:** ติดตาม Volume การโอนแต้มเข้า / ออก
 
 **เครื่องมือ:**
 
-- Real-time economic dashboard
-- Automated alerts สำหรับ ratios ที่ไม่ดี
-- Dynamic reward pricing adjustments
-- Predictive modeling สำหรับ liability forecasting
+- Real-time Economic Dashboard
+- Automated Alerts เมื่อสัดส่วนผิดปกติ
+- Dynamic Reward Pricing
+- Predictive Modeling สำหรับการพยากรณ์ Point Liability
 
 ### 5.3 Data Security & Privacy Compliance
 
-**PDPA Compliance (Thai Personal Data Protection Act)**
+**PDPA Compliance (พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคลของไทย)**
 
-**ข้อกำหนด:**
+**ข้อกำหนดหลัก:**
 
-- Explicit user consent สำหรับการเก็บข้อมูล
-- Clear privacy policy เป็นภาษาไทย
-- สิทธิ์ user: เข้าถึง แก้ไข ลบ data portability
-- Data breach notification protocols
+- ขอความยินยอม (Explicit Consent) ในการเก็บและประมวลผลข้อมูล
+- นโยบายความเป็นส่วนตัว (Privacy Policy) ภาษาไทยที่ชัดเจน
+- สิทธิ์ของผู้ใช้: เข้าถึง แก้ไข ลบ และ Data Portability
+- กระบวนการแจ้งเตือนเหตุ Data Breach
 
-**การดำเนินการ:**
+**แนวทางการดำเนินการ:**
 
-- Consent management ระหว่าง registration
-- Privacy policy และ terms acceptance
-- User data export functionality
-- Secure data deletion procedures
+- ระบบ Consent Management ระหว่าง Registration
+- แสดง Privacy Policy และ Terms ให้ผู้ใช้ยืนยัน
+- ฟังก์ชัน Export ข้อมูลของผู้ใช้
+- กระบวนการลบข้อมูลอย่างปลอดภัย
 
 **Security Best Practices**
 
-- **Data Encryption:** ข้อมูลทั้งหมด encrypted ทั้งขณะจัดเก็บและส่งผ่าน (TLS 1.3)
-- **Access Controls:** Least-privilege principle สำหรับการเข้าถึงระบบทั้งหมด
-- **Regular Backups:** Daily automated backups พร้อม 30-day retention
-- **Incident Response Plan:** ขั้นตอนที่จัดทำเป็นเอกสารสำหรับ security incidents
-- **Regular Updates:** Prompt security patching และ dependency updates
+- **Data Encryption:** เข้ารหัสข้อมูลทั้งขณะจัดเก็บและระหว่างส่งผ่าน (TLS 1.3)
+- **Access Controls:** ใช้หลัก Least-privilege ในการกำหนดสิทธิ์เข้าถึง
+- **Regular Backups:** สำรองข้อมูลรายวัน พร้อมเก็บย้อนหลังอย่างน้อย 30 วัน
+- **Incident Response Plan:** แผนรับมือเหตุด้านความปลอดภัยที่จัดทำเป็นเอกสารชัดเจน
+- **Regular Updates:** อัปเดต Patch ด้านความปลอดภัยและ Dependency อย่างต่อเนื่อง
 
 ### 5.4 Operational Risks & Mitigation
 
 **ความเสี่ยง: System Downtime**
 
-- **ผลกระทบ:** User frustration, โอกาส engagement ที่สูญเสีย, partner disruption
-- **การบรรเทา:**
-    - High availability architecture (multi-zone deployment)
-    - Auto-scaling เพื่อจัดการกับ traffic spikes
-    - 99.9% uptime SLA target
-    - Incident response runbooks
+- **ผลกระทบ:** ผู้ใช้ไม่พอใจ สูญเสียโอกาส Engagement และกระทบพันธมิตร
 
-**ความเสี่ยง: Poor User Adoption**
+**การบรรเทา:**
 
-- **ผลกระทบ:** ROI ต่ำ, business case ล้มเหลว
-- **การบรรเทา:**
-    - User research และ UX testing ก่อน launch
-    - Phased rollout กับ early adopter program
-    - การรวบรวม feedback อย่างต่อเนื่องและ iteration
-    - Onboarding optimization และ user education
+- สถาปัตยกรรม High Availability (Multi-zone Deployment)
+- Auto-scaling รองรับ Traffic สูงชั่วคราว
+- เป้าหมาย Uptime 99.9% (ตามระดับ Phase)
+- Incident Response Runbook
+
+**ความเสี่ยง: User Adoption ต่ำ**
+
+- **ผลกระทบ:** ROI ต่ำ Business Case ไม่ถึงเป้าหมาย
+
+**การบรรเทา:**
+
+- User Research และ UX Testing ก่อน Launch
+- Phased Roll-out กับ Early Adopter Program
+- เก็บ Feedback อย่างต่อเนื่องและปรับปรุงตามจริง
+- ปรับปรุง Onboarding และ Education ภายในแอป
 
 **ความเสี่ยง: Partner Churn**
 
-- **ผลกระทบ:** Value proposition ลดลงสำหรับ users
-- **การบรรเทา:**
-    - Clear ROI demonstration สำหรับ partners
-    - Regular partner performance reports
-    - Dedicated partner success support
-    - Flexible partnership models
+- **ผลกระทบ:** Value Proposition สำหรับผู้ใช้ลดลง
+
+**การบรรเทา:**
+
+- แสดง ROI ชัดเจนให้พันธมิตรเห็น
+- รายงาน Performance ของพันธมิตรอย่างสม่ำเสมอ
+- มีทีม Partner Success Support
+- โมเดลความร่วมมือที่ยืดหยุ่น
 
 **ความเสี่ยง: Scope Creep & Budget Overrun**
 
-- **ผลกระทบ:** Delayed delivery, ค่าใช้จ่ายเกิน
-- **การบรรเทา:**
-    - Phased approach พร้อม deliverables ที่ชัดเจน
-    - Change request process พร้อม impact assessment
-    - Regular stakeholder alignment meetings
-    - Contingency buffer ในงบประมาณ (10-15%)
+- **ผลกระทบ:** ส่งมอบล่าช้าและงบประมาณเกิน
+
+**การบรรเทา:**
+
+- แบ่งเป็น Phase พร้อม Deliverable ที่ชัดเจน
+- ใช้กระบวนการ Change Request พร้อมวิเคราะห์ผลกระทบ
+- ประชุม Alignment กับ Stakeholder เป็นประจำ
+- กัน Buffer งบประมาณ 10–15%
 
 ### 5.5 Feature Concerns & Recommendations
 
 **Send Points to Friends**
 
-- Feature นี้ทำให้เกิดความกังวลเกี่ยวกับความมั่นคงของเศรษฐกิจ points Peer-to-peer transfers สามารถเปิดโอกาส: (1) Point farming ผ่านการใช้หลาย accounts, (2) การไหลเวียนของ points ที่ไม่มีการควบคุมส่งผลต่อสมดุลทางเศรษฐกิจ, (3) Gray market point trading หาก feature นี้จำเป็น เราแนะนำให้ implement ใน Phase 3 พร้อม controls ที่เข้มงวด: transfer limits, transaction fees, cooling periods และ fraud monitoring
+- ฟีเจอร์นี้สร้างความกังวลด้านเสถียรภาพเศรษฐกิจของแต้ม Peer-to-peer Transfers อาจเปิดช่องให้
+    
+    (1) Point Farming ผ่านการใช้หลาย Account
+    
+    (2) การหมุนเวียนแต้มที่ไม่ถูกควบคุม ส่งผลต่อ Balance โดยรวม
+    
+    (3) การซื้อขายแต้มใน Gray Market
+    
 
-**In-App Marketplace (Buy Items for Quests)**
+หากจำเป็นต้องมีฟีเจอร์นี้ เราแนะนำให้ Implement ใน Phase 3 พร้อม Controls ที่เข้มงวด เช่น Transfer Limits, Transaction Fees, Cooling Periods และ Fraud Monitoring
 
-- เราแนะนำอย่างยิ่งไม่ให้ implement marketplace ที่ users สามารถซื้อสินค้าเพื่อช่วยทำ quests ให้เสร็จ สิ่งนี้สร้าง "Pay-to-Win" dynamic ที่: (1) ลด campaign engagement และความน่าเชื่อถือ, (2) ทำลาย mission-based gamification model, (3) สร้างความได้เปรียบที่ไม่เป็นธรรมสำหรับ users ที่จ่ายเงิน เราแนะนำให้รักษา platform ให้เป็น skill/engagement-based มากกว่า purchase-based
+**In-app Marketplace (ซื้อของช่วยทำ Quest)**
+
+- เราไม่แนะนำให้มี Marketplace ที่ผู้ใช้สามารถซื้อไอเท็มเพื่อช่วยทำ Quest ให้สำเร็จ เนื่องจากสร้าง “Pay-to-win” Dynamic ที่
+    
+    (1) ลดความน่าเชื่อถือของ Campaign
+    
+    (2) ทำลายโมเดล Gamification ที่อิง Mission
+    
+    (3) สร้างความเหลื่อมล้ำระหว่างผู้ใช้ที่จ่ายกับไม่จ่าย
+    
+
+เราขอแนะนำให้คงโฟกัสที่ Engagement จากการลงมือทำ (Skill / Engagement-based) มากกว่าการซื้อ (Purchase-based)
 
 ---
 
@@ -783,91 +804,81 @@ graph TD
 
 ### 6.1 Value Proposition แยกตามกลุ่มผู้มีส่วนได้ส่วนเสีย
 
-**สำหรับองค์กรกีฬา / สโมสร:**
-
-**ผลประโยชน์:**
+**สำหรับองค์กรกีฬา / สโมสร – ผลประโยชน์:**
 
 - **เพิ่มการมีส่วนร่วมของแฟนบอล:** มีจุดสัมผัสตลอดทั้งปีนอกเหนือจากวันแข่งขัน
-- **ข้อมูลเชิงลึก:** เข้าใจพฤติกรรม ความชอบ และข้อมูลประชากรของแฟนบอล
-- **ช่องทางรายได้ใหม่:** สร้างรายได้จากสินทรัพย์ของสโมสร (สิทธิ์ VIP, การเยี่ยมชมสนามฝึก)
-- **การได้มาซึ่งพันธมิตร:** ดึงดูดสปอนเซอร์และพันธมิตรผ่านฐานแฟนบอลที่มีส่วนร่วมสูง
-- **ประสิทธิภาพการดำเนินงาน:** การตรวจสอบดิจิทัลแทนที่การแจกจ่ายสิทธิประโยชน์แบบ manual
+- **ข้อมูลเชิงลึก:** เข้าใจพฤติกรรม ความชอบ และ Demographic ของแฟนบอล
+- **ช่องทางรายได้ใหม่:** สร้างรายได้จากสินทรัพย์ของสโมสร (สิทธิ์ VIP การเยี่ยมชมสนามฝึก)
+- **การได้มาซึ่งพันธมิตร:** ดึงดูดสปอนเซอร์และพันธมิตรผ่านฐานแฟนบอลที่มี Engagement สูง
+- **ประสิทธิภาพการดำเนินงาน:** Digital Verification แทนการแจกสิทธิ์แบบ Manual
 
 **ตัวชี้วัด ROI:**
 
-- อัตราการมีส่วนร่วมของแฟนบอล (active users / ฐานแฟนบอลทั้งหมด)
-- เวลาเฉลี่ยต่อ session และอัตราการทำ mission สำเร็จ
-- รายได้จากพันธมิตรที่เข้ามาใหม่
-- การประหยัดต้นทุนจากกระบวนการอัตโนมัติ
+- อัตราการมีส่วนร่วมของแฟนบอล (Active Users / ฐานแฟนทั้งหมด)
+- เวลาเฉลี่ยต่อ Session และอัตรา Mission Completion
+- รายได้จากพันธมิตรใหม่
+- การประหยัดต้นทุนจากการ Automate กระบวนการเดิม
 
-**สำหรับพันธมิตรธุรกิจ:**
+**สำหรับพันธมิตรธุรกิจ – ผลประโยชน์:**
 
-**ผลประโยชน์:**
+- **Customer Acquisition:** เข้าถึงฐานลูกค้าที่มี Engagement สูงและตรงกลุ่มเป้าหมาย
+- **Brand Exposure:** มองเห็นผ่านการวาง Mission และ Reward
+- **ROI ที่วัดผลได้:** มี Metric ชัดเจนเรื่อง Traffic และ Conversion
+- **Customer Loyalty:** ลูกค้ากลับมาใช้บริการซ้ำผ่านการทำ Mission
+- **ต้นทุนเริ่มต้นต่ำ:** โมเดลคิดค่าบริการตาม Performance (จ่ายต่อ Engagement)
 
-- **การได้มาซึ่งลูกค้า:** เข้าถึงฐานลูกค้าที่มีส่วนร่วมและตรงกลุ่มเป้าหมาย
-- **การเปิดรับแบรนด์:** มองเห็นได้ผ่านการวาง mission และรางวัล
-- **ROI ที่ติดตามได้:** เมตริกที่ชัดเจนเกี่ยวกับการเข้าร้านและการแปลงลูกค้า
-- **การสร้างความภักดี:** ลูกค้ากลับมาซ้ำผ่านการทำ mission
-- **ต้นทุนเริ่มต้นต่ำ:** โมเดลที่คิดตามประสิทธิภาพ (จ่ายต่อการมีส่วนร่วม)
+**การคำนวณ ROI (ตัวอย่าง):**
 
-**การคำนวณ ROI:**
-
-<aside>
-💡
-
-Partner ROI = (รายได้จากผู้ใช้ Trophy - ต้นทุน point - ต้นทุน integration) / การลงทุนรวม
-
-</aside>
+> Partner ROI = (รายได้จากผู้ใช้ Trophy – ต้นทุน Point – ต้นทุน Integration) / การลงทุนรวม
+> 
 
 ตัวอย่าง:
 
-- พันธมิตรล้างรถ: 100 users × ค่าใช้จ่ายเฉลี่ย THB 200 = รายได้ THB 20,000
-- ต้นทุน point: 100 users × 50 points × THB 0.50/point = THB 2,500
-- ค่า platform รายเดือน: THB 2,000
+- พันธมิตรล้างรถ: 100 Users × ค่าใช้จ่ายเฉลี่ย THB 200 = รายได้ THB 20,000
+- ต้นทุน Point: 100 Users × 50 Points × THB 0.50 / Point = THB 2,500
+- ค่า Platform รายเดือน: THB 2,000
 - ผลประโยชน์สุทธิ: THB 15,500 (ROI 344%)
 
-**สำหรับผู้ใช้งานปลายทาง (แฟนบอล):**
+**สำหรับผู้ใช้งานปลายทาง (แฟนบอล) – ผลประโยชน์:**
 
-**ผลประโยชน์:**
-
-- **ประสบการณ์พิเศษ:** เข้าถึงโอกาสที่เงินซื้อไม่ได้
+- **ประสบการณ์พิเศษ:** เข้าถึงโอกาสที่ “เงินซื้อไม่ได้”
 - **รางวัลที่จับต้องได้:** ส่วนลด สินค้า ประสบการณ์ VIP
-- **ความสนุกแบบ gamified:** mission ที่มีส่วนร่วมและองค์ประกอบการแข่งขัน
-- **การเชื่อมโยงชุมชน:** รู้สึกเป็นส่วนหนึ่งของชุมชนแฟนบอลที่ใหญ่ขึ้น
-- **ผลประโยชน์ส่วนบุคคล:** รางวัลตาม tier ที่สอดคล้องกับระดับการมีส่วนร่วม (Standard หรือ Exclusive)
-- **Trophy Wallet:** การจัดการ point ที่ยืดหยุ่นและการเชื่อมต่อ ecosystem
+- **ความสนุกแบบ Gamified:** Mission ที่สนุกและมีองค์ประกอบการแข่งขัน
+- **การเชื่อมโยงชุมชน:** รู้สึกเป็นส่วนหนึ่งของ Community แฟนบอล
+- **ผลประโยชน์ส่วนบุคคล:** Reward ตาม Tier ที่สอดคล้องระดับการมีส่วนร่วม (Standard / Exclusive)
+- **Trophy Wallet:** การจัดการแต้มที่ยืดหยุ่นและเชื่อมต่อ Ecosystem ภายนอกได้
 
-**การรับรู้คุณค่า:**
+**การรับรู้คุณค่า (Perceived Value):**
 
-- 100 points = มูลค่าประมาณ THB 50 ในรางวัล
-- การเข้าถึงพิเศษ (สนามฝึก) = ไร้ราคาสำหรับแฟนบอลตัวจริง
-- ที่จอดรถ VIP = ประหยัด THB 100-200 ต่อการแข่งขัน
+- 100 Points ≈ มูลค่าประมาณ THB 50 ในรูปแบบ Reward
+- การเข้าถึงสนามฝึกซ้อม = มูลค่าทางใจสูงมากสำหรับแฟนบอลตัวจริง
+- ที่จอดรถ VIP = ประหยัด THB 100–200 ต่อแมตช์
 
 ### 6.2 ตัวเลือก Revenue Model
 
-**Model 1: Platform Licensing (แนะนำสำหรับ White-Label)**
+**Model 1: Platform Licensing (แนะนำสำหรับ White-label)**
 
-- **ค่าธรรมเนียม License รายปี:** THB 500,000 - 2,000,000 ต่อองค์กร (ขึ้นอยู่กับขนาดผู้ใช้)
-- **ค่า Implementation:** ค่าบริการติดตั้งครั้งเดียว (ครอบคลุมโดยงบประมาณโครงการ)
-- **Maintenance & Support:** 20% ของค่า license รายปี
+- **ค่าธรรมเนียม License รายปี:** THB 500,000 – 2,000,000 ต่อองค์กร (ขึ้นกับขนาดผู้ใช้)
+- **ค่า Implementation:** ค่าบริการติดตั้งครั้งเดียว (รวมอยู่ในงบประมาณโครงการ)
+- **Maintenance & Support:** ~20% ของค่า License รายปี
 
-**Model 2: Transaction-Based**
+**Model 2: Transaction-based**
 
-- **ค่าธรรมเนียมการได้มาซึ่งพันธมิตร:** THB 5,000 - 20,000 ต่อพันธมิตรที่เข้าร่วม
-- **ค่าธรรมเนียมธุรกรรม:** 5-10% ของต้นทุน point ของพันธมิตร
-- **ค่าธรรมเนียมการแลก:** THB 5-10 ต่อการแลกรางวัล
+- **ค่าธรรมเนียมการได้มาซึ่งพันธมิตร:** THB 5,000 – 20,000 ต่อพันธมิตร
+- **ค่าธรรมเนียมธุรกรรม:** 5–10% ของต้นทุน Point ของพันธมิตร
+- **ค่าธรรมเนียมการแลก:** THB 5–10 ต่อรายการ Redemption
 
 **Model 3: Hybrid (Platform + Performance)**
 
-- **ค่า Platform พื้นฐาน:** ค่าธรรมเนียมรายปีที่ต่ำกว่า (THB 300,000)
-- **Performance Tier:** ค่าธรรมเนียมเพิ่มเติมตาม active users (THB 2-5 ต่อ active user/เดือน)
-- **Partner Revenue Share:** 10-15% ของรายได้ที่พันธมิตรสร้างขึ้น
+- **ค่า Platform พื้นฐาน:** ค่าธรรมเนียมรายปีในระดับต่ำกว่า (เช่น THB 300,000)
+- **Performance Tier:** ค่าธรรมเนียมเพิ่มเติมตาม Active Users (THB 2–5 ต่อ Active User / เดือน)
+- **Partner Revenue Share:** ส่วนแบ่งรายได้จากพันธมิตร 10–15%
 
-**Model 4: Freemium (สำหรับการใช้งานแบบ Consumer-Facing)**
+**Model 4: Freemium (Consumer-facing Use Case)**
 
-- **Free Tier:** mission และรางวัลพื้นฐาน
-- **Premium Subscription:** THB 99-299/เดือนสำหรับ mission พิเศษและตัวคูณ point ที่สูงขึ้น
-- **In-App Purchases:** รางวัลพิเศษหรือแพ็ค point
+- **Free Tier:** Mission และ Reward พื้นฐาน
+- **Premium Subscription:** THB 99–299 / เดือน สำหรับ Mission พิเศษและตัวคูณแต้ม (Point Multiplier)
+- **In-app Purchases:** รางวัลพิเศษหรือ Point Package (ภายใต้กรอบที่ไม่ทำให้ระบบกลายเป็น Pay-to-win)
 
 ### 6.3 โครงสร้างต้นทุนและการวิเคราะห์การลงทุน
 
@@ -875,115 +886,115 @@ Partner ROI = (รายได้จากผู้ใช้ Trophy - ต้น�
 
 | รายการ | เปอร์เซ็นต์ | จำนวนเงิน (THB) | คำอธิบาย |
 | --- | --- | --- | --- |
-| Development | 60% | 600,000 | การออกแบบ การพัฒนา และการพัฒนาฟีเจอร์หลัก |
-| Infrastructure | 15% | 150,000 | Cloud services และ environments สำหรับ POC |
-| Testing &amp; QA | 10% | 100,000 | การทดสอบการทำงาน การแก้บัก การตรวจสอบความปลอดภัยเบื้องต้น |
-| Project Management | 15% | 150,000 | การวางแผน การประสานงาน การรายงาน การสื่อสารกับผู้มีส่วนได้ส่วนเสีย |
+| Development | 60% | 600,000 | การออกแบบ พัฒนา และฟีเจอร์หลัก |
+| Infrastructure | 15% | 150,000 | Cloud Services และ Environment สำหรับ POC |
+| Testing & QA | 10% | 100,000 | Functional Testing, Bug Fixing, Security Check พื้นฐาน |
+| Project Management | 15% | 150,000 | การวางแผน ประสานงาน รายงาน และสื่อสารกับ Stakeholder |
 | **รวม** | **100%** | **1,000,000** |  |
 
-**Phase 2 (MVP): THB 3,000,000 - 5,000,000**
+**Phase 2 (MVP): THB 3,000,000 – 5,000,000**
 
 | รายการ | เปอร์เซ็นต์ | จำนวนเงิน (THB) | คำอธิบาย |
 | --- | --- | --- | --- |
-| Development | 55% | 1,650,000 - 2,750,000 | การพัฒนาฟีเจอร์หลักสำหรับ mobile apps, admin console และ backend |
-| Infrastructure &amp; Cloud | 15% | 450,000 - 750,000 | Cloud environments, การตั้งค่า scaling, monitoring, backups |
-| Testing &amp; Security | 12% | 360,000 - 600,000 | UAT/SIT, load testing, penetration testing, hardening |
-| Design &amp; UX | 8% | 240,000 - 400,000 | การออกแบบ UI/UX, journeys, design system |
-| Project Management | 10% | 300,000 - 500,000 | การวางแผน การประสานงาน การรายงาน การจัดการความเสี่ยง |
-| **รวม** | **100%** | **3,000,000 - 5,000,000** |  |
+| Development | 55% | 1,650,000 – 2,750,000 | พัฒนาฟีเจอร์หลักของ Mobile Apps, Admin Console และ Backend |
+| Infrastructure & Cloud | 15% | 450,000 – 750,000 | Cloud Environment, Scaling Setup, Monitoring, Backups |
+| Testing & Security | 12% | 360,000 – 600,000 | UAT / SIT, Load Testing, Penetration Testing, Hardening |
+| Design & UX | 8% | 240,000 – 400,000 | UI / UX Design, User Journey, Design System |
+| Project Management | 10% | 300,000 – 500,000 | การวางแผน ประสานงาน รายงาน และ Risk Management |
+| **รวม** | **100%** | **3,000,000 – 5,000,000** |  |
 
-**Phase 3 (Full Scale): THB ~10,000,000**
+**Phase 3 (Full-scale): THB ~10,000,000**
 
 | รายการ | เปอร์เซ็นต์ | จำนวนเงิน (THB) | คำอธิบาย |
 | --- | --- | --- | --- |
-| Advanced Development | 50% | 5,000,000 | ฟีเจอร์ขั้นสูง (AI, multi-tenant, การขยาย ecosystem) |
-| AI/ML &amp; Analytics | 15% | 1,500,000 | การวิเคราะห์เชิงคาดการณ์, personalization, fraud models |
-| Infrastructure &amp; Scaling | 15% | 1,500,000 | Infrastructure แบบ high-availability, auto-scaling, DR/BCP |
-| Security &amp; Compliance | 10% | 1,000,000 | ความปลอดภัยขั้นสูง, audits, compliance (เช่น การเตรียม SOC 2) |
-| Testing &amp; QA | 5% | 500,000 | การทดสอบอย่างกว้างขวางในระดับ scale, regression, performance |
-| Project Management | 5% | 500,000 | Program management, การประสานงานในทุก work streams |
-| **รวม** | **100%** | **10,000,000 (โดยประมาณ)** |  |
+| Advanced Development | 50% | 5,000,000 | ฟีเจอร์ขั้นสูง (AI, Multi-tenant, Ecosystem Expansion) |
+| AI / ML & Analytics | 15% | 1,500,000 | Predictive Analytics, Personalization, Fraud Models |
+| Infrastructure & Scaling | 15% | 1,500,000 | High-availability Infrastructure, Auto-scaling, DR / BCP |
+| Security & Compliance | 10% | 1,000,000 | Advanced Security, Audits, Compliance (เช่น SOC 2-ready) |
+| Testing & QA | 5% | 500,000 | การทดสอบในระดับ Scale, Regression, Performance |
+| Project Management | 5% | 500,000 | Program Management และการประสานทุก Workstream |
+| **รวม** | **100%** | **10,000,000 (ประมาณการ)** |  |
 
-**ต้นทุนการดำเนินงานต่อเนื่อง (รายปี):**
+**ต้นทุนการดำเนินงานต่อเนื่อง (ต่อปี):**
 
-- Cloud Hosting: THB 300,000 - 600,000 (เพิ่มตามจำนวนผู้ใช้)
-- Maintenance & Support: THB 600,000 - 1,200,000 (20% ของต้นทุนพัฒนา)
-- Third-Party Services: THB 200,000 - 400,000 (maps, notifications, analytics)
-- Staffing (in-house team): THB 2,400,000+ (2-3 developers + support)
+- Cloud Hosting: THB 300,000 – 600,000 (ปรับตามจำนวนผู้ใช้)
+- Maintenance & Support: THB 600,000 – 1,200,000 (~20% ของต้นทุนพัฒนา)
+- Third-party Services: THB 200,000 – 400,000 (Maps, Notifications, Analytics)
+- Staffing (In-house Team): THB 2,400,000+ (2–3 Developers + Support)
 
-**การลงทุนรวม 3 ปี:**
+**การลงทุนรวม 3 ปี (ตัวอย่างกรอบคิด):**
 
-- Development (ทุก Phases): THB 14,000,000 - 16,000,000
-- Operations (3 ปี): THB 10,200,000 - 18,600,000
-- **รวม: THB 24,200,000 - 34,600,000**
+- Development (ทุก Phase): THB 14,000,000 – 16,000,000
+- Operations (3 ปี): THB 10,200,000 – 18,600,000
+- **รวม:** THB 24,200,000 – 34,600,000
 
 ### 6.4 สถานการณ์ Return on Investment (ROI)
 
-**สถานการณ์ที่ 1: การใช้งานของสโมสรกีฬาเดียว**
+**สถานการณ์ที่ 1: การใช้งานสำหรับสโมสรกีฬาเดียว**
 
 **สมมติฐาน:**
 
-- สโมสรที่มีแฟนบอลลงทะเบียน 50,000 คน
-- เป้าหมาย: active users 20% (10,000 users)
-- 30 สถานที่พันธมิตร
-- ระยะเวลาวิเคราะห์ 3 ปี
+- สโมสรมีแฟนบอลลงทะเบียน 50,000 คน
+- เป้าหมาย Active Users 20% (10,000 Users)
+- มี Partner 30 แห่ง
+- ระยะเวลาพิจารณา 3 ปี
 
-**แหล่งรายได้:**
+**แหล่งรายได้ (ตัวอย่าง):**
 
 - การได้มาซึ่งพันธมิตร: 30 × THB 10,000 = THB 300,000
-- ค่า Platform License รายปี: THB 1,000,000/ปี × 3 = THB 3,000,000
-- ค่าธรรมเนียมธุรกรรมพันธมิตร: THB 500,000/ปี × 3 = THB 1,500,000
+- ค่า Platform License รายปี: THB 1,000,000 / ปี × 3 = THB 3,000,000
+- ค่าธรรมเนียมธุรกรรมพันธมิตร: THB 500,000 / ปี × 3 = THB 1,500,000
 - **รายได้รวม (3 ปี): THB 4,800,000**
 
-**ต้นทุน:**
+**ต้นทุน (ตัวอย่าง):**
 
 - Development: THB 14,000,000
 - Operations: THB 10,200,000
 - **ต้นทุนรวม (3 ปี): THB 24,200,000**
 
-**ROI สุทธิ:** ติดลบใน 3 ปีแรก (ปกติสำหรับการลงทุน platform)
+**ROI สุทธิ:** ติดลบใน 3 ปีแรก (เป็นลักษณะปกติของการลงทุน Platform ระยะยาว)
 
-**จุดคุ้มทุน:** ปีที่ 4-5 ด้วยรายได้ที่เกิดซ้ำ
+**จุดคุ้มทุน:** โดยทั่วไปคาดในปีที่ 4–5 เมื่อรายได้จาก License และ Fee มีความต่อเนื่อง
 
-**มูลค่าเชิงกลยุทธ์:** ข้อมูลลูกค้า ข้อมูลเชิงลึกการมีส่วนร่วม ประสิทธิภาพการดำเนินงาน
+**มูลค่าเชิงกลยุทธ์:** Data ลูกค้า ข้อมูลเชิงลึกด้าน Engagement และประสิทธิภาพการดำเนินงาน
 
-**สถานการณ์ที่ 2: Multi-Tenant White-Label Platform**
+**สถานการณ์ที่ 2: Multi-tenant White-label Platform**
 
 **สมมติฐาน:**
 
-- 5 ลูกค้าองค์กรภายในปีที่ 2
-- 10 ลูกค้าองค์กรภายในปีที่ 3
-- เฉลี่ย 5,000 active users ต่อลูกค้า
+- ลูกค้าองค์กร 5 รายในปีที่ 2
+- ลูกค้าองค์กร 10 รายในปีที่ 3
+- เฉลี่ย 5,000 Active Users ต่อลูกค้า
 - เฉลี่ย 20 พันธมิตรต่อลูกค้า
 
-**แหล่งรายได้:**
+**แหล่งรายได้ (ตัวอย่าง):**
 
-- ค่า License (ปีที่ 1: 2 ลูกค้า, ปีที่ 2: 5 ลูกค้า, ปีที่ 3: 10 ลูกค้า)
-    - ปีที่ 1: THB 1,000,000 × 2 = THB 2,000,000
-    - ปีที่ 2: THB 1,000,000 × 5 = THB 5,000,000
-    - ปีที่ 3: THB 1,000,000 × 10 = THB 10,000,000
-- ค่าธรรมเนียมพันธมิตร: ~THB 3,000,000 (สะสมกว่า 3 ปี)
-- **รายได้รวม (3 ปี): THB 20,000,000**
+- License (ปีที่ 1–3):
+    - ปีที่ 1: 2 ลูกค้า × THB 1,000,000 = THB 2,000,000
+    - ปีที่ 2: 5 ลูกค้า × THB 1,000,000 = THB 5,000,000
+    - ปีที่ 3: 10 ลูกค้า × THB 1,000,000 = THB 10,000,000
+- ค่าธรรมเนียมพันธมิตร (สะสม): ~THB 3,000,000
+- **รายได้รวม (3 ปี): ประมาณ THB 20,000,000**
 
 **ต้นทุน:**
 
-- Development (รวม multi-tenant architecture): THB 16,000,000
-- Operations (infrastructure ที่ขยาย): THB 18,600,000
+- Development (รวม Multi-tenant): THB 16,000,000
+- Operations (รองรับ Scale ที่ใหญ่ขึ้น): THB 18,600,000
 - **ต้นทุนรวม (3 ปี): THB 34,600,000**
 
-**ROI สุทธิ:** ติดลบใน 3 ปีแรก แต่ใกล้จุดคุ้มทุน
+**ROI สุทธิ:** ยังติดลบภายใน 3 ปีแรก แต่เข้าใกล้จุดคุ้มทุน
 
-**จุดคุ้มทุน:** ปีที่ 3-4
+**จุดคุ้มทุน:** โดยทั่วไปคาดในปีที่ 3–4
 
-**ข้อได้เปรียบในการขยาย:** ต้นทุนส่วนเพิ่มของลูกค้าเพิ่มเติมต่ำ (ส่วนใหญ่เป็น support)
+**ข้อได้เปรียบเชิง Scale:** ต้นทุนเพิ่มต่อ Client รายใหม่ต่ำ (ส่วนใหญ่เพิ่มเฉพาะด้าน Support)
 
-**หมายเหตุเกี่ยวกับ ROI:** การคาดการณ์เหล่านี้เป็นเพียงตัวอย่าง ROI จริงขึ้นอยู่กับปัจจัยต่อไปนี้เป็นอย่างมาก:
+**หมายเหตุเกี่ยวกับ ROI:** ตัวอย่างด้านบนเป็น Scenario เพื่อการวิเคราะห์เท่านั้น ROI จริงขึ้นอยู่กับ:
 
-- ความสำเร็จในการได้มาซึ่งลูกค้า
-- อัตราการยอมรับของผู้ใช้
-- การพัฒนา partner ecosystem
-- สภาพแวดล้อมการแข่งขัน
-- สภาวะตลาด
+- ความสำเร็จด้านการขายและการได้มาซึ่งลูกค้า
+- อัตราการยอมรับการใช้งาน (Adoption)
+- การเติบโตของ Partner Ecosystem
+- สภาพการแข่งขันในตลาด
+- ภาวะเศรษฐกิจและปัจจัยภายนอกอื่น ๆ
 
 ---
 
@@ -991,203 +1002,199 @@ Partner ROI = (รายได้จากผู้ใช้ Trophy - ต้น�
 
 ### 7.1 กระบวนการทำงานมาตรฐานของ DOS
 
-โครงการ Trophy จะปฏิบัติตามระเบียบวิธี 8 ขั้นตอนที่พิสูจน์แล้วของ DOS:
+โครงการ The Trophy จะใช้กระบวนการ 8 ขั้นตอนมาตรฐานของ DOS ดังนี้:
 
 **Phase 1: การลงนาม NDA และสัญญา**
 
-- ข้อตกลงการไม่เปิดเผยข้อมูลร่วมกัน
-- สัญญาบริการหลัก
-- รายละเอียดงานเฉพาะโครงการ (SOW)
-- เงื่อนไขการชำระเงินและ milestones
+- ข้อตกลงการไม่เปิดเผยข้อมูล (Mutual NDA)
+- สัญญาบริการหลัก (Master Service Agreement)
+- Statement of Work (SOW) เฉพาะโครงการ
+- เงื่อนไขการชำระเงินและ Milestone
 
-**Phase 2: การรวบรวมความต้องการ**
+**Phase 2: การรวบรวมความต้องการ (Requirements Gathering)**
 
-- การสัมภาษณ์ผู้มีส่วนได้ส่วนเสีย
-- การวิจัยผู้ใช้และการพัฒนา persona
-- การจับภาพกระบวนการทางธุรกิจ
-- เอกสารความต้องการด้านการทำงานและเทคนิค
-- การกำหนดเกณฑ์การยอมรับ
+- สัมภาษณ์ Stakeholder หลัก
+- User Research และ Persona Development
+- เก็บกระบวนการธุรกิจ (Business Process Capture)
+- Functional & Technical Requirements Document
+- การกำหนด Acceptance Criteria
 
-**Phase 3: Kickoff**
+**Phase 3: Project Kickoff**
 
-- การแนะนำทีมโครงการ
-- การจัดทำแผนการสื่อสาร
-- การทบทวน timeline และ milestone
-- การประเมินความเสี่ยงและการวางแผนการลดความเสี่ยง
-- การจัดหาเครื่องมือและการเข้าถึง
+- แนะนำทีมโครงการ
+- จัดทำ Communication Plan
+- ทบทวน Timeline และ Milestone
+- ประเมินความเสี่ยงและวาง Risk Mitigation Plan
+- จัดเตรียม Tool / Access ที่ต้องใช้
 
 **Phase 4: Design**
 
-- Information architecture
-- Wireframing และ user flows
-- Mockups ความละเอียดสูง (UI)
-- การสร้าง design system
-- Interactive prototypes
-- การทบทวนและอนุมัติจากลูกค้า
+- Information Architecture
+- Wireframe และ User Flow
+- High-fidelity UI Mockup
+- การสร้าง Design System
+- Interactive Prototype
+- รีวิวและอนุมัติโดยลูกค้า
 
 **Phase 5: Development**
 
-- การวางแผน Sprint (2-week sprints)
-- การพัฒนาและทดสอบอย่างต่อเนื่อง
-- Sprint demos เป็นประจำ
-- Code reviews และ quality assurance
-- Integration และการพัฒนา API
+- วางแผน Sprint (ปกติ 2 สัปดาห์)
+- พัฒนาและทดสอบแบบต่อเนื่อง
+- Sprint Demo เป็นประจำ
+- Code Review และ Quality Assurance
+- Integration และ API Development
 
-**Phase 6: UAT/SIT**
+**Phase 6: UAT / SIT**
 
-- **User Acceptance Testing (UAT):** ลูกค้าตรวจสอบฟีเจอร์กับความต้องการ
-- **System Integration Testing (SIT):** ตรวจสอบว่าทุก components ทำงานร่วมกัน
-- การติดตามและแก้ไข bug
-- การทดสอบประสิทธิภาพ
-- การทดสอบความปลอดภัย
-- การอนุมัติขั้นสุดท้ายจากลูกค้า
+- **User Acceptance Testing (UAT):** ลูกค้าทดสอบฟีเจอร์กับ Requirements
+- **System Integration Testing (SIT):** ทดสอบการทำงานร่วมกันของทุก Components
+- Bug Tracking & Fixing
+- Performance Testing
+- Security Testing
+- Final Sign-off จากลูกค้า
 
-**Phase 7: Go-Live**
+**Phase 7: Go-live**
 
-- Production deployment
-- Data migration (ถ้าเกี่ยวข้อง)
-- การอบรมผู้ใช้และเอกสาร
-- การติดตามและสนับสนุนการเปิดตัว
-- การเปิดตัวแบบเป็นขั้น (ถ้าเหมาะสม)
+- Production Deployment
+- Data Migration (ถ้ามี)
+- การอบรมผู้ใช้และจัดทำคู่มือ
+- Monitoring & Launch Support
+- Roll-out แบบเป็นขั้น (หากเหมาะสม)
 
 **Phase 8: Support & Warranty**
 
-- ระยะเวลา warranty 90 วัน (มาตรฐาน)
-- การแก้ไข bug และการแก้ไขปัญหา
-- การติดตามประสิทธิภาพ
-- การเปลี่ยนไปสู่การบำรุงรักษาต่อเนื่อง (ตัวเลือก)
+- ระยะ Warranty 90 วัน (มาตรฐาน)
+- Bug Fixing และ Issue Resolution
+- Performance Monitoring เบื้องต้น
+- การเปลี่ยนผ่านไปสู่ Maintenance ระยะยาว (ทางเลือก)
 
 ### 7.2 รูปแบบการทำงานและราคา
 
-**ประเภทโครงการ:** Agile Fixed-Price (การส่งมอบแบบแบ่งเป็นขั้นตอน)
+**ประเภทโครงการ:** Agile Fixed-price (แบ่งส่งมอบเป็น Phase)
 
 **Phase 1 (POC): THB 1,000,000**
 
-- ราคาคงที่สำหรับขอบเขตที่กำหนด
-- Timeline การส่งมอบ 8-10 สัปดาห์
-- องค์ประกอบทีม:
+- ราคาคงที่ตามขอบเขตที่ตกลง
+- ระยะเวลาประมาณ 8–10 สัปดาห์
+- องค์ประกอบทีม (ตัวอย่าง):
     - 1 Lead Developer (50 วัน × THB 13,000 = THB 650,000)
     - 1 Senior Developer (30 วัน × THB 11,000 = THB 330,000)
-    - Project buffer: THB 20,000
+    - Project Buffer: THB 20,000
 
-**Phase 2 (MVP): THB 3,000,000 - 5,000,000**
+**Phase 2 (MVP): THB 3,000,000 – 5,000,000**
 
-- ราคาคงที่สำหรับฟีเจอร์หลัก
-- Timeline การส่งมอบ 16-20 สัปดาห์
-- องค์ประกอบทีม:
+- ราคาคงที่สำหรับ Scope ฟีเจอร์หลัก
+- ระยะเวลา 16–20 สัปดาห์
+- องค์ประกอบทีม (ตัวอย่าง):
     - 1 Project Manager / Lead (120 วัน × THB 13,000 = THB 1,560,000)
-    - 2 Senior Developers (200 วัน × THB 11,000 = THB 2,200,000)
+    - 2 Senior Developers (รวม 200 วัน × THB 11,000 = THB 2,200,000)
     - 1 Junior Developer (100 วัน × THB 8,000 = THB 800,000)
-    - 1 UI/UX Designer (40 วัน × THB 11,000 = THB 440,000)
-- รวม: THB 5,000,000
+    - 1 UI / UX Designer (40 วัน × THB 11,000 = THB 440,000)
+    - รวมประมาณ THB 5,000,000
 
-**Phase 3 (Full Scale): THB ~10,000,000**
+**Phase 3 (Full-scale): THB ~10,000,000**
 
-- รายละเอียดจะให้หลังจากเสร็จสิ้น Phase 2
-- ประมาณการส่งมอบ 24-30 สัปดาห์
-- ทีมที่ขยายพร้อมผู้เชี่ยวชาญ
+- จะจัดทำรายละเอียดหลังจบ Phase 2
+- ประมาณการระยะเวลา 24–30 สัปดาห์
+- ทีมขยายพร้อมผู้เชี่ยวชาญเฉพาะทางเพิ่มเติม
 
-**เงื่อนไขการชำระเงิน (มาตรฐาน):**
+**เงื่อนไขการชำระเงิน (ตัวอย่างมาตรฐาน)**
 
 สำหรับ Phase 1:
 
 - 30% เมื่อลงนามสัญญา: THB 300,000
-- 40% เมื่อ UAT อนุมัติ: THB 400,000
-- 30% เมื่อ go-live: THB 300,000
+- 40% เมื่อ UAT ผ่านการอนุมัติ: THB 400,000
+- 30% เมื่อ Go-live: THB 300,000
 
 สำหรับ Phase 2:
 
 - 20% เมื่อลงนามสัญญา
-- 30% เมื่ออนุมัติการออกแบบ
-- 30% เมื่อ UAT อนุมัติ
-- 20% เมื่อ go-live
+- 30% เมื่ออนุมัติ Design
+- 30% เมื่อ UAT ผ่านการอนุมัติ
+- 20% เมื่อ Go-live
 
 **ทางเลือก: Monthly Retainer Model**
 
-- พร้อมให้บริการสำหรับการพัฒนาต่อเนื่องหลังการเปิดตัวครั้งแรก
-- Senior Developer: THB 180,000/เดือน
-- Junior Developer: THB 150,000/เดือน
-- ข้อผูกมัดขั้นต่ำ 6 เดือน
-- เหมาะสำหรับการพัฒนาฟีเจอร์และการสนับสนุนอย่างต่อเนื่อง
+- สำหรับการพัฒนาต่อเนื่องหลัง First Launch
+- Senior Developer: THB 180,000 / เดือน
+- Junior Developer: THB 150,000 / เดือน
+- ระยะเวลาขั้นต่ำ 6 เดือน
+- เหมาะสำหรับการทำ Feature Roadmap ต่อเนื่องและ Support เชิงลึก
 
-### 7.3 Timeline และ Milestones
+### 7.3 Timeline และ Milestone
 
 **Phase 1: Proof of Concept**
 
 | สัปดาห์ | Milestone | สิ่งส่งมอบ |
 | --- | --- | --- |
-| 1-2 | Requirements & Design | Wireframes, technical architecture |
-| 3-5 | Core Development | Basic customer app, partner app, admin console |
-| 6-7 | Integration & Testing | API integration, basic geofencing |
-| 8 | UAT | การทดสอบและ feedback จากลูกค้า |
-| 9-10 | Refinement & Launch | การแก้ไข bug, pilot deployment |
+| 1–2 | Requirements & Design | Wireframes, Technical Architecture |
+| 3–5 | Core Development | Customer App (Basic), Partner App (Prototype), Admin Console (Essential) |
+| 6–7 | Integration & Testing | API Integration, Basic Geofencing |
+| 8 | UAT | การทดสอบและ Feedback จากลูกค้า |
+| 9–10 | Refinement & Launch | Bug Fixing, Pilot Deployment |
 
 **Phase 2: MVP**
 
 | สัปดาห์ | Milestone | สิ่งส่งมอบ |
 | --- | --- | --- |
-| 1-3 | Design & Architecture | การออกแบบ UI/UX แบบเต็ม, database design, API specs |
-| 4-8 | Customer App Development | mission ทุกประเภท, rewards, tiering, Trophy Wallet |
-| 9-12 | Partner App & Admin Console | เครื่องมือพันธมิตรแบบเต็ม, ฟีเจอร์ admin ที่ครอบคลุม |
-| 13-15 | Integration & Security | Point transfer integration, fraud prevention, security hardening |
-| 16-17 | Testing | UAT, SIT, load testing, security testing |
-| 18-20 | Beta Launch & Refinement | การเริ่มใช้งาน beta user, monitoring, optimization |
+| 1–3 | Design & Architecture | Full UI / UX Design, Database Design, API Specs |
+| 4–8 | Customer App Development | Mission ครบทุกประเภท, Rewards, Tiering, Trophy Wallet (Full) |
+| 9–12 | Partner App & Admin Console | Partner Tools แบบเต็ม, Admin Features ครบถ้วน |
+| 13–15 | Integration & Security | Point Transfer Integration, Fraud Prevention, Security Hardening |
+| 16–17 | Testing | UAT, SIT, Load Testing, Security Testing |
+| 18–20 | Beta Launch & Refinement | Beta Roll-out, Monitoring, Optimization |
 
-**Phase 3: Full Scale**
+**Phase 3: Full-scale**
 
-- Timeline รายละเอียดจะให้หลังจากการทบทวน Phase 2
-- ประมาณ 24-30 สัปดาห์
-- แนวทางแบบโมดูลาร์ที่อนุญาตให้มีการพัฒนาแบบขนานกัน
+- Timeline รายละเอียดจะกำหนดหลังรีวิวผลลัพธ์จาก Phase 2
+- คาดประมาณ 24–30 สัปดาห์
+- แบ่งเป็นโมดูลย่อย ทำงานแบบขนานได้บางส่วน
 
 ### 7.4 องค์ประกอบทีมและบทบาท
 
-**ทีมหลักของ DOS:**
+**ทีมหลักของ DOS – Project Leadership:**
 
-**ผู้นำโครงการ:**
+- **Jakapong (Tle)** – Chief Operating Officer / Executive Sponsor
+- **Project Manager** – ดูแลการประสานงานโครงการและการสื่อสารกับ Stakeholder
 
-- **Jakapong (TLE)** - Chief Operating Officer / Executive Sponsor
-- **Project Manager** - การประสานงานโครงการในแต่ละวัน การสื่อสารกับผู้มีส่วนได้ส่วนเสีย
+**ทีมพัฒนา (Development Team):**
 
-**ทีมพัฒนา:**
-
-- **Lead Developer (Mobile)** - Flutter architecture, iOS/Android deployment
-- **Senior Backend Developer** - API design, database architecture
-- **Senior Frontend Developer** - Admin console (React/Vue.js)
-- **Junior Developer** - Support development, testing, documentation
+- **Lead Developer (Mobile)** – Flutter Architecture, iOS / Android Deployment
+- **Senior Backend Developer** – API Design, Database Architecture
+- **Senior Frontend Developer** – Admin Console (React / Vue.js)
+- **Junior Developer** – งานสนับสนุนการพัฒนาและ Testing
 
 **Design & UX:**
 
-- **Nitipong (OHM)** - Head of Design / UX Strategy
-- **UI/UX Designer** - Interface design, user flows, design system
+- **Nitipong (Ohm)** – Head of Design / UX Strategy
+- **UI / UX Designer** – Interface Design, User Flow, Design System
 
 **Infrastructure & DevOps:**
 
-- **Surasee (PECK)** - Head of Infrastructure / Cloud Architecture
-- **DevOps Engineer** - CI/CD, deployment, monitoring
+- **Surasee (Peck)** – Head of Infrastructure / Cloud Architecture
+- **DevOps Engineer** – CI / CD, Deployment, Monitoring
 
 **Quality Assurance:**
 
-- **QA Engineer** - การวางแผนการทดสอบ การทดสอบแบบ manual และ automated
-- **Security Specialist** - Security audits, penetration testing (ที่ปรึกษาภายนอกถ้าจำเป็น)
+- **QA Engineer** – Test Planning, Manual & Automated Testing
+- **Security Specialist** – Security Audit, Penetration Testing (อาจเป็นที่ปรึกษาภายนอก)
 
-**ความรับผิดชอบของลูกค้า:**
+**ความรับผิดชอบของลูกค้า – Product Owner:**
 
-**Product Owner:**
+- กำหนด Business Requirements และลำดับความสำคัญ
+- ให้ Feedback ด้าน Design และ Feature อย่างทันท่วงที
+- อนุมัติ Deliverables และงานที่แล้วเสร็จ
+- เข้าร่วม Sprint Review และการประชุมตัดสินใจหลัก
 
-- กำหนดความต้องการทางธุรกิจและลำดับความสำคัญ
-- ให้ feedback ทันเวลาเกี่ยวกับการออกแบบและฟีเจอร์
-- อนุมัติสิ่งส่งมอบและยอมรับงานที่เสร็จสมบูรณ์
-- เข้าร่วม sprint reviews และการประชุมตัดสินใจสำคัญ
+**Subject Matter Experts (SMEs):**
 
-**Subject Matter Experts:**
-
-- ให้ความรู้ด้าน domain (การดำเนินงานกีฬา ความสัมพันธ์กับพันธมิตร)
-- ตรวจสอบ business logic และ workflows
+- ให้ความรู้ Domain (เช่น การดำเนินงานสโมสรกีฬา ความสัมพันธ์พันธมิตร)
+- ตรวจสอบ Business Logic และ Workflow
 - สนับสนุนการทดสอบผู้ใช้และการอบรม
 
-**Stakeholders:**
+**Stakeholders (ฝั่งลูกค้า):**
 
-- ผู้สนับสนุนระดับผู้บริหารสำหรับการจัดแนวเชิงกลยุทธ์
+- ผู้บริหารที่เป็น Executive Sponsor เพื่อ Alignment เชิงกลยุทธ์
 - ทีมการตลาดสำหรับกลยุทธ์การได้มาซึ่งผู้ใช้
 - ผู้จัดการพันธมิตรสำหรับการรับพันธมิตรเข้าร่วม
 
@@ -1195,260 +1202,263 @@ Partner ROI = (รายได้จากผู้ใช้ Trophy - ต้น�
 
 **การประชุมประจำ:**
 
-- **Daily Standups:** ทีม DOS ภายใน (15 นาที)
-- **Weekly Sprint Reviews:** ลูกค้า + ทีม DOS (1 ชั่วโมง)
-    - Demo ของฟีเจอร์ที่เสร็จสมบูรณ์
-    - การรวบรวม feedback
-    - การวางแผน sprint ถัดไป
-- **Bi-weekly Steering Committee:** ผู้มีส่วนได้ส่วนเสียระดับผู้บริหาร + ผู้นำ DOS (30-60 นาที)
-    - การทบทวนความคืบหน้า
-    - การจัดการความเสี่ยงและปัญหา
-    - การจัดแนวเชิงกลยุทธ์
+- **Daily Standup (ภายใน DOS):** 15 นาที
+- **Weekly Sprint Review (ลูกค้า + DOS):** 1 ชั่วโมง
+    - Demo ฟีเจอร์ที่เสร็จแล้ว
+    - รวบรวม Feedback
+    - วางแผน Sprint ถัดไป
+- **Bi-weekly Steering Committee:** 30–60 นาที
+    - ทบทวนความคืบหน้า
+    - จัดการความเสี่ยงและประเด็นสำคัญ
+    - Alignment เชิงกลยุทธ์
 
 **ช่องทางการสื่อสาร:**
 
-- **หลัก:** Email สำหรับการสื่อสารอย่างเป็นทางการ
-- **Real-time:** LINE, Slack หรือ Microsoft Teams สำหรับคำถามด่วน
-- **Project Management:** Jira, Asana หรือ Trello สำหรับการติดตามงาน
-- **Documentation:** Google Drive หรือ Confluence สำหรับเอกสารที่แชร์
+- **Official:** Email สำหรับการสื่อสารทางการ
+- **Real-time:** LINE, Slack หรือ Microsoft Teams สำหรับคำถามเร่งด่วน
+- **Project Management:** Jira, Asana หรือ Trello สำหรับติดตามงาน
+- **Documentation:** Google Drive หรือ Confluence สำหรับเอกสารที่ใช้ร่วมกัน
 
 **การรายงาน:**
 
-- **รายงานสถานะรายสัปดาห์:** ความคืบหน้า ความเสี่ยง ปัญหา milestones ที่จะมาถึง
-- **สรุปผู้บริหารรายเดือน:** ความคืบหน้าระดับสูงสำหรับผู้มีส่วนได้ส่วนเสีย
-- **รายงาน Sprint:** การทำฟีเจอร์ให้เสร็จโดยละเอียดและ burndown charts
+- **รายงานสถานะรายสัปดาห์:** ความคืบหน้า ความเสี่ยง ปัญหา Milestone ถัดไป
+- **สรุปผู้บริหารรายเดือน:** ภาพรวมเชิงกลยุทธ์สำหรับผู้บริหาร
+- **รายงาน Sprint:** รายละเอียดฟีเจอร์ที่ส่งมอบและ Burndown Chart
+
 ---
 
 ## 8. การรับประกัน การสนับสนุน และการบำรุงรักษา (Warranty, Support & Maintenance)
 
-### 8.1 การรับประกันมาตรฐาน (Standard Warranty) - รวมอยู่ในราคา
+### 8.1 การรับประกันมาตรฐาน (Standard Warranty) – รวมอยู่ในราคา
 
-**ระยะเวลา:** 90 วันหลังจาก Go-Live delivery
+**ระยะเวลา:** 90 วันหลังจาก Go-live
 
 **ความคุ้มครอง:**
 
-- ข้อบกพร่องของซอฟต์แวร์และ bugs ที่เบี่ยงเบนจาก specifications ที่ตกลงไว้
-- ปัญหาการตั้งค่า server ที่เกิดจากทาง DOS
-- ช่องโหว่ด้านความปลอดภัยร้ายแรง (critical security vulnerabilities) ที่ถูกค้นพบ
-- ปัญหาประสิทธิภาพที่ไม่ตรงตาม SLAs ที่ตกลงไว้
+- ข้อบกพร่องของซอฟต์แวร์และ Bug ที่เบี่ยงเบนจาก Specification ที่ตกลงไว้
+- ปัญหาการตั้งค่า Server ที่เกิดจาก DOS
+- ช่องโหว่ด้านความปลอดภัยระดับ Critical ที่ถูกค้นพบ
+- ปัญหาประสิทธิภาพที่ไม่เป็นไปตาม SLA ที่ตกลง
 
 **เงื่อนไขสำหรับการแก้ไขฟรี:**
 
-- ปัญหาที่เบี่ยงเบนจาก specifications ที่ sign-off แล้วอย่างชัดเจน
-- ปัญหาที่เกิดจากการพัฒนาหรือการตั้งค่าของทาง DOS
-- ปัญหาที่รายงานภายใน 90 วันของช่วงรับประกัน
-- ปัญหาที่สามารถทำซ้ำได้ใน production environment
+- ปัญหาเบี่ยงเบนจาก Specification ที่ได้รับการ Sign-off อย่างชัดเจน
+- ปัญหาที่เกิดจากการพัฒนา / การตั้งค่าจากฝั่ง DOS
+- ปัญหาที่ถูกรายงานภายใน 90 วันของช่วง Warranty
+- ปัญหาที่สามารถ Reproduce ได้บน Production Environment
 
-**ข้อยกเว้น (ไม่อยู่ในความคุ้มครองของการรับประกัน):**
+**ข้อยกเว้น (ไม่อยู่ใน Warranty):**
 
-- การปรับปรุงฟีเจอร์หรือการเพิ่มขอบเขตงาน (feature enhancements or scope additions)
-- ปัญหาที่เกิดจากการแก้ไขของลูกค้าหรือการเชื่อมต่อกับ third-party
-- การเปลี่ยนแปลง infrastructure ตามคำขอของลูกค้า
-- การอบรมผู้ใช้หรือการอัปเดต documentation
-- ปัญหาที่เกิดจากเหตุสุดวิสัย (force majeure) เช่น ภัยธรรมชาติ ฯลฯ
+- การปรับปรุงฟีเจอร์หรือขยาย Scope (Feature Enhancement / Scope Addition)
+- ปัญหาที่เกิดจากการแก้ไขระบบโดยลูกค้า หรือ Integrations ภายนอก
+- การเปลี่ยนแปลง Infrastructure ตามคำขอลูกค้า
+- การอบรมเพิ่มเติมหรืออัปเดต Documentation
+- เหตุสุดวิสัย (Force Majeure) เช่น ภัยธรรมชาติ เป็นต้น
 
-### 8.2 ตัวเลือกการสนับสนุนหลังหมดระยะเวลารับประกัน
+### 8.2 ตัวเลือกการสนับสนุนหลังหมดระยะ Warranty
 
-**ตัวเลือก 1: Time & Materials (Ad-Hoc)**
+**ตัวเลือก 1: Time & Materials (Ad-hoc)**
 
-- ไม่มีข้อผูกมัดรายเดือน
-- จ่ายเฉพาะงานที่ทำจริงเท่านั้น
-- อัตราค่าบริการ: Junior THB 8,000/วัน, Senior THB 11,000/วัน
-- เหมาะสำหรับ: การแก้ไข bugs เป็นครั้งคราว หรือการอัปเดตเล็กน้อย
-- เวลาตอบสนอง: Best effort (โดยทั่วไป 3-5 วันทำการ)
+- ไม่มี Commitment รายเดือน
+- จ่ายตามจำนวนวันทำงานจริง
+- อัตรา: Junior THB 8,000 / วัน, Senior THB 11,000 / วัน
+- เหมาะสำหรับการแก้ Bug หรือ Update เล็กน้อยเป็นครั้งคราว
+- SLA การตอบรับ: Best-effort (ปกติ 3–5 วันทำการ)
 
 **ตัวเลือก 2: Monthly Retainer (แนะนำ)**
 
-**แผน Basic: THB 50,000/เดือน**
+**แผน Basic: THB 50,000 / เดือน**
 
-- จำนวนชั่วโมงสนับสนุน 5 ชั่วโมง/เดือน (ชั่วโมงที่ไม่ได้ใช้จะไม่สะสม)
-- การสนับสนุนผ่าน email (ตอบภายใน 24 ชั่วโมง)
-- การแก้ไข bugs ที่ไม่ร้ายแรง (non-critical)
-- การอัปเดตเนื้อหาเล็กน้อย
-- เหมาะสำหรับ: ระบบ production ที่มีเสถียรภาพพร้อมความต้องการเป็นครั้งคราว
+- ชั่วโมง Support 5 ชั่วโมง / เดือน (ใช้ไม่หมดไม่ทบเดือนถัดไป)
+- Support ผ่าน Email (ตอบภายใน 24 ชั่วโมง)
+- แก้ไข Bug ระดับ Non-critical
+- การอัปเดต Content ขนาดเล็ก
+- เหมาะสำหรับระบบ Production ที่นิ่งแล้ว ต้องการดูแลเป็นระยะ
 
-**แผน Professional: THB 150,000/เดือน**
+**แผน Professional: THB 150,000 / เดือน**
 
-- จำนวนชั่วโมงสนับสนุน 15 ชั่วโมง/เดือน
-- การสนับสนุนผ่าน email และโทรศัพท์ (ตอบภายใน 4 ชั่วโมง)
-- การแก้ไข critical bugs ภายใน 24 ชั่วโมง
-- รายงานสุขภาพระบบและประสิทธิภาพรายเดือน
-- การอัปเดตด้านความปลอดภัยและ patches
-- เหมาะสำหรับ: ระบบ production ที่มีการใช้งานพร้อมการอัปเดตเป็นประจำ
+- ชั่วโมง Support 15 ชั่วโมง / เดือน
+- Support ผ่าน Email และโทรศัพท์ (ตอบภายใน 4 ชั่วโมง)
+- แก้ Critical Bug ภายใน 24 ชั่วโมง
+- รายงาน System Health และ Performance รายเดือน
+- อัปเดต Security Patch อย่างสม่ำเสมอ
+- เหมาะสำหรับระบบ Production ที่ใช้งานจริงและต้องอัปเดตเป็นประจำ
 
-**แผน Enterprise: THB 300,000/เดือน**
+**แผน Enterprise: THB 300,000 / เดือน**
 
-- จำนวนชั่วโมงสนับสนุน 30 ชั่วโมง/เดือน
-- การสนับสนุนแบบลำดับความสำคัญ (priority support) - ตอบภายใน 2 ชั่วโมง
-- การแก้ไข critical bugs ภายใน 4 ชั่วโมง
-- มี account manager เฉพาะ
-- การพัฒนาฟีเจอร์รายไตรมาส
-- การติดตามและเพิ่มประสิทธิภาพเชิงรุก (proactive monitoring and optimization)
-- เหมาะสำหรับ: ระบบที่สำคัญต่อธุรกิจ (mission-critical) พร้อมผู้ใช้งานจำนวนมาก
+- ชั่วโมง Support 30 ชั่วโมง / เดือน
+- Priority Support – ตอบรับภายใน 2 ชั่วโมง
+- แก้ Critical Bug ภายใน 4 ชั่วโมง
+- มี Account Manager เฉพาะ
+- Feature Development เชิงรุกรายไตรมาส
+- Proactive Monitoring & Optimization
+- เหมาะสำหรับระบบ Mission-critical ที่มีผู้ใช้จำนวนมาก
 
 **ตัวเลือก 3: Extended Development Team**
 
-- นักพัฒนาเฉพาะ (dedicated developers) แบบ full-time หรือ part-time
-- Senior Developer: THB 180,000/เดือน
-- Junior Developer: THB 150,000/เดือน
-- ข้อผูกมัดขั้นต่ำ 6 เดือน
-- เหมาะสำหรับ: การพัฒนาฟีเจอร์อย่างต่อเนื่อง และการปรับปรุงขนาดใหญ่
+- Developer เฉพาะ (Dedicated Developer) แบบ Full-time หรือ Part-time
+- Senior Developer: THB 180,000 / เดือน
+- Junior Developer: THB 150,000 / เดือน
+- ระยะเวลาขั้นต่ำ 6 เดือน
+- เหมาะสำหรับการพัฒนาฟีเจอร์ต่อเนื่องและ Large-scale Improvement
 
 ### 8.3 Service Level Agreements (SLAs)
 
-**ความพร้อมใช้งานของระบบ (System Availability):**
+**System Availability:**
 
-- **MVP (Phase 2):** 99% uptime (downtime สูงสุด 7.2 ชั่วโมง/เดือน)
-- **Full Scale (Phase 3):** 99.9% uptime (downtime สูงสุด 43 นาที/เดือน)
-- วัดผลรายเดือน ไม่รวมช่วงเวลาบำรุงรักษาตามกำหนดการ
+- **MVP (Phase 2):** 99% Uptime (Downtime สูงสุด ~7.2 ชั่วโมง / เดือน)
+- **Full-scale (Phase 3):** 99.9% Uptime (Downtime สูงสุด ~43 นาที / เดือน)
+- วัดรายเดือน ไม่รวมช่วง Maintenance ตามกำหนดการ
 
-**เวลาตอบสนองการสนับสนุน (Support Response Times):**
+**Support Response Times:**
 
 | ระดับความรุนแรง | คำอธิบาย | แผน Professional | แผน Enterprise |
 | --- | --- | --- | --- |
-| Critical | ระบบล่ม ฟังก์ชันหลักเสียหายรุนแรง | 4 ชั่วโมง | 2 ชั่วโมง |
-| High | ฟีเจอร์สำคัญบกพร่อง มีวิธีแก้ปัญหาชั่วคราว | 8 ชั่วโมง | 4 ชั่วโมง |
-| Medium | ฟีเจอร์เล็กน้อยมีปัญหา ผลกระทบต่อผู้ใช้จำกัด | 24 ชั่วโมง | 12 ชั่วโมง |
-| Low | ปัญหาเชิงรูปลักษณ์ การขอฟีเจอร์ | 72 ชั่วโมง | 24 ชั่วโมง |
+| Critical | ระบบล่ม / ฟังก์ชันหลักใช้ไม่ได้ | 4 ชั่วโมง | 2 ชั่วโมง |
+| High | ฟีเจอร์สำคัญมีปัญหา แต่มี Workaround | 8 ชั่วโมง | 4 ชั่วโมง |
+| Medium | ฟีเจอร์รองมีปัญหา ผลกระทบจำกัด | 24 ชั่วโมง | 12 ชั่วโมง |
+| Low | ปัญหาด้าน UI / Cosmetic หรือ Feature Request | 72 ชั่วโมง | 24 ชั่วโมง |
 
-**การบำรุงรักษาตามกำหนดการ (Scheduled Maintenance):**
+**Scheduled Maintenance:**
 
-- ประกาศล่วงหนา 7 วัน
-- ดำเนินการในช่วงเวลา traffic ต่ำ (เช่น 01:00-04:00 น. เวลาประเทศไทย)
-- ระยะเวลาสูงสุด 4 ชั่วโมง
-- การบำรุงรักษาตามกำหนดการสูงสุด 1 ครั้งต่อเดือน
+- แจ้งลูกค้าล่วงหน้าอย่างน้อย 7 วัน
+- ดำเนินการในช่วง Low-traffic (เช่น 01:00–04:00 น. ตามเวลาไทย)
+- ระยะเวลาแต่ละครั้งไม่เกิน 4 ชั่วโมง
+- จำกัด Maintenance แบบตามกำหนดไม่เกิน 1 ครั้งต่อเดือน
 
-### 8.4 การติดตามและการจัดการเชิงรุก (Monitoring & Proactive Management)
+### 8.4 Monitoring & Proactive Management
 
 **รวมอยู่ในแผน Professional และ Enterprise:**
 
-- การติดตามอัตโนมัติตลอด 24/7 สำหรับ:
-    - ความพร้อมใช้งานของระบบและ uptime
-    - เวลาตอบสนองของ API
-    - ประสิทธิภาพของ database
-    - อัตราข้อผิดพลาดและ exceptions
-    - สุขภาพของ infrastructure (CPU, memory, disk)
-- การแจ้งเตือนอัตโนมัติเมื่อเกินค่าขีดจำกัด
-- รายงานประสิทธิภาพและสุขภาพรายเดือน
-- คำแนะนำเชิงรุกสำหรับการเพิ่มประสิทธิภาพ
+- Automated 24/7 Monitoring สำหรับ:
+    - System Availability และ Uptime
+    - API Response Time
+    - Database Performance
+    - Error Rate และ Exception
+    - Infrastructure Health (CPU, Memory, Disk)
+- Alert อัตโนมัติเมื่อเกิน Threshold
+- รายงานประสิทธิภาพและสุขภาพระบบรายเดือน
+- คำแนะนำ Optimization เชิงรุก
 
-**การจัดการด้านความปลอดภัย (Security Management):**
+**Security Management:**
 
-- การอัปเดตด้านความปลอดภัยสำหรับ dependencies เป็นประจำ
-- การตรวจสอบความปลอดภัยรายไตรมาส (แผน Enterprise)
-- การติดตามความสอดคล้องกับ PDPA
-- การสนับสนุนการตอบสนองต่อเหตุการณ์ (incident response support)
+- อัปเดต Security Patch สำหรับ Dependency อย่างสม่ำเสมอ
+- Security Review รายไตรมาส (สำหรับแผน Enterprise)
+- ติดตาม Compliance กับ PDPA
+- Incident Response Support เมื่อเกิดเหตุด้านความปลอดภัย
 
 ---
 
 ## 9. การพัฒนาในอนาคตและ Roadmap (Future Enhancements & Roadmap)
 
-แนวทางแบบเป็นขั้นตอน (phased approach) ช่วยให้สามารถขยายงานได้อย่างมีการควบคุม ต่อไปนี้คือการพัฒนาที่เป็นไปได้เกินกว่า Phase 3:
+แนวทางแบบ Phased Approach ช่วยให้สามารถขยายงานได้อย่างควบคุม ต่อไปนี้คือทิศทางที่อาจพัฒนาเกินกว่า Phase 3:
 
-### 9.1 Personalization ขั้นสูงและ AI
+### 9.1 Advanced Personalization & AI
 
-**การแนะนำ Mission แบบเฉพาะบุคคล (Personalized Mission Recommendations)**
+**Personalized Mission Recommendations**
 
-- อัลกอริทึม machine learning แนะนำ missions โดยพิจารณาจากพฤติกรรมผู้ใช้ รูปแบบสถานที่ และความชอบ
-- เพิ่มการมีส่วนร่วม (engagement) โดยแสดงโอกาสที่เกี่ยวข้อง
+- ใช้ Machine Learning แนะนำ Mission ตามพฤติกรรมผู้ใช้ รูปแบบการเดินทาง และความชอบ
+- เพิ่ม Engagement โดยเสนอภารกิจที่เกี่ยวข้องและน่าสนใจ
 
-**การวิเคราะห์เชิงคาดการณ์ (Predictive Analytics)**
+**Predictive Analytics**
 
-- คาดการณ์ user churn และเริ่มแคมเปญรักษาลูกค้า
-- ทำนายรูปแบบการแลกคะแนนเพื่อการวางแผน inventory ที่ดีขึ้น
-- การคาดการณ์ประสิทธิภาพ partner
+- คาดการณ์ User Churn และ Trigger แคมเปญรักษาลูกค้า
+- ทำนาย Pattern การแลกแต้มเพื่อวางแผน Inventory ของรางวัล
+- ประเมินประสิทธิภาพของพันธมิตรล่วงหน้า
 
-**ผู้ช่วย Chatbot**
+**AI Chatbot Assistant**
 
-- Chatbot ที่ขับเคลื่อนด้วย AI สำหรับสนับสนุนผู้ใช้
-- ตอบคำถามที่พบบ่อย (FAQs) ช่วยเหลือในการทำ mission ให้สำเร็จ แนะนำของรางวัล
-- ลดภาระงานสนับสนุน
+- Chatbot รองรับ FAQ ทั่วไป
+- ช่วยแนะนำวิธีทำ Mission ให้สำเร็จ
+- แนะนำ Reward ตามรูปแบบการใช้งานของผู้ใช้
+- ลดภาระทีม Support
 
-### 9.2 Social และฟีเจอร์ Community
+### 9.2 Social & Community Features
 
-**เนื้อหาที่สร้างโดยผู้ใช้ (User-Generated Content)**
+**User-generated Content (UGC)**
 
-- อนุญาตให้ผู้ใช้แชร์รูปภาพและเรื่องราวการทำ mission ให้สำเร็จ
-- ฟีด community สำหรับการโต้ตอบระหว่างแฟนคลับ
-- เครื่องมือกลั่นกรอง (moderation tools) สำหรับ admin
+- ให้ผู้ใช้แชร์รูปภาพและเรื่องราวการทำ Mission
+- ฟีด Community สำหรับการโต้ตอบระหว่างแฟนคลับ
+- เครื่องมือ Moderation สำหรับ Admin
 
-**ทีมและความท้าทาย (Teams & Challenges)**
+**Teams & Challenges**
 
-- Group missions ที่ผู้ใช้ร่วมมือกัน
-- Leaderboards สำหรับทีมหรือ fan clubs
-- ความท้าทายแบบแข่งขันพร้อมรางวัล
+- Group Mission ที่ผู้ใช้ร่วมมือกันทำ
+- Leaderboard สำหรับทีม / Fan Club
+- การแข่งขันพร้อมรางวัลพิเศษ
 
-**โปรแกรมแนะนำเพื่อน (Referral Program)**
+**Referral Program**
 
-- ให้รางวัลแก่ผู้ใช้ที่เชิญเพื่อน
-- โบนัสแบบเป็นขั้นสำหรับการแนะนำที่ประสบความสำเร็จ
-- กลไกการเติบโตแบบ viral
+- ให้รางวัลผู้ใช้ที่เชิญเพื่อนมา Join ระบบ
+- โบนัสแบบขั้นบันไดสำหรับยอดการแนะนำที่สำเร็จ
+- กลไก Growth แบบ Viral
 
-### 9.3 ขยาย Partner Ecosystem
+### 9.3 Partner Ecosystem Expansion
 
-**การเชื่อมต่อ E-Commerce**
+**E-commerce Integration**
 
-- อนุญาตให้ผู้ใช้แลกคะแนนเป็นสินค้าจาก partner online stores
-- ติดตามการซื้อออนไลน์เพื่อให้คะแนน
-- โมเดลรายได้จาก affiliate
+- แลกแต้มเป็นสินค้าในร้าน Online ของพันธมิตร
+- Tracking การซื้อ Online เพื่อให้แต้ม
+- โมเดลรายได้แบบ Affiliate
 
 **API Marketplace**
 
-- เปิด API สำหรับนักพัฒนาบุคคลที่สาม (third-party)
-- แอปพลิเคชัน partner สามารถเชื่อมต่อกับ The Trophy loyalty
-- การขยาย ecosystem โดยไม่ต้องพัฒนาโดยตรง
+- เปิด API ให้ Third-party Developer
+- แอปพันธมิตรภายนอกเชื่อมมาใช้ Loyalty ของ The Trophy ได้
+- ขยาย Ecosystem โดยไม่ต้องพัฒนาทุกอย่างเอง
 
 **Corporate Partnerships**
 
-- แบรนด์ขนาดใหญ่ (โทรคมนาคม ธนาคาร) เชื่อมต่อโปรแกรมสะสมคะแนน
-- การแลกเปลี่ยนคะแนนข้าม brand
-- ช่องทางการขาย enterprise
+- เชื่อมต่อกับแบรนด์ใหญ่ (Telco, Bank) เพื่อเชื่อมโปรแกรมแต้ม
+- การแลกเปลี่ยนแต้มข้ามแบรนด์
+- ช่องทางขายแบบ Enterprise
 
-### 9.4 Blockchain และ Web3 Integration
+### 9.4 Blockchain & Web3 Integration
 
-**Points บน Blockchain**
+**Points on Blockchain**
 
-- คะแนนในรูปแบบ cryptocurrency tokens
-- บัญชีแยกประเภท (ledger) ที่โปร่งใสและไม่สามารถเปลี่ยนแปลงได้
-- มีศักยภาพในการซื้อขายหรือแลกเปลี่ยนคะแนน
+- แปลงแต้มเป็น Token บน Blockchain
+- Ledger ที่โปร่งใสและไม่สามารถแก้ไขได้ง่าย
+- ความเป็นไปได้ในการซื้อขาย / แลกเปลี่ยนแต้ม (ภายใต้กรอบกำกับดูแล)
 
-**รางวัล NFT**
+**NFT Rewards**
 
-- ของสะสมดิจิทัลที่เป็นเอกลักษณ์เป็นรางวัลพิเศษ
-- ของที่ระลึกรุ่นจำกัด (limited edition) สำหรับแฟนระดับสูง
-- แหล่งรายได้เพิ่มเติมผ่านการขาย NFT
+- Digital Collectible แบบ Unique เป็นรางวัลพิเศษ
+- Limited-edition Memorabilia สำหรับแฟนกลุ่ม Top-tier
+- แหล่งรายได้เสริมผ่านการขาย NFT
 
-**หมายเหตุ:** สิ่งเหล่านี้เป็นการทดลองและขึ้นอยู่กับความพร้อมของตลาดและความชัดเจนทางกฎระเบียบในประเทศไทย
+> หมายเหตุ: ฟีเจอร์กลุ่มนี้อยู่ในเชิงทดลองและขึ้นกับทั้งความพร้อมของตลาดและกรอบกฎหมายในประเทศไทย
+> 
 
 ### 9.5 Augmented Reality (AR) Missions
 
-**AR Treasure Hunts**
+**AR Treasure Hunt**
 
-- ผู้ใช้ค้นหาวัตถุเสมือนในสถานที่จริง
-- ประสบการณ์ AR ในสนามกีฬาในวันแข่งขัน
-- การมีส่วนร่วมแบบ gamified ด้วยเทคโนโลยีล้ำสมัย
+- ผู้ใช้ค้นหา Object เสมือนในสถานที่จริง
+- AR Experience ภายในสนามกีฬาในวันแข่งขัน
+- เพิ่ม Engagement ด้วยเทคโนโลยีล้ำสมัย
 
-**Virtual Try-Ons**
+**Virtual Try-on**
 
-- ดูตัวอย่างของรางวัลสินค้าผ่าน AR
-- ประสบการณ์การช็อปปิ้งที่ดีขึ้น
+- ทดลองดูรางวัลสินค้าแบบ AR
+- ประสบการณ์การช้อปที่มี Interactivity สูง
 
-### 9.6 การขยายงานระดับนานาชาติ (International Expansion)
+### 9.6 International Expansion
 
-**การสนับสนุนหลายภาษา (Multi-Language Support)**
+**Multi-language Support**
 
-- นอกเหนือจากไทย/อังกฤษ: จีน ญี่ปุ่น อินโดนีเซีย ฯลฯ
-- เนื้อหาและรางวัลที่ปรับให้เหมาะกับท้องถิ่น (localized)
+- เพิ่มภาษาจีน ญี่ปุ่น อินโดนีเซีย ฯลฯ นอกเหนือจากไทย / อังกฤษ
+- เนื้อหาและ Reward Localized ตามประเทศ
 
-**Multi-Currency และการปรับให้เหมาะกับภูมิภาค**
+**Multi-currency & Regionalization**
 
-- รองรับสกุลเงินและวิธีการชำระเงินที่แตกต่างกัน
-- ความสอดคล้องกับกฎหมายคุ้มครองข้อมูลของแต่ละภูมิภาค (GDPR ฯลฯ)
+- รองรับสกุลเงินและวิธีชำระเงินที่ต่างกัน
+- Compliance กับกฎหมายคุ้มครองข้อมูลของแต่ละภูมิภาค (เช่น GDPR)
 
-**White-Label Replication**
+**White-label Replication**
 
-- ปรับใช้ platform สำหรับสโมสรกีฬาหรือแบรนด์ต่างประเทศ
-- การจัดการ platform แบบรวมศูนย์พร้อม instances ที่ปรับให้เหมาะกับท้องถิ่น
+- นำ Platform ไปใช้กับสโมสรกีฬา / แบรนด์ต่างประเทศ
+- การบริหาร Platform แบบศูนย์กลาง พร้อม Instance ที่ปรับให้เหมาะกับท้องถิ่น
 
 ---
 
@@ -1456,85 +1466,85 @@ Partner ROI = (รายได้จากผู้ใช้ Trophy - ต้น�
 
 ### 10.1 เส้นทางการลงทุนที่แนะนำ
 
-**การดำเนินการทันที: Phase 1 (POC)**
+**Immediate Action: Phase 1 (POC)**
 
 - **การลงทุน:** THB 1,000,000
-- **ระยะเวลา:** 8-10 สัปดาห์
-- **วัตถุประสงค์:** ตรวจสอบเทคโนโลยีและโมเดลธุรกิจด้วยความเสี่ยงน้อยที่สุด
-- **ผลลัพธ์:** ต้นแบบ (prototype) ที่ใช้งานได้พร้อม missions หลักที่อิงตามสถานที่
+- **ระยะเวลา:** 8–10 สัปดาห์
+- **วัตถุประสงค์:** ตรวจสอบเทคโนโลยีและโมเดลธุรกิจด้วยความเสี่ยงต่ำสุด
+- **ผลลัพธ์:** Prototype ที่ใช้งานได้พร้อม Mission หลักที่อิงตำแหน่ง
 
 **เมื่อ POC ประสบความสำเร็จ: Phase 2 (MVP)**
 
-- **การลงทุน:** THB 3,000,000 - 5,000,000
-- **ระยะเวลา:** 16-20 สัปดาห์
-- **วัตถุประสงค์:** เปิดตัว platform พร้อมใช้งานสำหรับผู้ใช้และ partners จริง
-- **ผลลัพธ์:** Ecosystem ที่ทำงานได้อย่างสมบูรณ์รองรับผู้ใช้หลายพันคน
+- **การลงทุน:** THB 3,000,000 – 5,000,000
+- **ระยะเวลา:** 16–20 สัปดาห์
+- **วัตถุประสงค์:** เปิดตัว Platform สำหรับผู้ใช้และพันธมิตรจริง
+- **ผลลัพธ์:** Ecosystem ที่ทำงานเต็มรูปแบบ รองรับผู้ใช้หลายพันคน
 
-**หลังจากการตรวจสอบตลาด: Phase 3 (Full Scale)**
+**หลังตรวจสอบตลาด: Phase 3 (Full-scale)**
 
 - **การลงทุน:** THB ~10,000,000
-- **ระยะเวลา:** 24-30 สัปดาห์
-- **วัตถุประสงค์:** ขยายระดับสู่ enterprise-grade พร้อมฟีเจอร์ขั้นสูง
-- **ผลลัพธ์:** Platform แบบ multi-tenant สามารถให้บริการองค์กรหลายแห่ง
+- **ระยะเวลา:** 24–30 สัปดาห์
+- **วัตถุประสงค์:** ขยายสู่ระดับ Enterprise พร้อมฟีเจอร์ Advanced
+- **ผลลัพธ์:** Multi-tenant Platform สำหรับองค์กรหลายราย
 
-### 10.2 เกณฑ์การตัดสินใจสำหรับการก้าวไปสู่ Phase ต่อไป
+### 10.2 เกณฑ์การตัดสินใจเพื่อเดินหน้าสู่ Phase ถัดไป
 
-**ดำเนินการต่อสู่ Phase 2 หาก:**
+**เดินหน้าสู่ Phase 2 หาก:**
 
-- POC แสดงให้เห็นการ check-in ที่อิงตามสถานที่ได้สำเร็จด้วยความแม่นยำที่ยอมรับได้
-- การทดสอบผู้ใช้แสดงการมีส่วนร่วมและความสะดวกในการใช้งานเชิงบวก
-- ไม่พบอุปสรรคทางเทคนิคร้ายแรง (critical technical blockers)
-- ตรวจสอบ business case ของลูกค้าแล้ว (ยืนยันความสนใจของ partner)
-- อนุมัติงบประมาณสำหรับการพัฒนาเต็มรูปแบบ
+- POC แสดงให้เห็น Location-based Check-in ได้ด้วยความแม่นยำที่ยอมรับได้
+- User Testing แสดงผลด้าน Usability และ Engagement เป็นบวก
+- ไม่มี Critical Technical Blocker
+- Business Case ของลูกค้าได้รับการ Validate (ยืนยันความสนใจของพันธมิตรแล้ว)
+- ได้รับการอนุมัติงบประมาณสำหรับ Full Development
 
-**ดำเนินการต่อสู่ Phase 3 หาก:**
+**เดินหน้าสู่ Phase 3 หาก:**
 
-- MVP บรรลุเป้าหมายการยอมรับของผู้ใช้ (>20% ของฐานผู้ใช้ที่ลงทะเบียน)
-- Partner ecosystem พัฒนาขึ้น (>20 partners ที่ active)
-- พิสูจน์เสถียรภาพของระบบแล้ว (>99% uptime เป็นเวลา 3 เดือน)
-- แนวโน้ม ROI เป็นบวกหรืออยู่ในความคาดหวัง
-- ความต้องการเชิงกลยุทธ์สำหรับฟีเจอร์ขั้นสูง (multi-tenant, AI ฯลฯ)
+- MVP ทำได้ตามเป้าหมาย Adoption (เช่น Active Users > 20% ของฐานลงทะเบียน)
+- Partner Ecosystem เติบโต (พันธมิตร Active > 20 ราย)
+- ระบบเสถียร (Uptime > 99% ต่อเนื่อง 3 เดือน)
+- แนวโน้ม ROI เป็นบวกหรืออยู่ในกรอบที่ยอมรับได้
+- มีความต้องการเชิงกลยุทธ์สำหรับฟีเจอร์ขั้นสูง (Multi-tenant, AI, ฯลฯ)
 
 ### 10.3 ขั้นตอนถัดไปทันที
 
-**ขั้นตอนที่ 1: การพิจารณาข้อเสนอและการชี้แจง (สัปดาห์ที่ 1)**
+**Step 1: Review & Clarification (สัปดาห์ที่ 1)**
 
-- ผู้มีส่วนได้ส่วนเสียของลูกค้าพิจารณาข้อเสนอนี้
-- ระบุคำถาม ข้อกังวล หรือการปรับเปลี่ยนที่ต้องการ
-- ทีม DOS ให้การชี้แจงและปรับเปลี่ยน
+- ฝั่งลูกค้าทบทวนข้อเสนอนี้ร่วมกับ Stakeholder ที่เกี่ยวข้อง
+- รวบรวมคำถาม ข้อกังวล หรือจุดที่ต้องการปรับ
+- ทีม DOS ชี้แจงและปรับเอกสารตามความเหมาะสม
 
-**ขั้นตอนที่ 2: Alignment Workshop (สัปดาห์ที่ 2)**
+**Step 2: Alignment Workshop (สัปดาห์ที่ 2)**
 
-- workshop 1 วันกับผู้มีส่วนได้ส่วนเสียหลัก
-- ปรับแต่งความต้องการทางธุรกิจและลำดับความสำคัญ
-- ตกลงกันเรื่องขอบเขตและเกณฑ์ความสำเร็จของ Phase 1 (POC)
-- พิจารณาและปรับ timeline
+- Workshop 1 วันกับ Stakeholder หลัก
+- ปรับแต่ง Business Requirements และ Priorities
+- ตกลง Scope และ Success Criteria ของ Phase 1 (POC)
+- ทบทวนและยืนยัน Timeline
 
-**ขั้นตอนที่ 3: การเจรจาสัญญาและลงนาม (สัปดาห์ที่ 3-4)**
+**Step 3: Contract Negotiation & Signing (สัปดาห์ที่ 3–4)**
 
-- สรุป statement of work (SOW) สำหรับ Phase 1
+- สรุป SOW สำหรับ Phase 1
 - ลงนาม NDA และ Master Service Agreement
-- กำหนดเงื่อนไขการชำระเงินและ milestones
-- กำหนด communication protocols
+- กำหนด Payment Terms และ Milestone
+- ตกลง Communication Protocols
 
-**ขั้นตอนที่ 4: Project Kickoff (สัปดาห์ที่ 5)**
+**Step 4: Project Kickoff (สัปดาห์ที่ 5)**
 
-- ประชุม project kickoff อย่างเป็นทางการ
+- ประชุม Kickoff อย่างเป็นทางการ
 - แนะนำทีมและมอบหมายบทบาท
-- จัดหาเครื่องมือและ access
-- เริ่มการรวบรวมความต้องการ (requirements gathering)
+- เปิดสิทธิ์การเข้าถึงระบบที่จำเป็น
+- เริ่ม Requirement Workshop เชิงลึก
 
-**ขั้นตอนที่ 5: การออกแบบและพัฒนา (สัปดาห์ที่ 6-14)**
+**Step 5: Design & Development (สัปดาห์ที่ 6–14)**
 
-- การออกแบบและพัฒนาแบบ sprints วนซ้ำ (iterative)
-- การทบทวนความคืบหน้ารายสัปดาห์
-- feedback จากลูกค้าอย่างต่อเนื่อง
+- Design และ Development แบบ Iterative ในรูปแบบ Sprint
+- Weekly Progress Review
+- รับ Feedback และปรับปรุงอย่างต่อเนื่อง
 
-**ขั้นตอนที่ 6: UAT และ Pilot Launch (สัปดาห์ที่ 15-18)**
+**Step 6: UAT & Pilot Launch (สัปดาห์ที่ 15–18)**
 
-- User acceptance testing
-- ทดสอบนำร่องกับผู้ใช้จำนวนจำกัด
-- ปรับแต่งตาม feedback
+- User Acceptance Testing
+- Pilot Launch กับผู้ใช้กลุ่มจำกัด
+- ปรับแต่งตาม Feedback ก่อน Scale ต่อ
 
 ---
 
@@ -1544,77 +1554,77 @@ Partner ROI = (รายได้จากผู้ใช้ Trophy - ต้น�
 
 **ประสบการณ์ที่เกี่ยวข้อง:**
 
-- **Ally Sky Rewards** - Multi-partner privilege ecosystem สำหรับเครือข่าย CDC
-- **Big C Loyalty App** - E-commerce และ loyalty สำหรับห้างค้าปลีกรายใหญ่
-- **SCG Debenture Club** - Platform สื่อสารและสิทธิพิเศษสำหรับผู้ถือหุ้นกู้
+- **Ally Sky Rewards** – Multi-partner Privilege Ecosystem สำหรับเครือข่าย CDC
+- **Big C Loyalty App** – E-commerce และ Loyalty Platform สำหรับค้าปลีกรายใหญ่
+- **SCG Debenture Club** – แพลตฟอร์มสื่อสารและสิทธิพิเศษสำหรับผู้ลงทุน
 
-DOS ได้ส่งมอบ loyalty และ rewards platforms หลายแห่งสำหรับบริษัทใหญ่ในประเทศไทยอย่างสำเร็จ แสดงให้เห็นความเข้าใจอย่างลึกซึ้งใน:
+DOS ส่งมอบ Loyalty & Reward Platforms ให้กับองค์กรขนาดใหญ่ในไทยหลายแห่ง แสดงให้เห็นความเข้าใจลึกใน:
 
-- การจัดการคะแนนและการสร้างสมดุลทางเศรษฐกิจ
-- การพัฒนา partner ecosystem
-- การป้องกันการฉ้อโกงในโปรแกรม loyalty
-- สถาปัตยกรรมที่ขยายได้สำหรับระบบ high-transaction
+- การจัดการแต้มและสมดุลเศรษฐกิจ (Point Economy)
+- การพัฒนา Partner Ecosystem
+- การป้องกัน Fraud ในโปรแกรม Loyalty
+- สถาปัตยกรรมที่รองรับ High-transaction Workload
 
 ### 11.2 ความเป็นเลิศทางเทคนิคและนวัตกรรม
 
-**ความเป็นผู้นำด้านเทคโนโลยี:**
+**เทคโนโลยี:**
 
-- ประสบการณ์การพัฒนาซอฟต์แวร์ 10+ ปี
-- โครงการที่ส่งมอบสำเร็จ 100+ โครงการ
-- ชำนาญ technology stacks 20+ แบบ
-- ความเชี่ยวชาญ cloud infrastructure ที่แข็งแกร่ง (GCP)
+- ประสบการณ์พัฒนาซอฟต์แวร์มากกว่า 10 ปี
+- โครงการที่ส่งมอบสำเร็จกว่า 100 โครงการ
+- เชี่ยวชาญ Technology Stack หลากหลายกว่า 20 Stack
+- ความชำนาญ Cloud Infrastructure (โดยเฉพาะ GCP)
 
-**ประวัตินวัตกรรม:**
+**ด้านนวัตกรรม:**
 
-- ผู้นำในการใช้ Flutter สำหรับการพัฒนา mobile แบบ cross-platform
-- ความเชี่ยวชาญใน location-based services และ geofencing
-- การเชื่อมต่อ AI/ML สำหรับ personalization และการตรวจจับการฉ้อโกง
-- แนวปฏิบัติ DevOps ที่ทันสมัยสำหรับการ deployment ที่รวดเร็วและเชื่อถือได้
+- เป็นผู้นำด้านการใช้ Flutter สำหรับ Cross-platform Mobile Development
+- ความเชี่ยวชาญด้าน Location-based Services และ Geofencing
+- ประสบการณ์เชื่อมต่อ AI / ML เพื่อ Personalization และ Fraud Detection
+- ใช้ DevOps Practice ทันสมัยเพื่อ Deployment ที่รวดเร็วและเชื่อถือได้
 
 ### 11.3 คุณภาพระดับ Enterprise
 
 **กระบวนการพัฒนาที่เข้มงวด:**
 
-- UAT/SIT ที่ครอบคลุมก่อนทุกการเปิดตัว
-- มาตรฐาน code review และการประกันคุณภาพ
-- แนวทางที่เน้นความปลอดภัยพร้อมการตรวจสอบเป็นประจำ
-- การทดสอบและเพิ่มประสิทธิภาพ (performance testing and optimization)
+- UAT / SIT เต็มรูปแบบก่อนทุกครั้งที่ Go-live
+- มาตรฐาน Code Review และ QA ชัดเจน
+- Security-first Mindset พร้อมตรวจสอบเป็นระยะ
+- Performance Testing และ Optimization
 
-**ความพึงพอใจของลูกค้าที่พิสูจน์แล้ว:**
+**ความพึงพอใจของลูกค้า:**
 
-- ลูกค้ารายใหญ่: SCG Group, CP ALL, Central Group
-- ความสัมพันธ์ระยะยาวและการทำงานซ้ำ
-- การรับประกัน 90 วัน และการสนับสนุนหลัง launch ที่เชื่อถือได้
+- ลูกค้าหลัก: SCG Group, CP ALL, Central Group เป็นต้น
+- ความสัมพันธ์ระยะยาวและงานต่อเนื่อง
+- Warranty 90 วัน และ Support หลัง Launch ที่เชื่อถือได้
 
 ### 11.4 ความเข้าใจตลาดท้องถิ่น
 
 **บริบทธุรกิจไทย:**
 
-- ทีมที่พูดได้สองภาษา (ไทย/อังกฤษ)
-- ความเข้าใจพฤติกรรมและความชอบของผู้บริโภคไทย
-- ความเชี่ยวชาญในการปฏิบัติตาม PDPA
-- ความคุ้นเคยกับระบบการชำระเงินและการเชื่อมต่อของไทย
+- ทีมงานสองภาษา (ไทย / อังกฤษ)
+- เข้าใจพฤติกรรมและความคาดหวังของผู้บริโภคไทย
+- เชี่ยวชาญการปฏิบัติตาม PDPA
+- คุ้นเคยกับระบบชำระเงินและบริการดิจิทัลในไทย
 
 **ความสอดคล้องทางวัฒนธรรม:**
 
-- แนวทางแบบให้คำปรึกษาและเป็นพันธมิตร
-- การสื่อสารที่โปร่งใสและการกำหนดขอบเขตที่สมจริง
-- โมเดลการทำงานที่ยืดหยุ่นเหมาะกับแนวปฏิบัติทางธุรกิจไทย
+- แนวทางแบบ Consultative และ Partnership
+- การสื่อสารโปร่งใส ไม่ Over-promise
+- โมเดลการทำงานยืดหยุ่น ให้เหมาะกับวิธีการทำงานของลูกค้าไทย
 
 ### 11.5 แนวทางแบบเป็นขั้นตอนที่ลดความเสี่ยง
 
-**ปรัชญาที่อนุรักษ์นิยมและเน้นลูกค้าเป็นศูนย์กลาง:**
+**ปรัชญาแบบ Conservative แต่เน้นลูกค้าเป็นศูนย์กลาง:**
 
-- เริ่มต้นเล็ก ตรวจสอบ จากนั้นขยายระดับ
-- ไม่มีการผูกพันเกินจริงหรือคำมั่นสัญญาที่ไม่สมจริง
-- ขอบเขตและผลส่งมอบที่ชัดเจน
-- การพัฒนาที่คำนึงถึงงบประมาณสอดคล้องกับความคาดหวัง ROI
+- เริ่มเล็ก ทดสอบให้ชัด แล้วค่อยขยายระดับ
+- ไม่ผูกมัดเกินจำเป็น และไม่สัญญาเกินจริง
+- ขอบเขตและ Deliverable ชัดเจน
+- พัฒนาภายใต้งบประมาณที่สอดคล้องกับเป้าหมาย ROI
 
 **ความยืดหยุ่น:**
 
-- ปรับตาม feedback ของลูกค้าและความต้องการที่เปลี่ยนแปลง
-- โมเดลการทำงานหลายรูปแบบ (fixed price, retainer, T&M)
-- การเสริมทีมที่ขยายได้
+- ปรับตาม Feedback และความต้องการที่เปลี่ยนไป
+- รองรับหลาย Working Model (Fixed-price, Retainer, T&M)
+- ขยายทีมได้ตามขนาดโครงการ
 
 ---
 
@@ -1622,140 +1632,143 @@ DOS ได้ส่งมอบ loyalty และ rewards platforms หลาย
 
 ### Q1: The Trophy แตกต่างจากแอปสะสมแต้มทั่วไปอย่างไร?
 
-**A:** The Trophy ผสมผสานสี่องค์ประกอบที่เป็นเอกลักษณ์:
+**A:** The Trophy ผสมผสานจุดเด่น 4 ด้าน:
 
-1. **ระบบ Mission แบบ Gamified:** นอกเหนือจากการซื้อสินค้าทั่วไป ผู้ใช้สามารถสะสมคะแนนผ่านการ check-in ตามสถานที่, ภารกิจถ่ายภาพ และการเข้าร่วมกิจกรรม
-2. **ความยืดหยุ่นแบบ White-Label:** แพลตฟอร์มคงความเป็นกลางทางแบรนด์ รองรับพาร์ทเนอร์และผู้ใช้ที่หลากหลายโดยไม่เกิดความขัดแย้งทางการแข่งขัน
-3. **เทคโนโลยีระบุตำแหน่งที่แม่นยำ:** ใช้ KML/Polygon geofencing ไม่ใช่แค่รัศมีวงกลมธรรมดา เพื่อความแม่นยำและป้องกันการโกงการ check-in
-4. **Trophy Wallet:** ระบบโอนคะแนนแบบ integrated ที่เชื่อมต่อระบบสะสมแต้มหลายระบบเข้าด้วยกัน
+1. **Mission-based Gamification:** นอกจากการซื้อสินค้า ผู้ใช้ยังสะสมแต้มได้จาก Check-in ตามโลเคชัน ภารกิจถ่ายภาพ และการเข้าร่วมกิจกรรม
+2. **White-label Flexibility:** แพลตฟอร์มเป็นกลางทางแบรนด์ รองรับพันธมิตรและผู้ใช้หลากหลายโดยไม่ชนกับแบรนด์ใดแบรนด์หนึ่ง
+3. **Precision Location Technology:** ใช้ KML / Polygon Geofencing แทนรัศมีวงกลมทั่วไป ลดโอกาสโกงการ Check-in
+4. **Trophy Wallet:** ระบบโอนแต้มแบบ Integrated เชื่อมต่อโปรแกรมแต้มหลายระบบเข้าด้วยกัน
 
 ### Q2: ป้องกันผู้ใช้ปลอมตำแหน่งได้อย่างไร?
 
-**A:** มีการป้องกันการโกงหลายชั้น:
+**A:** ระบบใช้การป้องกันหลายชั้น:
 
-- ตรวจสอบ GPS โดยเปรียบเทียบกับ cell tower triangulation และ Wi-Fi location
-- Device fingerprinting เพื่อติดตามอุปกรณ์เฉพาะ
-- จำกัดอัตราการใช้งาน (เช่น check-in สูงสุด 1 ครั้งต่อสถานที่ต่อวัน)
-- วิเคราะห์พฤติกรรมด้วย machine learning เพื่อตรวจจับความผิดปกติ
-- การยืนยันจากมนุษย์สำหรับ mission ที่มีมูลค่าสูง (ต้องได้รับการอนุมัติจากเจ้าหน้าที่พาร์ทเนอร์)
+- ตรวจสอบ GPS เทียบกับ Cell Tower และ Wi-Fi Location
+- Device Fingerprinting เพื่อติดตามอุปกรณ์
+- Limit การ Check-in (เช่น 1 ครั้งต่อโลเคชันต่อวัน)
+- ใช้ Machine Learning วิเคราะห์พฤติกรรมผิดปกติ
+- ใช้การยืนยันโดยมนุษย์สำหรับ Mission มูลค่าสูง (ต้องให้เจ้าหน้าที่พันธมิตรอนุมัติ)
 
-### Q3: ถ้ามีงบน้อย - เริ่มต้นด้วยงบน้อยกว่า Phase 1 ได้ไหม?
+### Q3: ถ้ามีงบน้อย – เริ่มต้นด้วยงบน้อยกว่า Phase 1 ได้ไหม?
 
-**A:** Phase 1 (POC) ที่ 1,000,000 บาท เป็นขอบเขตขั้นต่ำที่สุดแล้วเพื่อทดสอบเทคโนโลยีหลัก หากงบประมาณต่ำกว่านี้ เราไม่สามารถส่งมอบ prototype ที่ใช้งานได้และแสดงคุณค่าหลักของระบบได้ เราแนะนำ:
+**A:** Budget ระดับ THB 1,000,000 สำหรับ Phase 1 (POC) เป็นขั้นต่ำที่ทำให้สามารถทดสอบเทคโนโลยีหลักและแสดงคุณค่าได้จริง หากน้อยกว่านี้จะยากต่อการสร้าง Prototype ที่พิสูจน์ Use Case ได้ชัดเจน
 
-- จัดหางบประมาณ Phase 1 แบบเต็มเพื่อทดสอบแนวคิดอย่างเหมาะสม
-- หรือพิจารณาเริ่มต้นด้วยการศึกษาความเป็นไปได้แบบละเอียด (200,000-300,000 บาท) ก่อนตัดสินใจพัฒนา
+ทางเลือกคือ:
 
-### Q4: ใช้เวลานานแค่ไหนในการเพิ่มพาร์ทเนอร์ใหม่?
+- จัดหา Budget ครบสำหรับ Phase 1 เพื่อทดสอบแนวคิดอย่างเหมาะสม
+- หรือเริ่มจาก Feasibility Study เชิงลึก (THB 200,000–300,000) ก่อนตัดสินใจลงทุนพัฒนา
 
-**A:**
-
-- **Phase 2 (MVP):** กระบวนการเพิ่มแบบ manual - ประมาณ 1-2 สัปดาห์ต่อพาร์ทเนอร์ (สร้างบัญชี, อบรม, ตั้งค่าสถานที่)
-- **Phase 3 (Full Scale):** Portal สำหรับพาร์ทเนอร์แบบ self-service - พาร์ทเนอร์สามารถเพิ่มตัวเองได้ใน 1-3 วันโดยต้องการการสนับสนุนจาก DOS น้อยที่สุด
-
-### Q5: ผู้ใช้แลกคะแนนเป็นเงินสดได้ไหม?
-
-**A:** ไม่ได้ในระบบมาตรฐาน คะแนนถูกออกแบบเป็นระบบวงปิดเพื่อ:
-
-- รักษาการควบคุมทางเศรษฐกิจและป้องกันภาวะเงินเฟ้อ
-- ปฏิบัติตามกฎระเบียบทางการเงิน (การแลกเป็นเงินสดอาจต้องมีใบอนุญาตพิเศษ)
-- ให้มั่นใจว่าคะแนนกระตุ้นพฤติกรรมที่ต้องการ (การเยี่ยมชมพาร์ทเนอร์, การแลกของรางวัล)
-
-อย่างไรก็ตาม ของรางวัลสามารถรวมถึง gift card หรือ voucher ที่เทียบเท่าเงินสดได้
-
-### Q6: ถ้าพาร์ทเนอร์ปิดกิจการจะเกิดอะไรขึ้น?
+### Q4: ใช้เวลานานแค่ไหนในการเพิ่มพันธมิตรใหม่?
 
 **A:**
 
-- Admin สามารถปิดการใช้งาน mission ของพาร์ทเนอร์ได้ทันที
-- คะแนนที่ผู้ใช้มีอยู่ยังคงใช้แลกรางวัลกับพาร์ทเนอร์อื่นได้
-- การออกแบบระบบป้องกันการพึ่งพาพาร์ทเนอร์รายเดียวมากเกินไป
-- ความหลากหลายของพาร์ทเนอร์เป็นกุญแจสำคัญต่อความยืดหยุ่นของ ecosystem
+- **Phase 2 (MVP):** กระบวนการเพิ่มแบบ Manual – ประมาณ 1–2 สัปดาห์ต่อพันธมิตร (สร้าง Account, อบรม, ตั้งค่าโลเคชัน)
+- **Phase 3 (Full-scale):** Self-service Partner Portal – พันธมิตรใหม่สามารถ Onboard ตัวเองได้ภายใน 1–3 วัน โดยต้องการการช่วยเหลือจาก DOS น้อยที่สุด
 
-### Q7: จัดการเรื่อง PDPA อย่างไร?
+### Q5: ผู้ใช้แลกแต้มเป็นเงินสดได้ไหม?
+
+**A:** ไม่ได้ในระบบมาตรฐาน เนื่องจากแต้มถูกออกแบบเป็นระบบวงปิด เพื่อ:
+
+- ควบคุมเศรษฐกิจของแต้มและป้องกันเงินเฟ้อ
+- ลดภาระด้านกำกับดูแลทางการเงิน (การแลกเป็นเงินสดอาจต้องมีใบอนุญาตเฉพาะ)
+- เน้นให้แต้มกระตุ้นพฤติกรรม (เช่น เยี่ยมพันธมิตร แลกรางวัล) มากกว่าการเป็น “เงินสดอีกสกุล”
+
+อย่างไรก็ตาม Reward อาจอยู่ในรูป Gift Card หรือ Voucher ที่มีมูลค่าเทียบเท่าเงินสดได้
+
+### Q6: ถ้าพันธมิตรปิดกิจการจะเกิดอะไรขึ้น?
 
 **A:**
 
-- ขอความยินยอมอย่างชัดเจนจากผู้ใช้ตอนลงทะเบียน
-- มีนโยบายความเป็นส่วนตัวที่ชัดเจนเป็นภาษาไทย
-- ฟังก์ชันสิทธิ์ผู้ใช้: export ข้อมูล, แก้ไข, ลบ
-- เข้ารหัสข้อมูลทั้งที่เก็บและขณะส่งผ่าน
-- ตรวจสอบการปฏิบัติตามกฎหมายเป็นประจำ
-- มีขั้นตอนการตอบสนองต่อเหตุการณ์ที่จัดทำเป็นเอกสาร
+- Admin สามารถปิด Mission ของพันธมิตรได้ทันที
+- แต้มที่ผู้ใช้มีอยู่ยังใช้แลกรางวัลกับพันธมิตรอื่นได้
+- ระบบออกแบบให้ไม่พึ่งพาพันธมิตรเพียงรายเดียวมากเกินไป
+- การมีพันธมิตรหลากหลายช่วยให้ Ecosystem แข็งแรง
 
-### Q8: หลังจาก launch แล้วปรับแต่งแอปให้เหมาะกับแบรนด์เฉพาะได้ไหม?
+### Q7: จัดการ PDPA อย่างไร?
 
-**A:** ได้ ภายใต้กรอบการทำงานแบบ white-label:
+**A:**
 
-- **Phase 2 (MVP):** ปรับแต่งได้จำกัด (ธีมสี, การ branding พื้นฐานในรางวัล/mission, ชื่อ tier)
-- **Phase 3 (Full Scale):** ปรับแต่งแบบ white-label เต็มรูปแบบพร้อมธีมเฉพาะองค์กร, การ branding ในเนื้อหา (ไม่ใช่ UI หลักของแอป)
-- การปรับแต่งแบรนด์อย่างสมบูรณ์จะต้องพัฒนาเพิ่มเติม (เสนอราคาแยกต่างหาก)
+- ขอ Consent จากผู้ใช้ตอนสมัครอย่างชัดเจน
+- มี Privacy Policy ภาษาไทยที่เข้าใจง่าย
+- รองรับสิทธิ์ของผู้ใช้: Export / แก้ไข / ลบข้อมูล
+- เข้ารหัสข้อมูลทั้งขณะจัดเก็บและส่งผ่าน
+- ตรวจสอบ Compliance เป็นระยะ
+- มี Incident Response Process หากเกิด Data Breach
 
-### Q9: ถ้าต้องการเพิ่มฟีเจอร์ที่ไม่ได้อยู่ในข้อเสนอล่ะ?
+### Q8: หลัง Launch แล้วปรับ Brand ให้เหมาะกับองค์กรได้แค่ไหน?
 
-**A:** กระบวนการ change request:
+**A:** ภายใต้แนวคิด White-label:
 
-1. ส่งคำขอฟีเจอร์พร้อมเหตุผลทางธุรกิจ
-2. DOS ประเมินความพยายามและผลกระทบต่อ timeline/งบประมาณ
-3. ให้ประมาณการ (fixed price หรือ T&M)
-4. ถ้าได้รับการอนุมัติ ปรับ scope และสัญญา
-5. พัฒนาใน sprint ถัดไปที่ว่างหรือ phase ในอนาคต
+- **Phase 2 (MVP):** ปรับได้บางส่วน เช่น Theme สี, Branding ในเนื้อหา Reward / Mission, ชื่อ Tier
+- **Phase 3 (Full-scale):** รองรับการปรับ White-label ลึกขึ้น เช่น Theme เฉพาะองค์กร Branding ใน Content และการแยก Instance ต่อองค์กร
 
-### Q10: มีการอบรมผู้ใช้และเอกสารคู่มือไหม?
+Branding ระดับ Custom เต็มรูปแบบ (เช่น UI ของแอปทั้งหน้าตา) สามารถออกแบบเป็น Project เสริมเพิ่มเติมได้
 
-**A:** มี:
+### Q9: ถ้าต้องการฟีเจอร์ที่ไม่ได้อยู่ในข้อเสนอทำอย่างไร?
 
-- **สำหรับผู้ใช้งานทั่วไป:** onboarding flows ในแอป, ส่วนช่วยเหลือ, FAQs
-- **การอบรมพาร์ทเนอร์:** วิดีโอสอนการใช้งานและคู่มือ PDF สำหรับแอปพาร์ทเนอร์
-- **การอบรม Admin:** เซสชันอบรมแบบสด (2-4 ชั่วโมง) สำหรับเจ้าหน้าที่ admin พร้อมคู่มือ admin ฉบับสมบูรณ์
-- **การสนับสนุนต่อเนื่อง:** มีให้ผ่านแผนการสนับสนุนหลัง warranty
+**A:** ใช้กระบวนการ Change Request มาตรฐาน:
 
-### Q11: ติดตั้งระบบบน server ของเราเองแทน cloud ได้ไหม?
+1. ลูกค้าส่งคำขอฟีเจอร์พร้อมเหตุผลทางธุรกิจ
+2. DOS ประเมิน Effort และผลกระทบต่อ Timeline / งบประมาณ
+3. จัดทำประมาณการ (Fixed-price หรือ T&M)
+4. หากอนุมัติ ปรับ Scope และสัญญาให้สอดคล้อง
+5. พัฒนาภายใน Sprint หรือ Phase ถัดไปที่เหมาะสม
 
-**A:** เป็นไปได้ทางเทคนิคแต่ไม่แนะนำ:
+### Q10: มีการอบรมผู้ใช้และคู่มือไหม?
 
-- ต้องลงทุนด้านโครงสร้างพื้นฐานและความเชี่ยวชาญอย่างมาก
-- สูญเสียประโยชน์ของ cloud auto-scaling และ managed services
-- เพิ่มความเสี่ยงในการดำเนินงานและภาระการบำรุงรักษา
-- การรับประกันและ SLA ของ DOS อาจไม่ครอบคลุมการติดตั้งแบบ on-premise
+**A:** มีครบสำหรับทุกกลุ่ม:
 
-เราขอแนะนำอย่างยิ่งให้ใช้ cloud hosting (GCP) เพื่อประสิทธิภาพ, ความน่าเชื่อถือ และความคุ้มค่าที่ดีที่สุด หากจำเป็น เราสามารถจัดหารูปแบบ hybrid หรือประเมินความเป็นไปได้ของ on-premise แยกต่างหาก
+- **ผู้ใช้ทั่วไป:** In-app Onboarding, Help Section, FAQ
+- **พันธมิตร:** วิดีโอสอน และ Partner Guide (PDF)
+- **Admin:** อบรมสด 2–4 ชั่วโมง พร้อม Admin Manual เต็มรูปแบบ
+- Support ต่อเนื่องสามารถครอบคลุมผ่านแผน Support หลัง Warranty
 
-### Q12: ถ้าไม่พอใจกับ Phase 1 (POC) ล่ะ?
+### Q11: ติดตั้งบนเซิร์ฟเวอร์ขององค์กรเองแทน Cloud ได้ไหม?
 
-**A:** Phase 1 ถูกออกแบบให้เป็นการทดสอบที่มีความเสี่ยงต่ำ:
+**A:** ทำได้ในเชิงเทคนิค แต่ไม่แนะนำโดยทั่วไป เพราะ:
 
-- มีเกณฑ์ความสำเร็จที่ชัดเจนตั้งแต่แรก
-- ถ้า POC ไม่ผ่านเกณฑ์ที่ตกลงกัน เราจะทำงานร่วมกับคุณเพื่อ:
-    - ปรับแต่งและทำซ้ำโดยไม่มีค่าใช้จ่ายเพิ่มเติม (ภายในขอบเขตที่เหมาะสม)
-    - ตกลงร่วมกันที่จะหยุดพักและประเมินใหม่
-- การชำระเงินเป็นไปตาม milestone ดังนั้นคุณจ่ายเต็มจำนวนก็ต่อเมื่อยอมรับ UAT สำเร็จแล้ว
+- ต้องลงทุน Infrastructure และทีมดูแลจำนวนมาก
+- เสียประโยชน์ด้าน Auto-scaling และ Managed Services ของ Cloud
+- เพิ่มความเสี่ยงด้าน Operation และภาระ Maintenance
+- Warranty และ SLA ของ DOS อาจต้องปรับเงื่อนไขเพิ่มเติม
 
-เรามุ่งมั่นในการสื่อสารที่โปร่งใสและจะแจ้งเตือนความเสี่ยงตั้งแต่เนิ่นๆ เพื่อหลีกเลี่ยงความประหลาดใจ
+เราแนะนำให้ใช้ Cloud (GCP) เป็น Default หากจำเป็นจริง ๆ สามารถประเมินทางเลือก Hybrid หรือ On-premise แยกต่างหากได้
+
+### Q12: ถ้าไม่พอใจกับผลลัพธ์ของ Phase 1 (POC) ล่ะ?
+
+**A:** Phase 1 ถูกออกแบบมาให้เป็น Safe Experiment:
+
+- มี Success Criteria ชัดเจนตั้งแต่ต้น
+- หาก POC ไม่ผ่านเกณฑ์ที่ตกลงร่วมกัน เราสามารถ:
+    - ปรับและทำ Iteration เพิ่มโดยไม่คิดค่าใช้จ่ายเกินกรอบที่ตกลง
+    - หรือร่วมกันตัดสินใจ Pause / Pivot โครงการ
+- การชำระเงินผูกกับ Milestone ทำให้ลูกค้าจ่ายเต็มจำนวนเมื่อยอมรับผล UAT แล้วเท่านั้น
+
+DOS ให้ความสำคัญกับการสื่อสารที่โปร่งใสและการบริหารความเสี่ยงตั้งแต่ต้น เพื่อลดโอกาส “เซอร์ไพรส์” ในช่วงท้ายโครงการ
 
 ### Q13: การโอนคะแนนใน Trophy Wallet ทำงานอย่างไร?
 
-**A:** การโอนคะแนนช่วยเชื่อมต่อ ecosystem:
+**A:** การโอนแต้มช่วยเชื่อมต่อ Ecosystem หลายระบบเข้าด้วยกัน:
 
-- **Inbound:** รับคะแนนจากโปรแกรมสะสมแต้มของพาร์ทเนอร์, รางวัลบัตรเครดิต ฯลฯ
-- **Outbound:** โอนคะแนน Trophy ของคุณไปยังระบบภายนอก
-- **การควบคุม:** จำกัดรายวัน/รายเดือน, ค่าธรรมเนียมการโอน, การติดตามของ admin
-- **ความปลอดภัย:** การยืนยันแบบหลายปัจจัยสำหรับการโอนจำนวนมาก
-- **การ Integration:** การเชื่อมต่อแบบ API กับระบบพาร์ทเนอร์
+- **Inbound:** รับแต้มจาก Loyalty Program ของพันธมิตร หรือ Reward จากบัตรเครดิต เป็นต้น
+- **Outbound:** โอนแต้ม Trophy ไปยังระบบภายนอกที่เชื่อมต่อ
+- **Controls:** กำหนด Limit รายวัน / รายเดือน, Transfer Fee, Approval Flow สำหรับรายการวงเงินสูง
+- **Security:** ใช้ Multi-factor Authentication สำหรับการโอนจำนวนมาก
+- **Integration:** ใช้ API เชื่อมต่อกับระบบพันธมิตร
 
-*หมายเหตุ: การโอนคะแนนจะถูกพัฒนาพร้อมการควบคุมทางเศรษฐกิจที่เข้มงวดเพื่อรักษาเสถียรภาพของมูลค่าคะแนนและป้องกันการใช้ในทางที่ผิด*
+*หมายเหตุ: Point Transfer จะพัฒนาควบคู่กับ Economic Control อย่างใกล้ชิด เพื่อรักษาเสถียรภาพของมูลค่าแต้มและป้องกันการใช้ในทางที่ผิด*
 
-### Q14: ทำไมถึงแนะนำ mobile number authentication แทน social login?
+### Q14: ทำไมแนะนำ Mobile Number Authentication แทน Social Login?
 
-**A:** Mobile number authentication ให้:
+**A:** การใช้เบอร์มือถือเป็นหลักให้ประโยชน์ดังนี้:
 
-- **ความปลอดภัยที่ดีกว่า:** ยากต่อการสร้างบัญชีปลอม ง่ายต่อการยืนยันผู้ใช้จริง
-- **ความสอดคล้องของข้อมูล:** ข้อมูลติดต่อที่เชื่อถือได้มากกว่าสำหรับ notifications และการสนับสนุน
-- **การป้องกันการโกง:** เบอร์โทรศัพท์หนึ่งเบอร์ = บัญชีหนึ่งบัญชี (พร้อมฟีเจอร์เปลี่ยนเบอร์สำหรับความต้องการที่ถูกต้อง)
-- **การปฏิบัติตาม PDPA:** การจัดการความเป็นส่วนตัวของข้อมูลที่เรียบง่ายกว่า
-- **บริบทท้องถิ่น:** เบอร์โทรศัพท์มือถือมีทุกคนในไทย บัญชี social media แตกต่างกัน
+- **Security ดีกว่า:** สร้างบัญชีปลอมยากกว่า และผูกกับตัวตนจริงได้ง่ายขึ้น
+- **Data Consistency:** ข้อมูลติดต่อเชื่อถือได้สำหรับ Notification และ Support
+- **ป้องกัน Fraud:** หนึ่งเบอร์ต่อหนึ่งบัญชี (พร้อมฟีเจอร์เปลี่ยนเบอร์ในกรณีจำเป็น)
+- **PDPA-friendly:** การจัดการ Consent และ Data Privacy ง่ายกว่า
+- **บริบทในไทย:** ผู้ใช้ส่วนใหญ่มีเบอร์มือถือ แต่แพลตฟอร์ม Social ที่ใช้จะแตกต่างกัน
 
-เรารวมฟังก์ชัน "เปลี่ยนเบอร์มือถือ" เพื่อรองรับกรณีผู้ใช้เปลี่ยนเบอร์โทรศัพท์
+เราจึงรวมฟังก์ชัน “เปลี่ยนเบอร์มือถือ” เพื่อรองรับการเปลี่ยนเบอร์ในอนาคต
 
 ---
 
@@ -1763,37 +1776,37 @@ DOS ได้ส่งมอบ loyalty และ rewards platforms หลาย
 
 ### 13.1 สรุป
 
-**Trophy Gamified Loyalty & Engagement Ecosystem** เป็นโอกาสเชิงกลยุทธ์ในการ:
+**Trophy Gamified Loyalty & Engagement Ecosystem** เปิดโอกาสเชิงกลยุทธ์ให้คุณ:
 
-- เปลี่ยนการมีส่วนร่วมของแฟนคลับจากแบบเฉื่อยไปสู่การมีส่วนร่วมแบบ active ตลอดทั้งปี
-- สร้างมูลค่าที่วัดผลได้สำหรับพาร์ทเนอร์ทางธุรกิจผ่านการได้ลูกค้าแบบกำหนดเป้าหมาย
-- ปลดล็อกแหล่งรายได้ใหม่จากทรัพย์สินขององค์กรที่มีอยู่
-- สร้างแพลตฟอร์ม white-label ที่ปรับขนาดได้พร้อมศักยภาพ multi-tenant
-- เปิดใช้งานการเชื่อมต่อ ecosystem ผ่าน Trophy Wallet
+- เปลี่ยนการมีส่วนร่วมของแฟนคลับจาก Passive เป็น Active ตลอดทั้งปี
+- สร้าง Value ที่วัดผลได้ให้พันธมิตรผ่าน Customer Acquisition ที่ตรงกลุ่ม
+- ปลดล็อกรายได้ใหม่จากทรัพย์สินที่องค์กรมีอยู่แล้ว
+- สร้าง White-label Platform ที่ขยายเป็น Multi-tenant ได้ในอนาคต
+- เชื่อมต่อ Ecosystem ผ่าน Trophy Wallet
 
-ผ่าน**แนวทางแบบเป็นระยะที่ลดความเสี่ยง** DOS เสนอให้เริ่มต้นด้วย **Proof of Concept ราคา 1,000,000 บาท** เพื่อทดสอบเทคโนโลยีหลักและสมมติฐานทางธุรกิจก่อนที่จะมุ่งมั่นไปสู่การพัฒนาแบบเต็มรูปแบบ
+ด้วย **แนวทางแบบ Phased ที่ลดความเสี่ยง** DOS เสนอให้เริ่มจาก **Proof of Concept มูลค่า 1,000,000 บาท** เพื่อทดสอบเทคโนโลยีหลักและ Business Assumption ก่อนลงทุนเต็มรูปแบบ
 
-ด้วย**ประสบการณ์ที่พิสูจน์แล้วกว่า 10 ปี** ความเชี่ยวชาญใน**ระบบสะสมแต้ม** และ**ปรัชญาแบบระมัดระวังและมุ่งเน้นลูกค้า** DOS มีตำแหน่งที่เหมาะสมเป็นพิเศษในการส่งมอบแพลตฟอร์ม Trophy ที่ประสบความสำเร็จและบรรลุวัตถุประสงค์ทางธุรกิจภายในข้อจำกัดด้านงบประมาณและ timeline
+ผสานกับ **ประสบการณ์กว่า 10 ปี** ในงาน Loyalty, ความเชี่ยวชาญด้านเทคนิค และ **วิธีคิดแบบเน้นลูกค้าเป็นศูนย์กลาง** DOS อยู่ในตำแหน่งที่เหมาะสมในการส่งมอบแพลตฟอร์ม The Trophy ให้สำเร็จภายใต้งบประมาณและ Timeline ที่กำหนด
 
 ### 13.2 สรุปการลงทุน
 
 | Phase | การลงทุน (บาท) | ระยะเวลา | ผลลัพธ์หลัก |
 | --- | --- | --- | --- |
-| **1: POC** | 1,000,000 | 8-10 สัปดาห์ | Prototype ที่ทดสอบแล้ว, พิสูจน์แบบจำลองธุรกิจ |
-| **2: MVP** | 3,000,000 - 5,000,000 | 16-20 สัปดาห์ | เปิดตัวใช้งานจริง, ผู้ใช้ 5,000+ คน, พาร์ทเนอร์ 20+ ราย, Trophy Wallet |
-| **3: Full Scale** | ~10,000,000 | 24-30 สัปดาห์ | แพลตฟอร์มระดับองค์กร, ฟีเจอร์ AI, multi-tenant, ขยาย ecosystem |
-| **รวมทุก Phase** | **14,000,000 - 16,000,000** | **48-60 สัปดาห์** | **Ecosystem สมบูรณ์ในระดับใหญ่** |
+| **1: POC** | 1,000,000 | 8–10 สัปดาห์ | Prototype ที่ผ่านการทดสอบจริง ยืนยัน Business Model |
+| **2: MVP** | 3,000,000 – 5,000,000 | 16–20 สัปดาห์ | เปิดใช้งานจริง ผู้ใช้ 5,000+ คน พันธมิตร 20+ ราย Trophy Wallet เต็มระบบ |
+| **3: Full-scale** | ~10,000,000 | 24–30 สัปดาห์ | แพลตฟอร์มระดับ Enterprise ฟีเจอร์ AI Multi-tenant และ Ecosystem ขยาย |
+| **รวมทุก Phase** | **14,000,000 – 16,000,000** | **48–60 สัปดาห์** | **Ecosystem ครบวงจรในระดับใหญ่** |
 
-### 13.3 ขั้นตอนถัดไป - เริ่มกันเลย
+### 13.3 ขั้นตอนถัดไป – เริ่มต้นไปด้วยกัน
 
-เราขอเชิญชวนคุณให้ก้าวแรกในการทำให้ The Trophy เป็นจริง:
+เราขอเชิญชวนให้คุณก้าวแรกในการทำให้ The Trophy กลายเป็นความจริง:
 
-**การดำเนินการทันที:**
+**Immediate Actions:**
 
-1. **ทบทวนข้อเสนอนี้** กับผู้มีส่วนได้ส่วนเสียของคุณและรวบรวมคำถาม
-2. **กำหนดนัด workshop เพื่อปรับทิศทาง** กับทีม DOS เพื่อปรับแต่งความต้องการ
-3. **อนุมัติงบประมาณ Phase 1 (POC)** เพื่อเริ่มการทดสอบ
-4. **ลงนามสัญญา** และเริ่มงานภายใน 4 สัปดาห์
+1. **ทบทวนข้อเสนอนี้** ร่วมกับทีมและ Stakeholder ที่เกี่ยวข้อง
+2. **นัด Workshop Alignment** กับทีม DOS เพื่อปรับ Requirement ให้ตรงเป้า
+3. **อนุมัติงบประมาณ Phase 1 (POC)** เพื่อเริ่มต้นการทดสอบ
+4. **ลงนามสัญญา** และเริ่มโครงการภายใน 4 สัปดาห์
 
 **ติดต่อ DOS:**
 
@@ -1809,7 +1822,7 @@ Digitalmedia Outsource Solution Co., Ltd.
 
 **ที่อยู่สำนักงาน:**
 
-91/11 หมู่ 2 บ้านใหม่ ปากเกร็ด นนทบุรี 11120
+91/11 หมู่ 2 ตำบลบ้านใหม่ อำเภอปากเกร็ด จังหวัดนนทบุรี 11120
 
 ---
 
@@ -1819,7 +1832,7 @@ Digitalmedia Outsource Solution Co., Ltd.
 
 **Digitalmedia Outsource Solution Co., Ltd. (DOS)**
 
-- **ก่อตั้ง:** 2014 (10+ ปี)
+- **ก่อตั้ง:** 2014 (มากกว่า 10 ปี)
 - **ขนาดทีม:** 30+ ผู้เชี่ยวชาญ
 - **โปรเจกต์ที่ส่งมอบ:** 100+
 - **Technology Stacks:** 20+
@@ -1829,12 +1842,12 @@ Digitalmedia Outsource Solution Co., Ltd.
 
 | ชื่อ | ตำแหน่ง | ประสบการณ์ |
 | --- | --- | --- |
-| Jakapong Lomvong (Tle) | Chief Operating Officer | 10+ ปี, การบริหารโปรเจกต์ |
-| Nitipong (Ohm) | Head of Design | 8+ ปี, กลยุทธ์ UX/UI |
-| Surasee (Peck) | Head of Infrastructure | 10+ ปี, Cloud Architecture |
-| Wasin (Gift) | Head of Developer | 9+ ปี, Full-Stack Development |
+| Jakapong Lomvong (Tle) | Chief Operating Officer | 10+ ปี ด้านบริหารโปรเจกต์และธุรกิจดิจิทัล |
+| Nitipong (Ohm) | Head of Design | 8+ ปี ด้าน UX / UI Strategy |
+| Surasee (Peck) | Head of Infrastructure | 10+ ปี ด้าน Cloud Architecture |
+| Wasin (Gift) | Head of Developer | 9+ ปี ด้าน Full-stack Development |
 
-**ลูกค้าหลัก:**
+**ลูกค้าหลัก (ตัวอย่าง):**
 
 - SCG Group
 - CP ALL (7-Eleven Thailand)
@@ -1847,86 +1860,77 @@ Digitalmedia Outsource Solution Co., Ltd.
 **Mobile Applications:**
 
 - Flutter SDK 3.x
-- Dart language
-- Provider/Riverpod for state management
+- Dart
+- Provider / Riverpod สำหรับ State Management
 - Google Maps Flutter Plugin
 - OneSignal (Push Notifications)
-- Pusher (Real-time updates)
-- Hive/SQLite for local storage
+- Pusher (Real-time Updates)
+- Hive / SQLite สำหรับ Local Storage
 
 **Backend:**
 
 - Laravel (PHP 8.2+)
-- PostgreSQL 14+ for relational data
-- MongoDB for flexible schema data
-- Redis for caching and sessions
-- Pusher for real-time features
-- RESTful API design
+- PostgreSQL 14+ สำหรับข้อมูลเชิงธุรกรรม
+- MongoDB สำหรับข้อมูลแบบ Flexible Schema
+- Redis สำหรับ Caching และ Session
+- Pusher สำหรับ Real-time Feature
+- RESTful API Design
 
 **Cloud Infrastructure:**
 
 - Google Cloud Platform (GCP)
-- Google Kubernetes Engine (GKE) for containerization
-- Cloud SQL for managed PostgreSQL
-- MongoDB Atlas for managed MongoDB
-- Cloud Storage for media files
-- Cloud Functions for serverless tasks
+- Google Kubernetes Engine (GKE) สำหรับ Containerization
+- Cloud SQL สำหรับ Managed PostgreSQL
+- MongoDB Atlas สำหรับ Managed MongoDB
+- Cloud Storage สำหรับ Media Files
+- Cloud Functions สำหรับงานแบบ Serverless
 
-**Third-Party Services:**
+**Third-party Services:**
 
 - Google Maps Platform API
 - OneSignal (Push Notifications)
-- Pusher (Real-time database)
+- Pusher (Real-time Data)
 - SendGrid (Email)
-- Sentry (Error tracking)
+- Sentry (Error Tracking)
 
-### ภาคผนวก C: Case Study - Ally Sky Rewards
+### ภาคผนวก C: Case Study – Ally Sky Rewards
 
 **ลูกค้า:** CDC Network (ผู้พัฒนาอสังหาริมทรัพย์)
 
 **ความท้าทาย:** สร้างโปรแกรมสะสมแต้มสำหรับเจ้าของอสังหาริมทรัพย์ในหลายโครงการ
 
-**โซลูชัน:** แอปมือถือพร้อมระบบคะแนนแบบ mission-based และรางวัลจากพาร์ทเนอร์
+**โซลูชัน:** Mobile App พร้อมระบบแต้มแบบ Mission-based และ Reward จากพันธมิตร
 
 **ผลลัพธ์:**
 
-- ผู้ใช้งานที่ active 5,000+ คนภายใน 6 เดือน
-- เพิ่มพาร์ทเนอร์ 30+ สาขา
-- อัตราผู้ใช้งาน active รายเดือน 40%
-- ความพึงพอใจของลูกค้า: การมีส่วนร่วมระยะยาวที่ประสบความสำเร็จ
+- Active Users มากกว่า 5,000 คนภายใน 6 เดือน
+- พันธมิตรเข้าร่วมมากกว่า 30 สาขา
+- Monthly Active Rate ประมาณ 40%
+- ความพึงพอใจของลูกค้าในระดับสูง และการมีส่วนร่วมระยะยาวที่มั่นคง
 
-**ความเกี่ยวข้องกับ The Trophy:** แสดงให้เห็นความเชี่ยวชาญของ DOS ใน:
+**ความเกี่ยวข้องกับ The Trophy:**
 
-- การจัดการ ecosystem หลายพาร์ทเนอร์
-- การปรับสมดุลเศรษฐกิจคะแนน
+Case นี้สะท้อนความสามารถของ DOS ในด้าน:
+
+- การดูแล Ecosystem ที่มีหลายพันธมิตร
+- การ Balance เศรษฐกิจของแต้ม
 - กลยุทธ์การมีส่วนร่วมของผู้ใช้
-- สถาปัตยกรรมแพลตฟอร์มสะสมแต้มที่ปรับขนาดได้
+- การออกแบบสถาปัตยกรรม Loyalty Platform ที่สามารถ Scale ได้
 
 ### ภาคผนวก D: อภิธานศัพท์
 
-**API:** Application Programming Interface - ช่วยให้ระบบซอฟต์แวร์ต่างๆ สื่อสารกันได้
-
-**Geofencing:** ขอบเขตทางภูมิศาสตร์เสมือนที่กระตุ้นการทำงานเมื่ออุปกรณ์เข้า/ออกพื้นที่
-
-**KML (Keyhole Markup Language):** รูปแบบไฟล์สำหรับข้อมูลทางภูมิศาสตร์ ใช้สำหรับกำหนดตำแหน่งที่แม่นยำ
-
-**MVP (Minimum Viable Product):** เวอร์ชันที่เรียบง่ายที่สุดของผลิตภัณฑ์พร้อมฟีเจอร์หลัก
-
-**POC (Proof of Concept):** ต้นแบบเพื่อแสดงให้เห็นความเป็นไปได้
-
-**PDPA:** Personal Data Protection Act (กฎหมายคุ้มครองข้อมูลส่วนบุคคลของไทย)
-
-**QR Code:** Quick Response code - บาร์โค้ด 2 มิติสำหรับสแกนข้อมูลดิจิทัล
-
-**ROI:** Return on Investment - ผลตอบแทนทางการเงินเทียบกับต้นทุน
-
-**SLA:** Service Level Agreement - คำมั่นสัญญาต่อมาตรฐานคุณภาพการบริการ
-
-**Trophy Wallet:** ระบบจัดการคะแนนแบบ integrated พร้อมความสามารถในการโอน
-
-**UAT/SIT:** User Acceptance Testing / System Integration Testing - การทดสอบก่อน launch
-
-**White-Label:** ผลิตภัณฑ์/แพลตฟอร์มที่สามารถเปลี่ยนแบรนด์โดยองค์กรต่างๆ ได้
+- **API (Application Programming Interface):** กลไกให้ระบบซอฟต์แวร์ต่าง ๆ สื่อสารกัน
+- **Geofencing:** ขอบเขตพื้นที่เสมือนที่ Trigger การทำงานเมื่ออุปกรณ์เข้า / ออกพื้นที่
+- **KML (Keyhole Markup Language):** รูปแบบไฟล์สำหรับข้อมูลภูมิศาสตร์ ใช้กำหนด Polygon บนแผนที่
+- **MVP (Minimum Viable Product):** เวอร์ชันของผลิตภัณฑ์ที่มีฟีเจอร์หลักเพียงพอสำหรับใช้งานจริงและรับ Feedback
+- **POC (Proof of Concept):** ต้นแบบสำหรับพิสูจน์ความเป็นไปได้ทางเทคนิคหรือธุรกิจ
+- **PDPA:** พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคลของไทย
+- **QR Code:** บาร์โค้ด 2 มิติที่สแกนได้ด้วยกล้องมือถือ
+- **ROI (Return on Investment):** สัดส่วนผลตอบแทนเทียบกับต้นทุนการลงทุน
+- **SLA (Service Level Agreement):** ข้อตกลงระดับบริการ เช่น Uptime หรือ Response Time
+- **Trophy Wallet:** ระบบจัดการแต้มแบบรวมศูนย์พร้อมความสามารถในการโอน
+- **UAT / SIT:** User Acceptance Testing / System Integration Testing – การทดสอบก่อน Go-live
+- **White-label:** แพลตฟอร์มที่สามารถปรับ Branding ให้เหมาะกับองค์กรต่าง ๆ ได้
 
 ---
 
@@ -1938,11 +1942,8 @@ Digitalmedia Outsource Solution Co., Ltd. (DOS)
 
 **เวอร์ชัน:** 2.1
 
-**อายุการใช้งาน:** 90 วัน นับจากวันที่เสนอ
+**อายุการใช้งานข้อเสนอ:** 90 วันนับจากวันที่ระบุ
 
 **ประกาศความลับ:**
 
 ข้อเสนอนี้และเอกสารที่เกี่ยวข้องทั้งหมดเป็นความลับและเป็นกรรมสิทธิ์ของ DOS ห้ามเปิดเผยต่อบุคคลที่สามโดยไม่ได้รับความยินยอมเป็นลายลักษณ์อักษร
-
----
-
